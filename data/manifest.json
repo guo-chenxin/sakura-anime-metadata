@@ -1,15 +1,21 @@
 {
-  "version": "20261103T052006Z",
-  "generated_at": "2026-11-03T05:20:06.413453+00:00",
+  "version": "20261103T060454Z",
+  "generated_at": "2026-11-03T06:04:54.431515+00:00",
+  "started_at": "2026-11-03T05:59:42.669544+00:00",
   "shard": 0,
   "shards": 1,
-  "ids_total": 100,
-  "collected_ok": 97,
-  "collected_fail": 3,
+  "year_range": [
+    1980,
+    2026
+  ],
+  "subjects": 119,
+  "episodes": 1814,
+  "relations": 0,
+  "fail": 0,
+  "api_calls": 126,
   "rate_limited": 0,
   "files": [
     "episodes.jsonl.gz",
-    "relations.jsonl.gz",
     "subjects.jsonl.gz"
   ]
 }
