@@ -29,10 +29,20 @@ jobs:
       - name: 诊断翻页
         run: python probe_paging.py
 
+      # 始终上传 artifact：即使提交失败也能拿到结果
+      - name: 上传诊断结果
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: paging-report
+          path: probe_ids/
+          retention-days: 14
+
       - name: 提交结果
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add probe_ids/
+          git add -f probe_ids/
           git diff --staged --quiet || git commit -m "probe-paging: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
