@@ -1,0 +1,51 @@
+name: probe-year
+
+# 确定全量枚举策略。
+#
+# 已确认：sort=rank 最多翻到约 450 页（≈1.08 万部），再大就折叠回第 1 页。
+# 要覆盖全量（约 2.4 万部），必须换维度分批。
+#
+# 本 workflow 验证「按年份过滤」是否可行：
+#   bgm.tv/anime/browser?year=YYYY&sort=rank
+# 若每年都能完整翻页，就按年份循环遍历全史。
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: pip install httpx
+
+      - name: 探测年份维度
+        run: python probe_year.py
+
+      - name: 上传结果
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: year-report
+          path: probe_ids/
+          retention-days: 14
+
+      - name: 提交结果
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f probe_ids/
+          git diff --staged --quiet || git commit -m "probe-year: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
