@@ -1,0 +1,47 @@
+name: probe-rank
+
+# 确认 bgm.tv/anime/browser 在 sort=rank 下的翻页上限。
+#
+# 已知 sort=title 只能到第 10 页（第 11 页起是「找不到该页」），
+# 而 sort=rank 第 11 页仍有数据。需要摸清真实上限来决定枚举策略。
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: pip install httpx
+
+      - name: 探测 sort=rank 上限
+        run: python probe_rank.py
+
+      - name: 上传结果
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rank-report
+          path: probe_ids/
+          retention-days: 14
+
+      - name: 提交结果
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f probe_ids/
+          git diff --staged --quiet || git commit -m "probe-rank: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
