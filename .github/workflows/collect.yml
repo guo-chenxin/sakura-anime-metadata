@@ -2,30 +2,41 @@ name: collect
 
 # Bangumi 元数据采集。
 #
-# 首次分两步：
-#   1. 手动跑 workflow，输入 limit=100，验证字段与产出格式
-#   2. 验证通过后，limit=0 跑全量（约 7 小时，可拆分片并行）
+# 采集策略：按季度切片调用 API 搜索（air_date 过滤），
+# 绕过「total 钳制 1000」和「页码折叠」两个限制（详见 collect.py 顶部注释）。
 #
-# 之后每天定时跑增量（按 last_updated 过滤，见 --incremental）。
+# 典型用法：
+#   - 验证现代番数据：year_from=2015 year_to=2026 limit=100
+#   - 全量分片：      year_from=1980 year_to=2026 shard=N shards=8 limit=0
+#   - 只测少量：      limit=50
 
 on:
   workflow_dispatch:
     inputs:
       limit:
-        description: '最多采多少部（0=全量）'
+        description: '最多采多少部（0=不限）'
         required: false
         default: '100'
+      year_from:
+        description: '起始年份'
+        required: false
+        default: '1980'
+      year_to:
+        description: '结束年份'
+        required: false
+        default: '2026'
       shard:
-        description: '分片号（0 起，全量时用）'
+        description: '分片号（0 起）'
         required: false
         default: '0'
       shards:
         description: '总分片数（1=不分片）'
         required: false
         default: '1'
-  # 每日增量：全量跑完后启用
-  # schedule:
-  #   - cron: '0 19 * * *'   # UTC 19:00 = 北京 03:00
+      with_relations:
+        description: '同时采关联作品（额外 1 请求/部）'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -38,7 +49,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # 需要完整历史，方便 gz 文件增量追加后提交
           fetch-depth: 0
 
       - uses: actions/setup-python@v5
@@ -51,18 +61,36 @@ jobs:
       - name: 采集
         env:
           LIMIT: ${{ inputs.limit }}
+          YEAR_FROM: ${{ inputs.year_from }}
+          YEAR_TO: ${{ inputs.year_to }}
           SHARD: ${{ inputs.shard }}
           SHARDS: ${{ inputs.shards }}
+          WITH_REL: ${{ inputs.with_relations }}
         run: |
+          LIMIT="${LIMIT:-100}"
+          YEAR_FROM="${YEAR_FROM:-1980}"
+          YEAR_TO="${YEAR_TO:-2026}"
           SHARD="${SHARD:-0}"
           SHARDS="${SHARDS:-1}"
-          LIMIT="${LIMIT:-100}"
-          echo "shard ${SHARD}/${SHARDS}, limit=${LIMIT}"
-          if [ "$SHARDS" = "1" ]; then
-            python collect.py --limit "$LIMIT"
-          else
-            python collect.py --shard "$SHARD" --shards "$SHARDS" --limit "$LIMIT"
+
+          ARGS="--limit $LIMIT --year-from $YEAR_FROM --year-to $YEAR_TO"
+          if [ "$SHARDS" != "1" ]; then
+            ARGS="$ARGS --shard $SHARD --shards $SHARDS"
           fi
+          if [ "$WITH_REL" = "true" ]; then
+            ARGS="$ARGS --with-relations"
+          fi
+
+          echo "采集参数: $ARGS"
+          python collect.py $ARGS
+
+      - name: 上传产出
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bangumi-data-${{ inputs.shard }}-of-${{ inputs.shards }}
+          path: data/
+          retention-days: 30
 
       - name: 提交结果
         if: always()
@@ -70,13 +98,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -f data/
-          git diff --staged --quiet || git commit -m "collect: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git diff --staged --quiet || git commit -m "collect: y${YEAR_FROM}-${YEAR_TO} s${SHARD}/${SHARDS} $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push || true
-
-      - name: 上传产出
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: bangumi-data
-          path: data/
-          retention-days: 30
