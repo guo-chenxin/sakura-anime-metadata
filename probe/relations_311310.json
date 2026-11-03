@@ -1,0 +1,58 @@
+[
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/f3/f5/343344_XfNSx.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f3/f5/343344_XfNSx.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/f3/f5/343344_XfNSx.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f3/f5/343344_XfNSx.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/f3/f5/343344_XfNSx.jpg"
+    },
+    "name": "海と真珠",
+    "name_cn": "",
+    "relation": "片头曲",
+    "type": 3,
+    "id": 343344
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/7a/8f/351817_T0OIt.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7a/8f/351817_T0OIt.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/7a/8f/351817_T0OIt.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7a/8f/351817_T0OIt.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/7a/8f/351817_T0OIt.jpg"
+    },
+    "name": "TVアニメーション『海賊王女』オリジナルサウンドトラック",
+    "name_cn": "",
+    "relation": "原声集",
+    "type": 3,
+    "id": 351817
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/6f/44/347822_4TzB4.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6f/44/347822_4TzB4.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/6f/44/347822_4TzB4.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6f/44/347822_4TzB4.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/6f/44/347822_4TzB4.jpg"
+    },
+    "name": "サイハテ",
+    "name_cn": "",
+    "relation": "片尾曲",
+    "type": 3,
+    "id": 347822
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/97/363204_RZTOR.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/97/363204_RZTOR.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/3c/97/363204_RZTOR.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3c/97/363204_RZTOR.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/3c/97/363204_RZTOR.jpg"
+    },
+    "name": "太陽の航路",
+    "name_cn": "",
+    "relation": "片尾曲",
+    "type": 3,
+    "id": 363204
+  }
+]

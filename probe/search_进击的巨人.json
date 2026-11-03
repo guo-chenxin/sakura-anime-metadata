@@ -1,0 +1,2816 @@
+{
+  "data": [
+    {
+      "date": "2013-04-06",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/c9/55770_HsJfh.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/c9/55770_HsJfh.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/78/c9/55770_HsJfh.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/c9/55770_HsJfh.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/c9/55770_HsJfh.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/78/c9/55770_HsJfh.jpg",
+      "summary": "悠长的历史之中,人类曾一度因被巨人捕食而崩溃。幸存下来的人们建造了一面巨大的墙壁,防止了巨人的入侵。不过,作为“和平”的代价,人类失去了到墙壁的外面去这一“自由”。主人公艾伦·耶格尔对还没见过的外面的世界抱有兴趣。在他正做着到墙壁的外面去这个梦的时候,毁坏墙壁的大巨人出现了！",
+      "name": "進撃の巨人",
+      "name_cn": "进击的巨人",
+      "tags": [
+        {
+          "name": "进击的巨人",
+          "count": 6759,
+          "total_count": 33428
+        },
+        {
+          "name": "热血",
+          "count": 6002,
+          "total_count": 219230
+        },
+        {
+          "name": "泽野弘之",
+          "count": 3882,
+          "total_count": 27453
+        },
+        {
+          "name": "漫画改",
+          "count": 3421,
+          "total_count": 895311
+        },
+        {
+          "name": "2013年4月",
+          "count": 3234,
+          "total_count": 23713
+        },
+        {
+          "name": "WITSTUDIO",
+          "count": 3029,
+          "total_count": 46852
+        },
+        {
+          "name": "战斗",
+          "count": 2921,
+          "total_count": 491522
+        },
+        {
+          "name": "TV",
+          "count": 2520,
+          "total_count": 1449892
+        },
+        {
+          "name": "Production.I.G",
+          "count": 1841,
+          "total_count": 42906
+        },
+        {
+          "name": "2013",
+          "count": 1478,
+          "total_count": 70224
+        },
+        {
+          "name": "漫改",
+          "count": 1077,
+          "total_count": 370971
+        },
+        {
+          "name": "奇幻",
+          "count": 1003,
+          "total_count": 494085
+        },
+        {
+          "name": "荒木哲郎",
+          "count": 978,
+          "total_count": 7078
+        },
+        {
+          "name": "梶裕贵",
+          "count": 800,
+          "total_count": 3853
+        },
+        {
+          "name": "日本",
+          "count": 477,
+          "total_count": 316191
+        },
+        {
+          "name": "神谷浩史",
+          "count": 287,
+          "total_count": 30126
+        },
+        {
+          "name": "神作",
+          "count": 174,
+          "total_count": 48406
+        },
+        {
+          "name": "ProductionI.G",
+          "count": 143,
+          "total_count": 35647
+        },
+        {
+          "name": "猎奇",
+          "count": 96,
+          "total_count": 37988
+        },
+        {
+          "name": "剧情",
+          "count": 78,
+          "total_count": 16521
+        },
+        {
+          "name": "燃",
+          "count": 77,
+          "total_count": 16232
+        },
+        {
+          "name": "孝哥",
+          "count": 70,
+          "total_count": 124
+        },
+        {
+          "name": "谏山创",
+          "count": 64,
+          "total_count": 667
+        },
+        {
+          "name": "2013年",
+          "count": 56,
+          "total_count": 4019
+        },
+        {
+          "name": "战争",
+          "count": 55,
+          "total_count": 22705
+        },
+        {
+          "name": "2013春",
+          "count": 51,
+          "total_count": 150
+        },
+        {
+          "name": "小林靖子",
+          "count": 48,
+          "total_count": 960
+        },
+        {
+          "name": "悬疑",
+          "count": 43,
+          "total_count": 117173
+        },
+        {
+          "name": "WIT_STUDIO",
+          "count": 40,
+          "total_count": 1067
+        },
+        {
+          "name": "兵长",
+          "count": 38,
+          "total_count": 59
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "进击的巨人"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "自由之翼"
+            },
+            {
+              "v": "進擊的巨人"
+            },
+            {
+              "v": "Attack on Titan"
+            },
+            {
+              "v": "Shingeki no Kyojin"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "25"
+        },
+        {
+          "key": "放送开始",
+          "value": "2013年4月6日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://shingeki.tv"
+        },
+        {
+          "key": "播放电视台",
+          "value": "MBS"
+        },
+        {
+          "key": "其他电视台",
+          "value": "TOKYO MX / FBS / TOS / 北海道テレビ / テレビ愛知 / BS11"
+        },
+        {
+          "key": "播放结束",
+          "value": "2013年9月28日"
+        },
+        {
+          "key": "导演",
+          "value": "荒木哲郎"
+        },
+        {
+          "key": "Copyright",
+          "value": "©諫山創・講談社／「進撃の巨人」製作委員会"
+        },
+        {
+          "key": "设定",
+          "value": "千葉崇明(巨人设计)"
+        },
+        {
+          "key": "视觉概念",
+          "value": "森山洋"
+        },
+        {
+          "key": "製作",
+          "value": "「進撃の巨人」製作委員会(ポニーキャニオン、講談社、Production I.G、電通、ポニーキャニオンエンタープライズ) 古川陽子、鈴木伸育、石川光久、遠藤正樹、細字慶一、竹田靑滋"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "Linked Horizon(Revo) / 日笠陽子、cinema staff"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "Revo / マイクスギヤマ、三島想平"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "Revo / 石塚玲依、cinema staff"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "Revo / 根岸貴幸、cinema staff・亀田誠治"
+        },
+        {
+          "key": "原作",
+          "value": "諫山創（別冊少年マガジン連載／講談社）"
+        },
+        {
+          "key": "人物设定",
+          "value": "浅野恭司"
+        },
+        {
+          "key": "主动画师",
+          "value": "手塚響平、山田歩"
+        },
+        {
+          "key": "企画",
+          "value": "磯山敦、松下卓也、森下勝司、今井陽介、椎名信一、丸山博雄"
+        },
+        {
+          "key": "制片人",
+          "value": "木下哲哉、立石謙介、和田丈嗣、古川慎、永瀬智人、前田俊博"
+        },
+        {
+          "key": "动画制片人",
+          "value": "中武哲也"
+        },
+        {
+          "key": "分镜",
+          "value": "荒木哲郎(1,25)、肥塚正史(2,13,25)、大原実(3,6,11)、別所誠人(4)、江崎慎平(5,22)、立川譲(7)、平田智浩(8,19,21,25)、山本秀世(9)、田中洋之(10)、矢島サコ美(宮地昌幸)(12,14,16,20)、笹嶋啓一(15)、徳土大介(17)、若林信(18)、小松田大全(23)、横山彰利(24)"
+        },
+        {
+          "key": "演出",
+          "value": "荒木哲郎(1,25)、田中洋之(1,10,21,24)、菊池聡延(8)、肥塚正史(2,13,25)、福本潔(3,11,15,19)、別所誠人(4)、江崎慎平(5,8,14,22)、池田智美(6,19)、立川譲(7)、南川達馬(8)、藤原佳幸(9)、いとがしんたろー(12,20,25)、大西景介(14)、室谷靖(16,21)、徳土大介(17,25)、若林信(18)、山田弘和(23)、横山彰利(24)"
+        },
+        {
+          "key": "脚本",
+          "value": "小林靖子(1,2,4,9,14,16,20,24,25)、瀬古浩司(3,5-7,10,11,15,17,18,23)、高木登(8,12,13,19,21,22)"
+        }
+      ],
+      "rating": {
+        "rank": 115,
+        "total": 32140,
+        "count": {
+          "1": 129,
+          "2": 37,
+          "3": 44,
+          "4": 83,
+          "5": 302,
+          "6": 1189,
+          "7": 4712,
+          "8": 13062,
+          "9": 8046,
+          "10": 4536
+        },
+        "score": 8.2
+      },
+      "collection": {
+        "on_hold": 1334,
+        "dropped": 1028,
+        "wish": 3578,
+        "collect": 53856,
+        "doing": 3967
+      },
+      "id": 55770,
+      "eps": 25,
+      "total_episodes": 25,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "漫画改",
+        "战斗"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": "2013-12-09",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/f6/06/80993_6RORo.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f6/06/80993_6RORo.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/f6/06/80993_6RORo.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f6/06/80993_6RORo.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/f6/06/80993_6RORo.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/f6/06/80993_6RORo.jpg",
+      "summary": "单行本第12、13、14卷同捆OAD",
+      "name": "進撃の巨人 OAD",
+      "name_cn": "进击的巨人 OAD",
+      "tags": [
+        {
+          "name": "OAD",
+          "count": 839,
+          "total_count": 35758
+        },
+        {
+          "name": "进击的巨人",
+          "count": 745,
+          "total_count": 33428
+        },
+        {
+          "name": "OVA",
+          "count": 639,
+          "total_count": 372966
+        },
+        {
+          "name": "WITSTUDIO",
+          "count": 610,
+          "total_count": 46852
+        },
+        {
+          "name": "漫画改",
+          "count": 498,
+          "total_count": 895116
+        },
+        {
+          "name": "2013",
+          "count": 417,
+          "total_count": 70211
+        },
+        {
+          "name": "战斗",
+          "count": 369,
+          "total_count": 491498
+        },
+        {
+          "name": "热血",
+          "count": 347,
+          "total_count": 219223
+        },
+        {
+          "name": "2013年12月",
+          "count": 251,
+          "total_count": 1158
+        },
+        {
+          "name": "荒木哲郎",
+          "count": 223,
+          "total_count": 7078
+        },
+        {
+          "name": "漫改",
+          "count": 208,
+          "total_count": 370965
+        },
+        {
+          "name": "奇幻",
+          "count": 106,
+          "total_count": 494075
+        },
+        {
+          "name": "神谷浩史",
+          "count": 88,
+          "total_count": 30126
+        },
+        {
+          "name": "小野大辅",
+          "count": 44,
+          "total_count": 5379
+        },
+        {
+          "name": "泽野弘之",
+          "count": 43,
+          "total_count": 27449
+        },
+        {
+          "name": "日本",
+          "count": 33,
+          "total_count": 316179
+        },
+        {
+          "name": "朴璐美",
+          "count": 28,
+          "total_count": 1398
+        },
+        {
+          "name": "2013年",
+          "count": 19,
+          "total_count": 4019
+        },
+        {
+          "name": "会说话的巨人",
+          "count": 17,
+          "total_count": 17
+        },
+        {
+          "name": "WIT_STUDIO",
+          "count": 17,
+          "total_count": 1067
+        },
+        {
+          "name": "番外",
+          "count": 16,
+          "total_count": 4470
+        },
+        {
+          "name": "搞笑",
+          "count": 12,
+          "total_count": 659241
+        },
+        {
+          "name": "悬疑",
+          "count": 12,
+          "total_count": 117168
+        },
+        {
+          "name": "Production.I.G",
+          "count": 11,
+          "total_count": 42905
+        },
+        {
+          "name": "澤野弘之",
+          "count": 10,
+          "total_count": 3118
+        },
+        {
+          "name": "OVA&OAD",
+          "count": 10,
+          "total_count": 1046
+        },
+        {
+          "name": "剧情",
+          "count": 9,
+          "total_count": 16521
+        },
+        {
+          "name": "進擊",
+          "count": 9,
+          "total_count": 13
+        },
+        {
+          "name": "续作",
+          "count": 8,
+          "total_count": 48376
+        },
+        {
+          "name": "梶裕贵",
+          "count": 8,
+          "total_count": 3853
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "进击的巨人 OAD"
+        },
+        {
+          "key": "话数",
+          "value": "3"
+        },
+        {
+          "key": "发售日",
+          "value": "2013年12月9日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://shingeki.net/#!/page/comics_12ltd"
+        },
+        {
+          "key": "开始",
+          "value": "2013年12月9日"
+        },
+        {
+          "key": "结束",
+          "value": "2014年8月8日"
+        },
+        {
+          "key": "脚本",
+          "value": "瀬古浩司"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "Linked Horizon、日笠陽子"
+        },
+        {
+          "key": "导演",
+          "value": "荒木哲郎"
+        },
+        {
+          "key": "原作",
+          "value": "諫山創"
+        },
+        {
+          "key": "人物设定",
+          "value": "浅野恭司"
+        }
+      ],
+      "rating": {
+        "rank": 1761,
+        "total": 3648,
+        "count": {
+          "1": 12,
+          "2": 3,
+          "3": 4,
+          "4": 18,
+          "5": 139,
+          "6": 603,
+          "7": 1688,
+          "8": 786,
+          "9": 151,
+          "10": 244
+        },
+        "score": 7.2
+      },
+      "collection": {
+        "on_hold": 115,
+        "dropped": 64,
+        "wish": 634,
+        "collect": 7730,
+        "doing": 191
+      },
+      "id": 80993,
+      "eps": 3,
+      "total_episodes": 3,
+      "meta_tags": [
+        "日本",
+        "OVA",
+        "漫画改",
+        "战斗"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": "2014-12-09",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/9b/110049_bV5g9.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/9b/110049_bV5g9.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/8e/9b/110049_bV5g9.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/9b/110049_bV5g9.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/9b/110049_bV5g9.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/8e/9b/110049_bV5g9.jpg",
+      "summary": "外传「进击的巨人 无悔的选择」OAD化决定！\r\n「进击的巨人」单行本第15、16卷同捆OAD。\r\n讲述了利威尔与调查兵团的团长艾尔文两人相遇的故事。",
+      "name": "進撃の巨人 悔いなき選択 OAD",
+      "name_cn": "进击的巨人 无悔的选择 OAD",
+      "tags": [
+        {
+          "name": "OVA",
+          "count": 1343,
+          "total_count": 372944
+        },
+        {
+          "name": "进击的巨人",
+          "count": 1135,
+          "total_count": 33428
+        },
+        {
+          "name": "WITSTUDIO",
+          "count": 881,
+          "total_count": 46850
+        },
+        {
+          "name": "漫画改",
+          "count": 661,
+          "total_count": 895030
+        },
+        {
+          "name": "2014",
+          "count": 548,
+          "total_count": 72544
+        },
+        {
+          "name": "OAD",
+          "count": 545,
+          "total_count": 35755
+        },
+        {
+          "name": "战斗",
+          "count": 536,
+          "total_count": 491493
+        },
+        {
+          "name": "热血",
+          "count": 494,
+          "total_count": 219223
+        },
+        {
+          "name": "荒木哲郎",
+          "count": 342,
+          "total_count": 7078
+        },
+        {
+          "name": "2014年12月",
+          "count": 288,
+          "total_count": 1609
+        },
+        {
+          "name": "泽野弘之",
+          "count": 273,
+          "total_count": 27449
+        },
+        {
+          "name": "漫改",
+          "count": 240,
+          "total_count": 370954
+        },
+        {
+          "name": "兵長",
+          "count": 199,
+          "total_count": 201
+        },
+        {
+          "name": "神谷浩史",
+          "count": 166,
+          "total_count": 30126
+        },
+        {
+          "name": "奇幻",
+          "count": 99,
+          "total_count": 494070
+        },
+        {
+          "name": "无悔的选择",
+          "count": 57,
+          "total_count": 57
+        },
+        {
+          "name": "日本",
+          "count": 47,
+          "total_count": 316167
+        },
+        {
+          "name": "小林靖子",
+          "count": 23,
+          "total_count": 960
+        },
+        {
+          "name": "WIT_STUDIO",
+          "count": 20,
+          "total_count": 1067
+        },
+        {
+          "name": "番外",
+          "count": 19,
+          "total_count": 4470
+        },
+        {
+          "name": "2014年",
+          "count": 18,
+          "total_count": 4122
+        },
+        {
+          "name": "澤野弘之",
+          "count": 13,
+          "total_count": 3118
+        },
+        {
+          "name": "Production.I.G",
+          "count": 11,
+          "total_count": 42905
+        },
+        {
+          "name": "续作",
+          "count": 11,
+          "total_count": 48373
+        },
+        {
+          "name": "剧情",
+          "count": 9,
+          "total_count": 16521
+        },
+        {
+          "name": "兵长",
+          "count": 9,
+          "total_count": 59
+        },
+        {
+          "name": "TV",
+          "count": 8,
+          "total_count": 1449528
+        },
+        {
+          "name": "战争",
+          "count": 8,
+          "total_count": 22704
+        },
+        {
+          "name": "小野大辅",
+          "count": 8,
+          "total_count": 5379
+        },
+        {
+          "name": "OVA&OAD",
+          "count": 8,
+          "total_count": 1046
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "进击的巨人 无悔的选择 OAD"
+        },
+        {
+          "key": "话数",
+          "value": "2"
+        },
+        {
+          "key": "发售日",
+          "value": "2014年12月9日"
+        },
+        {
+          "key": "开始",
+          "value": "2014年12月9日"
+        },
+        {
+          "key": "结束",
+          "value": "2015年4月9日"
+        },
+        {
+          "key": "原案",
+          "value": "foca"
+        },
+        {
+          "key": "剧情监修",
+          "value": "foca"
+        },
+        {
+          "key": "人物设定",
+          "value": "浅野恭司、尾崎智美、肥塚正史"
+        },
+        {
+          "key": "分镜",
+          "value": "肥塚正史、宮地昌幸、荒木哲郎、今井有文"
+        },
+        {
+          "key": "演出",
+          "value": "肥塚正史、いとがしんたろー、宮地昌幸、荒木哲郎"
+        },
+        {
+          "key": "作画监督",
+          "value": "山田歩、今井有文、菊池聡延、富田恵美"
+        },
+        {
+          "key": "视觉概念",
+          "value": "森山洋"
+        },
+        {
+          "key": "道具设计",
+          "value": "肥塚正史"
+        },
+        {
+          "key": "色彩指定",
+          "value": "山中真紀子、水野多恵子"
+        },
+        {
+          "key": "剪辑",
+          "value": "神野学、肥田文"
+        },
+        {
+          "key": "音效",
+          "value": "山谷尚人"
+        }
+      ],
+      "rating": {
+        "rank": 789,
+        "total": 5404,
+        "count": {
+          "1": 14,
+          "2": 3,
+          "3": 4,
+          "4": 20,
+          "5": 111,
+          "6": 535,
+          "7": 1973,
+          "8": 1925,
+          "9": 410,
+          "10": 409
+        },
+        "score": 7.6
+      },
+      "collection": {
+        "on_hold": 147,
+        "dropped": 65,
+        "wish": 834,
+        "collect": 10826,
+        "doing": 149
+      },
+      "id": 110049,
+      "eps": 2,
+      "total_episodes": 2,
+      "meta_tags": [
+        "日本",
+        "OVA",
+        "漫画改",
+        "战斗"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": "2017-04-01",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0e/ca/212293_J3Bv5.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0e/ca/212293_J3Bv5.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/0e/ca/212293_J3Bv5.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0e/ca/212293_J3Bv5.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0e/ca/212293_J3Bv5.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/0e/ca/212293_J3Bv5.jpg",
+      "summary": "自从人类的和平被超大型巨人打破的那天起，艾伦·耶格尔便每天持续着没有尽头的战斗...。因为眼睁睁看著母亲被巨人撕裂，艾伦发誓要将世间的巨人一只不留地杀灭。但是，在严酷的战斗中，艾伦自身也会变成巨人的姿态——为了人类的自由，艾伦施展著巨人的力量，并和女人型的巨人发生了冲突。巨人间的战斗中艾伦最终得以胜出。巨人不断地造访，下一轮的战斗已经宣告开始。对于接连而来的巨人，人类将如何去面对！？",
+      "name": "進撃の巨人 Season 2",
+      "name_cn": "进击的巨人 第二季",
+      "tags": [
+        {
+          "name": "进击的巨人",
+          "count": 4108,
+          "total_count": 33428
+        },
+        {
+          "name": "热血",
+          "count": 3318,
+          "total_count": 219232
+        },
+        {
+          "name": "WITSTUDIO",
+          "count": 3174,
+          "total_count": 46852
+        },
+        {
+          "name": "战斗",
+          "count": 2642,
+          "total_count": 491522
+        },
+        {
+          "name": "漫画改",
+          "count": 2338,
+          "total_count": 895312
+        },
+        {
+          "name": "2017年4月",
+          "count": 2176,
+          "total_count": 26018
+        },
+        {
+          "name": "TV",
+          "count": 2053,
+          "total_count": 1449898
+        },
+        {
+          "name": "泽野弘之",
+          "count": 1853,
+          "total_count": 27453
+        },
+        {
+          "name": "漫改",
+          "count": 1210,
+          "total_count": 370971
+        },
+        {
+          "name": "2017",
+          "count": 1091,
+          "total_count": 72861
+        },
+        {
+          "name": "奇幻",
+          "count": 926,
+          "total_count": 494085
+        },
+        {
+          "name": "荒木哲郎",
+          "count": 683,
+          "total_count": 7078
+        },
+        {
+          "name": "续作",
+          "count": 469,
+          "total_count": 48376
+        },
+        {
+          "name": "ProductionI.G",
+          "count": 463,
+          "total_count": 35647
+        },
+        {
+          "name": "日本",
+          "count": 313,
+          "total_count": 316192
+        },
+        {
+          "name": "肥塚正史",
+          "count": 100,
+          "total_count": 618
+        },
+        {
+          "name": "神作",
+          "count": 92,
+          "total_count": 48406
+        },
+        {
+          "name": "剧情",
+          "count": 67,
+          "total_count": 16521
+        },
+        {
+          "name": "悬疑",
+          "count": 61,
+          "total_count": 117173
+        },
+        {
+          "name": "第2期",
+          "count": 57,
+          "total_count": 149
+        },
+        {
+          "name": "2017年",
+          "count": 50,
+          "total_count": 4429
+        },
+        {
+          "name": "猎奇",
+          "count": 47,
+          "total_count": 37988
+        },
+        {
+          "name": "战争",
+          "count": 41,
+          "total_count": 22705
+        },
+        {
+          "name": "神谷浩史",
+          "count": 41,
+          "total_count": 30126
+        },
+        {
+          "name": "谏山创",
+          "count": 39,
+          "total_count": 667
+        },
+        {
+          "name": "梶裕贵",
+          "count": 37,
+          "total_count": 3853
+        },
+        {
+          "name": "小林靖子",
+          "count": 37,
+          "total_count": 960
+        },
+        {
+          "name": "Production.I.G",
+          "count": 36,
+          "total_count": 42906
+        },
+        {
+          "name": "燃",
+          "count": 34,
+          "total_count": 16232
+        },
+        {
+          "name": "WIT_STUDIO",
+          "count": 31,
+          "total_count": 1067
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "进击的巨人 第二季"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Shingeki no Kyojin Season 2"
+            },
+            {
+              "v": "自由之翼"
+            },
+            {
+              "v": "Attack on Titan Season 2"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "12"
+        },
+        {
+          "key": "放送开始",
+          "value": "2017年4月1日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://shingeki.tv/season2/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "TOKYO MX"
+        },
+        {
+          "key": "其他电视台",
+          "value": "MBS / tvk / テレ玉 / チバテレ / 群馬テレビ / 栃木テレビ / テレビ愛知 / 福岡放送 / 北海道テレビ / 東北放送 / 中国放送 / 山陽放送 / 新潟放送 / 信越放送 / テレビ大分 / BS11"
+        },
+        {
+          "key": "播放结束",
+          "value": "2017年6月17日"
+        },
+        {
+          "key": "导演",
+          "value": "肥塚正史"
+        },
+        {
+          "key": "Copyright",
+          "value": "©諫山創・講談社／「進撃の巨人」製作委員会"
+        },
+        {
+          "key": "原作",
+          "value": "諫山創（別冊少年マガジン連載／講談社）"
+        },
+        {
+          "key": "总作画监督",
+          "value": "浅野恭司、門脇聡、山田歩"
+        },
+        {
+          "key": "美术设计",
+          "value": "谷内優穂"
+        },
+        {
+          "key": "设定",
+          "value": "千葉崇明(巨人设计)"
+        },
+        {
+          "key": "CG 导演",
+          "value": "廣住茂徳"
+        },
+        {
+          "key": "3DCG",
+          "value": "籔田修平(3DCG制片人)"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "Linked Horizon(Revo) /神聖かまってちゃん"
+        },
+        {
+          "key": "企画",
+          "value": "笹木孝弘、松下卓也、中塚進一、今井陽介、佐藤克己、丸山博雄"
+        },
+        {
+          "key": "制片人",
+          "value": "木下哲哉、立石謙介、和田丈嗣、遠藤哲哉、西矢泰之、前田俊博；宣传制片人：小西隆之"
+        },
+        {
+          "key": "动画制片人",
+          "value": "中武哲也"
+        },
+        {
+          "key": "执行制片人",
+          "value": "三宅容介、吉羽治、石川光久、細字慶一"
+        },
+        {
+          "key": "製作",
+          "value": "「進撃の巨人」製作委員会(ポニーキャニオン、講談社、Production I.G、電通、ポニーキャニオンエンタープライズ、毎日放送)"
+        },
+        {
+          "key": "分镜",
+          "value": "肥塚正史(26,27)、牧原亮太郎(28,33,37)、岩瀧智(29)、若野哲也(30)、平尾隆之(30,32,36)、田中洋之(31)、井端義秀(34)、宮地☆昌幸(宮地昌幸)(35)、佐藤雄三(37)"
+        },
+        {
+          "key": "演出",
+          "value": "田中洋之(26,31,36)、井端義秀(27)、居村健治(28)、江副仁美(29)、若野哲也(30)、平尾隆之(32,37)、河井ゆう美(33)、井端義秀(34,37)、居村健治(35)、赤松康裕(36)、菊池聡延(37)、荒木哲郎(37)"
+        },
+        {
+          "key": "脚本",
+          "value": "小林靖子(26,27,30,33,37)、瀬古浩司(28,29,31,32,34-36)"
+        },
+        {
+          "key": "人物设定",
+          "value": "浅野恭司"
+        }
+      ],
+      "rating": {
+        "rank": 158,
+        "total": 22582,
+        "count": {
+          "1": 63,
+          "2": 18,
+          "3": 17,
+          "4": 37,
+          "5": 161,
+          "6": 775,
+          "7": 3864,
+          "8": 10456,
+          "9": 4708,
+          "10": 2483
+        },
+        "score": 8.1
+      },
+      "collection": {
+        "on_hold": 420,
+        "dropped": 284,
+        "wish": 1518,
+        "collect": 41153,
+        "doing": 904
+      },
+      "id": 118335,
+      "eps": 12,
+      "total_episodes": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "漫画改",
+        "战斗"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": "2015-12-16",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/6c/158003_1y1f0.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/6c/158003_1y1f0.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/53/6c/158003_1y1f0.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/53/6c/158003_1y1f0.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/6c/158003_1y1f0.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/53/6c/158003_1y1f0.jpg",
+      "summary": "劇場版「進撃の巨人」後編～自由の翼～初回限定版収録特典，单行本第17卷限定版动画化！",
+      "name": "進撃の巨人 -関西弁版-",
+      "name_cn": "进击的巨人 关西腔版",
+      "tags": [
+        {
+          "name": "OVA",
+          "count": 52,
+          "total_count": 372216
+        },
+        {
+          "name": "WITSTUDIO",
+          "count": 32,
+          "total_count": 46830
+        },
+        {
+          "name": "2015",
+          "count": 24,
+          "total_count": 70342
+        },
+        {
+          "name": "进击的巨人",
+          "count": 24,
+          "total_count": 33401
+        },
+        {
+          "name": "荒木哲郎",
+          "count": 23,
+          "total_count": 7077
+        },
+        {
+          "name": "泽野弘之",
+          "count": 16,
+          "total_count": 27444
+        },
+        {
+          "name": "小林靖子",
+          "count": 11,
+          "total_count": 960
+        },
+        {
+          "name": "2015年12月",
+          "count": 9,
+          "total_count": 737
+        },
+        {
+          "name": "漫画改",
+          "count": 6,
+          "total_count": 893395
+        },
+        {
+          "name": "奇幻",
+          "count": 5,
+          "total_count": 492946
+        },
+        {
+          "name": "WIT_STUDIO",
+          "count": 4,
+          "total_count": 1067
+        },
+        {
+          "name": "日本",
+          "count": 4,
+          "total_count": 314997
+        },
+        {
+          "name": "漫改",
+          "count": 3,
+          "total_count": 370363
+        },
+        {
+          "name": "SP",
+          "count": 3,
+          "total_count": 6062
+        },
+        {
+          "name": "2015年",
+          "count": 3,
+          "total_count": 4467
+        },
+        {
+          "name": "热血",
+          "count": 3,
+          "total_count": 218910
+        },
+        {
+          "name": "澤野弘之",
+          "count": 2,
+          "total_count": 3115
+        },
+        {
+          "name": "マンガ原作",
+          "count": 2,
+          "total_count": 696
+        },
+        {
+          "name": "2015年十月番",
+          "count": 2,
+          "total_count": 141
+        },
+        {
+          "name": "浅野恭司",
+          "count": 2,
+          "total_count": 120
+        },
+        {
+          "name": "动画",
+          "count": 2,
+          "total_count": 35861
+        },
+        {
+          "name": "井上麻里奈",
+          "count": 2,
+          "total_count": 2643
+        },
+        {
+          "name": "石川由依",
+          "count": 2,
+          "total_count": 1133
+        },
+        {
+          "name": "新世纪OVA及剧场",
+          "count": 1,
+          "total_count": 308
+        },
+        {
+          "name": "恐怖",
+          "count": 1,
+          "total_count": 9465
+        },
+        {
+          "name": "搁置",
+          "count": 1,
+          "total_count": 674
+        },
+        {
+          "name": "梶裕貴",
+          "count": 1,
+          "total_count": 2869
+        },
+        {
+          "name": "f.日本",
+          "count": 1,
+          "total_count": 1083
+        },
+        {
+          "name": "j.值得且只值得看一遍(3星)",
+          "count": 1,
+          "total_count": 482
+        },
+        {
+          "name": "OAD",
+          "count": 1,
+          "total_count": 35738
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "进击的巨人 关西腔版"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "发售日",
+          "value": "2015年12月16日"
+        },
+        {
+          "key": "原作",
+          "value": "諫山創"
+        }
+      ],
+      "rating": {
+        "rank": 7751,
+        "total": 104,
+        "count": {
+          "1": 5,
+          "2": 3,
+          "3": 3,
+          "4": 7,
+          "5": 34,
+          "6": 29,
+          "7": 12,
+          "8": 2,
+          "9": 2,
+          "10": 7
+        },
+        "score": 5.6
+      },
+      "collection": {
+        "on_hold": 27,
+        "dropped": 48,
+        "wish": 111,
+        "collect": 200,
+        "doing": 11
+      },
+      "id": 158003,
+      "eps": 1,
+      "total_episodes": 1,
+      "meta_tags": [
+        "日本",
+        "OVA"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": "2018-07-22",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/18/86/217300_WGgTy.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/18/86/217300_WGgTy.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/18/86/217300_WGgTy.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/18/86/217300_WGgTy.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/86/217300_WGgTy.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/18/86/217300_WGgTy.jpg",
+      "summary": "历经百年的时光，将人类与外侧世界隔开的墙壁。在墙壁的另一侧，似乎有前所未见的世界延伸开来。火焰之水、冰之大地、砂之雪原……记载在书中的，尽是些激发少年探究心的文字。在时间流转，墙壁被巨人毁坏的现在，人类正一步步接近世界的真相。巨人的真实身份是什麽？为何墙壁中会埋著巨人？巨人化的艾伦·耶格尔所持有的“坐标”之力是？以及，希斯特莉亚·雷斯究竟知道这个世界的什麽事情？在艾伦等104期兵的加入下，建立新体制的利威尔班。最强最恶的敌人，阻拦在开始行动的他们面前。",
+      "name": "進撃の巨人 Season 3",
+      "name_cn": "进击的巨人 第三季",
+      "tags": [
+        {
+          "name": "进击的巨人",
+          "count": 4018,
+          "total_count": 33428
+        },
+        {
+          "name": "WITSTUDIO",
+          "count": 3165,
+          "total_count": 46852
+        },
+        {
+          "name": "热血",
+          "count": 3162,
+          "total_count": 219230
+        },
+        {
+          "name": "战斗",
+          "count": 2956,
+          "total_count": 491519
+        },
+        {
+          "name": "漫画改",
+          "count": 2201,
+          "total_count": 895300
+        },
+        {
+          "name": "2018年7月",
+          "count": 1965,
+          "total_count": 26542
+        },
+        {
+          "name": "TV",
+          "count": 1902,
+          "total_count": 1449890
+        },
+        {
+          "name": "澤野弘之",
+          "count": 1612,
+          "total_count": 3118
+        },
+        {
+          "name": "漫改",
+          "count": 1096,
+          "total_count": 370970
+        },
+        {
+          "name": "2018",
+          "count": 1041,
+          "total_count": 79493
+        },
+        {
+          "name": "奇幻",
+          "count": 1013,
+          "total_count": 494083
+        },
+        {
+          "name": "荒木哲郎",
+          "count": 478,
+          "total_count": 7078
+        },
+        {
+          "name": "续作",
+          "count": 460,
+          "total_count": 48376
+        },
+        {
+          "name": "日本",
+          "count": 300,
+          "total_count": 316186
+        },
+        {
+          "name": "肥塚正史",
+          "count": 224,
+          "total_count": 618
+        },
+        {
+          "name": "泽野弘之",
+          "count": 133,
+          "total_count": 27453
+        },
+        {
+          "name": "三期",
+          "count": 123,
+          "total_count": 188
+        },
+        {
+          "name": "神作",
+          "count": 113,
+          "total_count": 48406
+        },
+        {
+          "name": "剧情",
+          "count": 72,
+          "total_count": 16521
+        },
+        {
+          "name": "悬疑",
+          "count": 54,
+          "total_count": 117173
+        },
+        {
+          "name": "战争",
+          "count": 51,
+          "total_count": 22705
+        },
+        {
+          "name": "2018年",
+          "count": 42,
+          "total_count": 4563
+        },
+        {
+          "name": "谏山创",
+          "count": 41,
+          "total_count": 667
+        },
+        {
+          "name": "猎奇",
+          "count": 39,
+          "total_count": 37988
+        },
+        {
+          "name": "小林靖子",
+          "count": 34,
+          "total_count": 960
+        },
+        {
+          "name": "神谷浩史",
+          "count": 33,
+          "total_count": 30126
+        },
+        {
+          "name": "WIT_STUDIO",
+          "count": 27,
+          "total_count": 1067
+        },
+        {
+          "name": "肥冢正史",
+          "count": 24,
+          "total_count": 97
+        },
+        {
+          "name": "2018年4月",
+          "count": 21,
+          "total_count": 22123
+        },
+        {
+          "name": "梶裕贵",
+          "count": 19,
+          "total_count": 3853
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "进击的巨人 第三季"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "自由之翼 3"
+            },
+            {
+              "v": "Shingeki no Kyojin Season 3"
+            },
+            {
+              "v": "Attack on Titan Season 3"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "12"
+        },
+        {
+          "key": "放送开始",
+          "value": "2018年7月22日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://shingeki.tv/season3/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "NHK総合テレビ"
+        },
+        {
+          "key": "播放结束",
+          "value": "2018年10月14日"
+        },
+        {
+          "key": "导演",
+          "value": "肥塚正史"
+        },
+        {
+          "key": "Copyright",
+          "value": "©諫山創・講談社／「進撃の巨人」製作委員会"
+        },
+        {
+          "key": "原作",
+          "value": "諫山創（別冊少年マガジン連載／講談社）"
+        },
+        {
+          "key": "人物设定",
+          "value": "浅野恭司"
+        },
+        {
+          "key": "动作作画监督",
+          "value": "今井有文、世良悠子、胡拓磨"
+        },
+        {
+          "key": "设定",
+          "value": "千葉崇明(巨人设计)"
+        },
+        {
+          "key": "CG 导演",
+          "value": "廣住茂徳"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "YOSHIKI feat. HYDE/Linked Horizon(Revo)"
+        },
+        {
+          "key": "企画",
+          "value": "古川陽子、角田真敏、石川光久、今井陽介、上田豐、丸山博雄"
+        },
+        {
+          "key": "制片人",
+          "value": "木下哲哉、立石謙介、清水紀衣、遠藤哲哉、西矢泰之、前田俊博"
+        },
+        {
+          "key": "动画制片人",
+          "value": "中武哲也"
+        },
+        {
+          "key": "分镜",
+          "value": "肥塚正史(38)、平尾隆之(39)、森田宏幸(40,45)、牧原亮太郎(41)、川尻善昭(42)、伊藤智彦(43)、佐藤雄三(44)、樋口真嗣(46)、赤松康裕(46)、宮地☆昌幸(宮地昌幸)(47)、原博(48)、長沼範裕(49)"
+        },
+        {
+          "key": "演出",
+          "value": "田中洋之(38,44)、いとがしんたろー(39,47)、平向智子(40)、桜庭愛子(41,47)、小室未来(42)、河原龍太(43)、安藤貴史(44,49)、浅見松雄(45,48)、東亮祐(45)、赤松康裕(46,49)、安藤健(48)、内田信吾(48)"
+        },
+        {
+          "key": "脚本",
+          "value": "小林靖子(38,39,42,45,48)、瀬古浩司(40,41,43,44,46,47,49)"
+        },
+        {
+          "key": "製作",
+          "value": "「進撃の巨人」製作委員会(ポニーキャニオン、講談社、Production I.G、電通、ポニーキャニオンエンタープライズ、毎日放送)"
+        }
+      ],
+      "rating": {
+        "rank": 88,
+        "total": 21460,
+        "count": {
+          "1": 72,
+          "2": 18,
+          "3": 22,
+          "4": 40,
+          "5": 104,
+          "6": 580,
+          "7": 2817,
+          "8": 9092,
+          "9": 5795,
+          "10": 2920
+        },
+        "score": 8.3
+      },
+      "collection": {
+        "on_hold": 429,
+        "dropped": 268,
+        "wish": 1953,
+        "collect": 39024,
+        "doing": 981
+      },
+      "id": 217300,
+      "eps": 12,
+      "total_episodes": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "漫画改",
+        "战斗"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": "2017-12-08",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/6f/221781_oL8PO.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/6f/221781_oL8PO.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/0c/6f/221781_oL8PO.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/6f/221781_oL8PO.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/6f/221781_oL8PO.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/0c/6f/221781_oL8PO.jpg",
+      "summary": "单行本第24、25、26卷限定版同捆OAD",
+      "name": "進撃の巨人 LOST GIRLS",
+      "name_cn": "进击的巨人 LOST GIRLS",
+      "tags": [
+        {
+          "name": "OVA",
+          "count": 876,
+          "total_count": 372952
+        },
+        {
+          "name": "WITSTUDIO",
+          "count": 638,
+          "total_count": 46851
+        },
+        {
+          "name": "进击的巨人",
+          "count": 585,
+          "total_count": 33428
+        },
+        {
+          "name": "2017",
+          "count": 450,
+          "total_count": 72851
+        },
+        {
+          "name": "漫画改",
+          "count": 406,
+          "total_count": 895079
+        },
+        {
+          "name": "战斗",
+          "count": 404,
+          "total_count": 491497
+        },
+        {
+          "name": "热血",
+          "count": 342,
+          "total_count": 219223
+        },
+        {
+          "name": "OAD",
+          "count": 275,
+          "total_count": 35757
+        },
+        {
+          "name": "漫改",
+          "count": 246,
+          "total_count": 370956
+        },
+        {
+          "name": "奇幻",
+          "count": 236,
+          "total_count": 494071
+        },
+        {
+          "name": "2017年12月",
+          "count": 137,
+          "total_count": 1124
+        },
+        {
+          "name": "悬疑",
+          "count": 104,
+          "total_count": 117167
+        },
+        {
+          "name": "泽野弘之",
+          "count": 95,
+          "total_count": 27449
+        },
+        {
+          "name": "肥塚正史",
+          "count": 65,
+          "total_count": 618
+        },
+        {
+          "name": "日本",
+          "count": 36,
+          "total_count": 316172
+        },
+        {
+          "name": "2017年",
+          "count": 17,
+          "total_count": 4429
+        },
+        {
+          "name": "WIT_STUDIO",
+          "count": 16,
+          "total_count": 1067
+        },
+        {
+          "name": "番外",
+          "count": 14,
+          "total_count": 4470
+        },
+        {
+          "name": "剧情",
+          "count": 12,
+          "total_count": 16521
+        },
+        {
+          "name": "濑古浩司",
+          "count": 10,
+          "total_count": 1648
+        },
+        {
+          "name": "肥冢正史",
+          "count": 8,
+          "total_count": 97
+        },
+        {
+          "name": "2017年10月",
+          "count": 6,
+          "total_count": 22950
+        },
+        {
+          "name": "澤野弘之",
+          "count": 6,
+          "total_count": 3118
+        },
+        {
+          "name": "OVA&OAD",
+          "count": 6,
+          "total_count": 1046
+        },
+        {
+          "name": "荒木哲郎",
+          "count": 6,
+          "total_count": 7078
+        },
+        {
+          "name": "TV",
+          "count": 6,
+          "total_count": 1449603
+        },
+        {
+          "name": "瀬古浩司",
+          "count": 6,
+          "total_count": 1054
+        },
+        {
+          "name": "战争",
+          "count": 6,
+          "total_count": 22704
+        },
+        {
+          "name": "续作",
+          "count": 5,
+          "total_count": 48375
+        },
+        {
+          "name": "進撃の巨人",
+          "count": 5,
+          "total_count": 94
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "进击的巨人 LOST GIRLS"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Wall Sina,Goodbye"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "3"
+        },
+        {
+          "key": "发售日",
+          "value": "2017年12月8日"
+        },
+        {
+          "key": "开始",
+          "value": "2017年12月8日"
+        },
+        {
+          "key": "结束",
+          "value": "2018年8月9日"
+        },
+        {
+          "key": "原作",
+          "value": "諫山創"
+        },
+        {
+          "key": "导演",
+          "value": "肥塚正史"
+        },
+        {
+          "key": "人物设定",
+          "value": "浅野恭司"
+        },
+        {
+          "key": "原案",
+          "value": "瀬古浩司（小説）"
+        },
+        {
+          "key": "监修",
+          "value": "荒木哲郎（脚本監修）"
+        }
+      ],
+      "rating": {
+        "rank": 1371,
+        "total": 3199,
+        "count": {
+          "1": 11,
+          "2": 1,
+          "3": 3,
+          "4": 13,
+          "5": 79,
+          "6": 468,
+          "7": 1418,
+          "8": 841,
+          "9": 139,
+          "10": 226
+        },
+        "score": 7.3
+      },
+      "collection": {
+        "on_hold": 103,
+        "dropped": 61,
+        "wish": 573,
+        "collect": 6819,
+        "doing": 134
+      },
+      "id": 221781,
+      "eps": 3,
+      "total_episodes": 3,
+      "meta_tags": [
+        "日本",
+        "奇幻",
+        "OVA",
+        "漫画改",
+        "战斗"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": "2019-04-28",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/56/263750_56TBs.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/56/263750_56TBs.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/c2/56/263750_56TBs.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/56/263750_56TBs.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/56/263750_56TBs.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/c2/56/263750_56TBs.jpg",
+      "summary": "历经百年的时光，将人类与外侧世界隔开的墙壁。在墙壁的另一侧，似乎有前所未见的世界延伸开来。火焰之水、冰之大地、砂之雪原……记载在书中的，尽是些激发少年探究心的文字。在时间流转，墙壁被巨人毁坏的现在，人类正一步步接近世界的真相。巨人的真实身份是什麽？为何墙壁中会埋著巨人？巨人化的艾伦·耶格尔所持有的“坐标”之力是？以及，希斯特莉亚·雷斯究竟知道这个世界的什麽事情？在艾伦等104期兵的加入下，建立新体制的利威尔班。最强最恶的敌人，阻拦在开始行动的他们面前。",
+      "name": "進撃の巨人 Season 3 Part.2",
+      "name_cn": "进击的巨人 第三季 Part.2",
+      "tags": [
+        {
+          "name": "进击的巨人",
+          "count": 5105,
+          "total_count": 33428
+        },
+        {
+          "name": "WITSTUDIO",
+          "count": 3683,
+          "total_count": 46852
+        },
+        {
+          "name": "热血",
+          "count": 3638,
+          "total_count": 219237
+        },
+        {
+          "name": "战斗",
+          "count": 3076,
+          "total_count": 491534
+        },
+        {
+          "name": "漫画改",
+          "count": 2495,
+          "total_count": 895342
+        },
+        {
+          "name": "2019年4月",
+          "count": 2148,
+          "total_count": 17346
+        },
+        {
+          "name": "泽野弘之",
+          "count": 2128,
+          "total_count": 27453
+        },
+        {
+          "name": "TV",
+          "count": 1996,
+          "total_count": 1449927
+        },
+        {
+          "name": "漫改",
+          "count": 1316,
+          "total_count": 370982
+        },
+        {
+          "name": "神作",
+          "count": 1201,
+          "total_count": 48407
+        },
+        {
+          "name": "2019",
+          "count": 997,
+          "total_count": 78094
+        },
+        {
+          "name": "荒木哲郎",
+          "count": 806,
+          "total_count": 7078
+        },
+        {
+          "name": "奇幻",
+          "count": 694,
+          "total_count": 494105
+        },
+        {
+          "name": "续作",
+          "count": 454,
+          "total_count": 48379
+        },
+        {
+          "name": "日本",
+          "count": 332,
+          "total_count": 316201
+        },
+        {
+          "name": "神谷浩史",
+          "count": 199,
+          "total_count": 30126
+        },
+        {
+          "name": "梶裕贵",
+          "count": 108,
+          "total_count": 3853
+        },
+        {
+          "name": "肥塚正史",
+          "count": 102,
+          "total_count": 618
+        },
+        {
+          "name": "战争",
+          "count": 84,
+          "total_count": 22705
+        },
+        {
+          "name": "剧情",
+          "count": 77,
+          "total_count": 16521
+        },
+        {
+          "name": "谏山创",
+          "count": 58,
+          "total_count": 667
+        },
+        {
+          "name": "悬疑",
+          "count": 53,
+          "total_count": 117174
+        },
+        {
+          "name": "2019年",
+          "count": 42,
+          "total_count": 3712
+        },
+        {
+          "name": "小林靖子",
+          "count": 33,
+          "total_count": 960
+        },
+        {
+          "name": "WIT_STUDIO",
+          "count": 28,
+          "total_count": 1067
+        },
+        {
+          "name": "肥冢正史",
+          "count": 27,
+          "total_count": 97
+        },
+        {
+          "name": "猎奇",
+          "count": 26,
+          "total_count": 37988
+        },
+        {
+          "name": "燃",
+          "count": 24,
+          "total_count": 16232
+        },
+        {
+          "name": "澤野弘之",
+          "count": 22,
+          "total_count": 3119
+        },
+        {
+          "name": "諫山創",
+          "count": 16,
+          "total_count": 136
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "进击的巨人 第三季 Part.2"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "自由之翼 3 Part.2"
+            },
+            {
+              "v": "Attack on Titan Season 3 Part.2"
+            },
+            {
+              "v": "Shingeki no Kyojin Season 3 Part.2"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "10"
+        },
+        {
+          "key": "放送开始",
+          "value": "2019年4月28日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://shingeki.tv/season3/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "NHK総合テレビ"
+        },
+        {
+          "key": "播放结束",
+          "value": "2019年6月30日"
+        },
+        {
+          "key": "导演",
+          "value": "肥塚正史"
+        },
+        {
+          "key": "Copyright",
+          "value": "©諫山創・講談社／「進撃の巨人」製作委員会"
+        },
+        {
+          "key": "原作",
+          "value": "諫山創（別冊少年マガジン連載／講談社）"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "Linked Horizon(Revo) /cinema staff"
+        },
+        {
+          "key": "企画",
+          "value": "笹木孝弘、五十嵐秀幸、森下勝司、遠藤哲哉、佐藤克己、丸山博雄"
+        },
+        {
+          "key": "执行制片人",
+          "value": "古川陽子、角田真敏、石川光久、藤田浩幸、上田豐、丸山博雄"
+        },
+        {
+          "key": "制片人",
+          "value": "木下哲哉、立石謙介、和田丈嗣、清田創也、西矢泰之、前田俊博；宣传制片人：小西隆之"
+        },
+        {
+          "key": "动画制片人",
+          "value": "中武哲也"
+        },
+        {
+          "key": "製作",
+          "value": "「進撃の巨人」製作委員会(ポニーキャニオン、講談社、Production I.G、電通、ポニーキャニオンエンタープライズ、毎日放送)"
+        },
+        {
+          "key": "分镜",
+          "value": "宮地昌幸(50,56)、横山彰利(51,54)、マササ・伊藤(52)、村田和也(53)、佐藤雄三(55)、金森陽子(57)、赤松康裕(58)、小松田大全(59)"
+        },
+        {
+          "key": "演出",
+          "value": "田中洋之(50,55-57,59)、手島舞(50,52,56)、横山彰利(51,54)、赤松康裕(51,58)、内田信吾(52)、高橋謙仁(52)、江副仁美(52,56)、若野哲也(53,59)、金森陽子(54,57)、荒木哲郎(54,59)、いとがしんたろー(55,59)"
+        },
+        {
+          "key": "脚本",
+          "value": "小林靖子(50,56,59)、瀬古浩司(51-55,57,58)"
+        },
+        {
+          "key": "人物设定",
+          "value": "浅野恭司"
+        }
+      ],
+      "rating": {
+        "rank": 15,
+        "total": 24032,
+        "count": {
+          "1": 147,
+          "2": 27,
+          "3": 35,
+          "4": 49,
+          "5": 131,
+          "6": 465,
+          "7": 1641,
+          "8": 6058,
+          "9": 8814,
+          "10": 6665
+        },
+        "score": 8.7
+      },
+      "collection": {
+        "on_hold": 407,
+        "dropped": 334,
+        "wish": 2156,
+        "collect": 41849,
+        "doing": 958
+      },
+      "id": 263750,
+      "eps": 10,
+      "total_episodes": 10,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "漫画改",
+        "战斗"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": "2020-12-06",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/88/6b/285666_bS9Sw.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/88/6b/285666_bS9Sw.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/88/6b/285666_bS9Sw.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/88/6b/285666_bS9Sw.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/88/6b/285666_bS9Sw.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/88/6b/285666_bS9Sw.jpg",
+      "summary": "「その巨人はいついかなる時代においても、自由を求めて進み続けた。自由のために戦った。名は――進撃の巨人」\r\nついに明かされた壁の外の真実と、巨人の正体。ここに至るまで、人類はあまりにも大きすぎる犠牲を払っていた。それでもなお、彼らは進み続けなければならない。壁の外にある海を、自由の象徴を、まだその目で見ていないのだから。\r\n――やがて時は流れ、一度目の「超大型巨人」襲来から6年。調査兵団はウォール・マリア外への壁外調査を敢行する。\r\n「壁の向こうには海があって、海の向こうには自由がある。ずっとそう信じてた……」\r\n壁の中の人類が、初めて辿り着いた海。果てしなく広がる水平線の先にあるのは自由か、それとも……？\r\nエレン・イェーガーの物語は、新たな局面を迎える。",
+      "name": "進撃の巨人 The Final Season",
+      "name_cn": "进击的巨人 最终季",
+      "tags": [
+        {
+          "name": "MAPPA",
+          "count": 3253,
+          "total_count": 69225
+        },
+        {
+          "name": "进击的巨人",
+          "count": 3023,
+          "total_count": 33428
+        },
+        {
+          "name": "战斗",
+          "count": 2085,
+          "total_count": 491536
+        },
+        {
+          "name": "热血",
+          "count": 1939,
+          "total_count": 219237
+        },
+        {
+          "name": "TV",
+          "count": 1832,
+          "total_count": 1449939
+        },
+        {
+          "name": "漫画改",
+          "count": 1495,
+          "total_count": 895344
+        },
+        {
+          "name": "漫改",
+          "count": 1462,
+          "total_count": 370983
+        },
+        {
+          "name": "2020年10月",
+          "count": 1451,
+          "total_count": 25742
+        },
+        {
+          "name": "2020",
+          "count": 994,
+          "total_count": 65212
+        },
+        {
+          "name": "奇幻",
+          "count": 591,
+          "total_count": 494110
+        },
+        {
+          "name": "战争",
+          "count": 466,
+          "total_count": 22705
+        },
+        {
+          "name": "人类近现代史的反思",
+          "count": 343,
+          "total_count": 359
+        },
+        {
+          "name": "日本",
+          "count": 250,
+          "total_count": 316202
+        },
+        {
+          "name": "漫改历史浓墨重彩的一笔",
+          "count": 213,
+          "total_count": 227
+        },
+        {
+          "name": "林祐一郎",
+          "count": 161,
+          "total_count": 1708
+        },
+        {
+          "name": "泽野弘之",
+          "count": 85,
+          "total_count": 27453
+        },
+        {
+          "name": "续作",
+          "count": 79,
+          "total_count": 48379
+        },
+        {
+          "name": "神作",
+          "count": 78,
+          "total_count": 48407
+        },
+        {
+          "name": "WITSTUDIO",
+          "count": 66,
+          "total_count": 46852
+        },
+        {
+          "name": "剧情",
+          "count": 44,
+          "total_count": 16521
+        },
+        {
+          "name": "2020年",
+          "count": 36,
+          "total_count": 3118
+        },
+        {
+          "name": "2020年12月",
+          "count": 34,
+          "total_count": 229
+        },
+        {
+          "name": "反战",
+          "count": 32,
+          "total_count": 1273
+        },
+        {
+          "name": "2021年1月",
+          "count": 30,
+          "total_count": 32032
+        },
+        {
+          "name": "悬疑",
+          "count": 25,
+          "total_count": 117174
+        },
+        {
+          "name": "谏山创",
+          "count": 25,
+          "total_count": 667
+        },
+        {
+          "name": "瀬古浩司",
+          "count": 23,
+          "total_count": 1054
+        },
+        {
+          "name": "2021",
+          "count": 21,
+          "total_count": 80574
+        },
+        {
+          "name": "猎奇",
+          "count": 18,
+          "total_count": 37988
+        },
+        {
+          "name": "濑古浩司",
+          "count": 17,
+          "total_count": 1648
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "进击的巨人 最终季"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "进击的巨人 第四季"
+            },
+            {
+              "v": "Attack on Titan Final Season"
+            },
+            {
+              "v": "Shingeki no Kyojin: The Final Season"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "16"
+        },
+        {
+          "key": "放送开始",
+          "value": "2020年12月6日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://shingeki.tv/final/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "NHK総合テレビ"
+        },
+        {
+          "key": "播放结束",
+          "value": "2021年3月28日"
+        },
+        {
+          "key": "导演",
+          "value": "林祐一郎"
+        },
+        {
+          "key": "Copyright",
+          "value": "©諫山創・講談社／「進撃の巨人」The Final Season製作委員会"
+        },
+        {
+          "key": "原作",
+          "value": "諫山創（別冊少年マガジン連載／講談社）"
+        },
+        {
+          "key": "系列构成",
+          "value": "瀬古浩司"
+        },
+        {
+          "key": "人物设定",
+          "value": "岸友洋"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "神聖かまってちゃん、安藤裕子"
+        },
+        {
+          "key": "主演出",
+          "value": "宍戸淳"
+        },
+        {
+          "key": "作画监督",
+          "value": "王維慶、岸香織"
+        },
+        {
+          "key": "制片人",
+          "value": "木下哲哉、立石謙介、伊藤整、木村誠、遠藤哲哉、前田俊博、西矢泰之；宣传制片人：片山裕介"
+        },
+        {
+          "key": "动画制片人",
+          "value": "松永理人"
+        },
+        {
+          "key": "执行制片人",
+          "value": "古川陽子、角田真敏、石川光久、大塚学、藤田浩幸、丸山博雄、上田豐"
+        },
+        {
+          "key": "製作",
+          "value": "「進撃の巨人」 The Final Season 製作委員会（ポニーキャニオン、講談社、Production I.G、MAPPA、電通、毎日放送、ポニーキャニオンエンタープライズ）"
+        },
+        {
+          "key": "企画",
+          "value": "笹木孝弘、金子義雄、藤咲淳一、大塚学、遠藤哲哉、丸山博雄、佐藤克己"
+        },
+        {
+          "key": "分镜",
+          "value": "宍戸淳(60,65-67)、徳土大介(61)、西山壮海(62,68)、林祐一郎(62-63,66,68-69,71-72 / NC: 65,70,74)、西本由紀夫(63)、大塩万次郎(64)、金井次郎(67)、新留俊哉(69)、大峰輝之(70)、オグロアキラ[小黒晃](71)、佐藤雄三(72)、片山一良(73)、宮地☆昌幸[宮地昌幸](74)、伊藤祐毅(75)"
+        },
+        {
+          "key": "演出",
+          "value": "牧田佳織(60,69)、徳土大介(61)、青島昂希(62,68)、西山壮海(62)、茉田哲明(63)、大峰輝之(64,75)、曹毅(65)、金子貴弘(65)、宍戸淳(66,73,75)、髙橋英俊(67)、杨烈骏(67)、山本陽介(67)、大峰輝之(70)、森邦宏(71)、下司泰弘(72)、宇田鋼之介(72)、山﨑みつえ(74-75)、平向智子(75)、林祐一郎(75)"
+        }
+      ],
+      "rating": {
+        "rank": 483,
+        "total": 15868,
+        "count": {
+          "1": 134,
+          "2": 46,
+          "3": 48,
+          "4": 132,
+          "5": 324,
+          "6": 1193,
+          "7": 4230,
+          "8": 5982,
+          "9": 2220,
+          "10": 1559
+        },
+        "score": 7.7
+      },
+      "collection": {
+        "on_hold": 744,
+        "dropped": 473,
+        "wish": 2147,
+        "collect": 28603,
+        "doing": 1639
+      },
+      "id": 285666,
+      "eps": 16,
+      "total_episodes": 16,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "漫画改",
+        "战斗"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": "2020-07-17",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/af/9b/310656_Lr7hk.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/af/9b/310656_Lr7hk.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/af/9b/310656_Lr7hk.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/af/9b/310656_Lr7hk.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/af/9b/310656_Lr7hk.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/af/9b/310656_Lr7hk.jpg",
+      "summary": "全世界シリーズ累計発行部数1億部突破の大人気作品\r\n「進撃の巨人」の劇場版アニメ最新作が制作決定！\r\n今回はSeason1～３まで全59話が放送されたTVアニメを１本の映画として再編集。",
+      "name": "「進撃の巨人」〜クロニクル〜",
+      "name_cn": "进击的巨人 编年史",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 171,
+          "total_count": 739901
+        },
+        {
+          "name": "总集篇",
+          "count": 146,
+          "total_count": 19282
+        },
+        {
+          "name": "进击的巨人",
+          "count": 114,
+          "total_count": 33428
+        },
+        {
+          "name": "2020",
+          "count": 88,
+          "total_count": 65209
+        },
+        {
+          "name": "WITSTUDIO",
+          "count": 82,
+          "total_count": 46852
+        },
+        {
+          "name": "漫画改",
+          "count": 67,
+          "total_count": 895240
+        },
+        {
+          "name": "2020年7月",
+          "count": 47,
+          "total_count": 12907
+        },
+        {
+          "name": "战斗",
+          "count": 45,
+          "total_count": 491517
+        },
+        {
+          "name": "热血",
+          "count": 34,
+          "total_count": 219230
+        },
+        {
+          "name": "漫改",
+          "count": 26,
+          "total_count": 370967
+        },
+        {
+          "name": "荒木哲郎",
+          "count": 14,
+          "total_count": 7078
+        },
+        {
+          "name": "奇幻",
+          "count": 10,
+          "total_count": 494080
+        },
+        {
+          "name": "2020年",
+          "count": 6,
+          "total_count": 3117
+        },
+        {
+          "name": "石川由依",
+          "count": 5,
+          "total_count": 1133
+        },
+        {
+          "name": "日本",
+          "count": 4,
+          "total_count": 316185
+        },
+        {
+          "name": "アニメ映画",
+          "count": 2,
+          "total_count": 2882
+        },
+        {
+          "name": "日本动画",
+          "count": 2,
+          "total_count": 36218
+        },
+        {
+          "name": "战争",
+          "count": 2,
+          "total_count": 22705
+        },
+        {
+          "name": "進撃の巨人",
+          "count": 2,
+          "total_count": 94
+        },
+        {
+          "name": "泽野弘之",
+          "count": 2,
+          "total_count": 27453
+        },
+        {
+          "name": "剧情",
+          "count": 2,
+          "total_count": 16521
+        },
+        {
+          "name": "澤野弘之",
+          "count": 2,
+          "total_count": 3118
+        },
+        {
+          "name": "日漫",
+          "count": 2,
+          "total_count": 8400
+        },
+        {
+          "name": "undefined",
+          "count": 2,
+          "total_count": 3511
+        },
+        {
+          "name": "井上麻里奈",
+          "count": 2,
+          "total_count": 2643
+        },
+        {
+          "name": "动画长片",
+          "count": 1,
+          "total_count": 290
+        },
+        {
+          "name": "小林靖子",
+          "count": 1,
+          "total_count": 960
+        },
+        {
+          "name": "2013年12月",
+          "count": 1,
+          "total_count": 1158
+        },
+        {
+          "name": "真·补完计划",
+          "count": 1,
+          "total_count": 96
+        },
+        {
+          "name": "movie",
+          "count": 1,
+          "total_count": 1365
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "进击的巨人 编年史"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "進撃の巨人 〜CHRONICLE〜"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "2020年7月17日"
+        },
+        {
+          "key": "片长",
+          "value": "2小时"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://shingeki.tv/movie_chronicle/"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "rating": {
+        "rank": 3867,
+        "total": 502,
+        "count": {
+          "1": 11,
+          "2": 4,
+          "3": 2,
+          "4": 8,
+          "5": 45,
+          "6": 140,
+          "7": 177,
+          "8": 64,
+          "9": 13,
+          "10": 38
+        },
+        "score": 6.7
+      },
+      "collection": {
+        "on_hold": 44,
+        "dropped": 71,
+        "wish": 254,
+        "collect": 1261,
+        "doing": 35
+      },
+      "id": 310656,
+      "eps": 1,
+      "total_episodes": 1,
+      "meta_tags": [
+        "剧场版",
+        "漫画改"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    }
+  ],
+  "total": 32,
+  "limit": 10,
+  "offset": 0
+}

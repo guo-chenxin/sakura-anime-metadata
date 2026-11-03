@@ -1,0 +1,3970 @@
+[
+  {
+    "weekday": {
+      "en": "Mon",
+      "cn": "星期一",
+      "ja": "月耀日",
+      "id": 1
+    },
+    "items": [
+      {
+        "id": 390200,
+        "url": "http://bgm.tv/subject/390200",
+        "type": 2,
+        "name": "列女战纪：女娲石记",
+        "name_cn": "列女战纪：女娲石记",
+        "summary": "",
+        "air_date": "2026-10-05",
+        "air_weekday": 1,
+        "rating": {
+          "total": 8,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 2,
+            "5": 2,
+            "4": 1,
+            "3": 0,
+            "2": 0,
+            "1": 3
+          },
+          "score": 3.6
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/1c/b4/390200_Z9jPp.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/1c/b4/390200_Z9jPp.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/1c/b4/390200_Z9jPp.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/1c/b4/390200_Z9jPp.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/1c/b4/390200_Z9jPp.jpg"
+        },
+        "collection": {
+          "doing": 6
+        }
+      },
+      {
+        "id": 418229,
+        "url": "http://bgm.tv/subject/418229",
+        "type": 2,
+        "name": "魔法少女育成計画 restart",
+        "name_cn": "魔法少女育成计划 restart",
+        "summary": "",
+        "air_date": "2026-10-05",
+        "air_weekday": 1,
+        "rating": {
+          "total": 150,
+          "count": {
+            "10": 5,
+            "9": 3,
+            "8": 15,
+            "7": 35,
+            "6": 49,
+            "5": 28,
+            "4": 9,
+            "3": 3,
+            "2": 1,
+            "1": 2
+          },
+          "score": 6.2
+        },
+        "rank": 6077,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/52/fe/418229_gcFij.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/52/fe/418229_gcFij.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/52/fe/418229_gcFij.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/52/fe/418229_gcFij.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/52/fe/418229_gcFij.jpg"
+        },
+        "collection": {
+          "doing": 1163
+        }
+      },
+      {
+        "id": 498559,
+        "url": "http://bgm.tv/subject/498559",
+        "type": 2,
+        "name": "Electro Andes",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-05",
+        "air_weekday": 1,
+        "images": null,
+        "collection": {
+          "doing": 1
+        }
+      },
+      {
+        "id": 511936,
+        "url": "http://bgm.tv/subject/511936",
+        "type": 2,
+        "name": "ロメリア戦記",
+        "name_cn": "罗梅莉亚战记",
+        "summary": "",
+        "air_date": "2026-10-05",
+        "air_weekday": 1,
+        "rating": {
+          "total": 387,
+          "count": {
+            "10": 5,
+            "9": 4,
+            "8": 34,
+            "7": 164,
+            "6": 125,
+            "5": 40,
+            "4": 7,
+            "3": 4,
+            "2": 1,
+            "1": 3
+          },
+          "score": 6.5
+        },
+        "rank": 5252,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/dc/f7/511936_XDkXO.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/dc/f7/511936_XDkXO.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/dc/f7/511936_XDkXO.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/dc/f7/511936_XDkXO.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/dc/f7/511936_XDkXO.jpg"
+        },
+        "collection": {
+          "doing": 2109
+        }
+      },
+      {
+        "id": 614640,
+        "url": "http://bgm.tv/subject/614640",
+        "type": 2,
+        "name": "PSYREN -サイレン-",
+        "name_cn": "PSYREN -决战游戏-",
+        "summary": "",
+        "air_date": "2026-10-05",
+        "air_weekday": 1,
+        "rating": {
+          "total": 62,
+          "count": {
+            "10": 1,
+            "9": 1,
+            "8": 1,
+            "7": 2,
+            "6": 16,
+            "5": 15,
+            "4": 13,
+            "3": 9,
+            "2": 0,
+            "1": 4
+          },
+          "score": 4.8
+        },
+        "rank": 8758,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/1b/1e/614640_ESMLl.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/1b/1e/614640_ESMLl.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/1b/1e/614640_ESMLl.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/1b/1e/614640_ESMLl.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/1b/1e/614640_ESMLl.jpg"
+        },
+        "collection": {
+          "doing": 300
+        }
+      },
+      {
+        "id": 624923,
+        "url": "http://bgm.tv/subject/624923",
+        "type": 2,
+        "name": "どうも、好きな人に惚れ薬を依頼された魔女です。",
+        "name_cn": "你好，我是受心上人所托来做恋爱药的魔女。",
+        "summary": "",
+        "air_date": "2026-10-05",
+        "air_weekday": 1,
+        "rating": {
+          "total": 376,
+          "count": {
+            "10": 7,
+            "9": 4,
+            "8": 31,
+            "7": 138,
+            "6": 144,
+            "5": 40,
+            "4": 9,
+            "3": 1,
+            "2": 1,
+            "1": 1
+          },
+          "score": 6.5
+        },
+        "rank": 5310,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/73/99/624923_4u99L.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/73/99/624923_4u99L.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/73/99/624923_4u99L.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/73/99/624923_4u99L.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/73/99/624923_4u99L.jpg"
+        },
+        "collection": {
+          "doing": 2167
+        }
+      },
+      {
+        "id": 634587,
+        "url": "http://bgm.tv/subject/634587",
+        "type": 2,
+        "name": "転生ゴブリンだけど質問ある？",
+        "name_cn": "转生哥布林有问题吗？",
+        "summary": "",
+        "air_date": "2026-10-05",
+        "air_weekday": 1,
+        "rating": {
+          "total": 131,
+          "count": {
+            "10": 2,
+            "9": 1,
+            "8": 0,
+            "7": 10,
+            "6": 42,
+            "5": 36,
+            "4": 23,
+            "3": 9,
+            "2": 1,
+            "1": 7
+          },
+          "score": 5
+        },
+        "rank": 9258,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/05/25/634587_8k4k7.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/05/25/634587_8k4k7.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/05/25/634587_8k4k7.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/05/25/634587_8k4k7.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/05/25/634587_8k4k7.jpg"
+        },
+        "collection": {
+          "doing": 887
+        }
+      },
+      {
+        "id": 688204,
+        "url": "http://bgm.tv/subject/688204",
+        "type": 2,
+        "name": "ゆうさんち！from 遊ハち",
+        "name_cn": "欢迎光临游之家！from Yu-hachi",
+        "summary": "",
+        "air_date": "2026-10-05",
+        "air_weekday": 1,
+        "rating": {
+          "total": 1,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 0,
+            "5": 0,
+            "4": 0,
+            "3": 1,
+            "2": 0,
+            "1": 0
+          },
+          "score": 3
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/0b/d4/688204_mSshl.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/0b/d4/688204_mSshl.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/0b/d4/688204_mSshl.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/0b/d4/688204_mSshl.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/0b/d4/688204_mSshl.jpg"
+        },
+        "collection": {
+          "doing": 10
+        }
+      },
+      {
+        "id": 707667,
+        "url": "http://bgm.tv/subject/707667",
+        "type": 2,
+        "name": "猫猫のひとりごと 第3期",
+        "name_cn": "猫猫的呢喃 第三季",
+        "summary": "",
+        "air_date": "2026-10-05",
+        "air_weekday": 1,
+        "rating": {
+          "total": 14,
+          "count": {
+            "10": 1,
+            "9": 0,
+            "8": 0,
+            "7": 6,
+            "6": 5,
+            "5": 1,
+            "4": 1,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 6.5
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/44/89/707667_JL0l8.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/44/89/707667_JL0l8.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/44/89/707667_JL0l8.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/44/89/707667_JL0l8.jpg"
+        },
+        "collection": {
+          "doing": 97
+        }
+      },
+      {
+        "id": 708080,
+        "url": "http://bgm.tv/subject/708080",
+        "type": 2,
+        "name": "Family Guy: Happy Hell-O-Ween",
+        "name_cn": "恶搞之家：地狱欢庆万圣节",
+        "summary": "",
+        "air_date": "2026-10-05",
+        "air_weekday": 1,
+        "rating": {
+          "total": 1,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 1,
+            "5": 0,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 6
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/42/85/708080_kx2E6.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/42/85/708080_kx2E6.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/42/85/708080_kx2E6.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/42/85/708080_kx2E6.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/42/85/708080_kx2E6.jpg"
+        },
+        "collection": {
+          "doing": 2
+        }
+      },
+      {
+        "id": 710874,
+        "url": "http://bgm.tv/subject/710874",
+        "type": 2,
+        "name": "宝可梦动画图鉴 第六季 云岫寻踪",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-12",
+        "air_weekday": 1,
+        "rating": {
+          "total": 1,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 0,
+            "5": 1,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 5
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/75/89/710874_99X5Q.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/75/89/710874_99X5Q.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/75/89/710874_99X5Q.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/75/89/710874_99X5Q.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/75/89/710874_99X5Q.jpg"
+        },
+        "collection": {
+          "doing": 6
+        }
+      },
+      {
+        "id": 713219,
+        "url": "http://bgm.tv/subject/713219",
+        "type": 2,
+        "name": "ミニアニメ「ホタルの嫁入り」ちょいたし",
+        "name_cn": "萤火虫的出嫁 迷你动画",
+        "summary": "",
+        "air_date": "2026-10-12",
+        "air_weekday": 1,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/26/18/713219_TtQVj.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/26/18/713219_TtQVj.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/26/18/713219_TtQVj.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/26/18/713219_TtQVj.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/26/18/713219_TtQVj.jpg"
+        },
+        "collection": {
+          "doing": 12
+        }
+      },
+      {
+        "id": 713654,
+        "url": "http://bgm.tv/subject/713654",
+        "type": 2,
+        "name": "The Marsupilamis",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-19",
+        "air_weekday": 1,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/80/91/713654_mxUL7.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/80/91/713654_mxUL7.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/80/91/713654_mxUL7.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/80/91/713654_mxUL7.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/80/91/713654_mxUL7.jpg"
+        },
+        "collection": {
+          "doing": 1
+        }
+      },
+      {
+        "id": 716367,
+        "url": "http://bgm.tv/subject/716367",
+        "type": 2,
+        "name": "歯ならび～ズ",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-26",
+        "air_weekday": 1,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/97/3a/716367_cx1FD.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/97/3a/716367_cx1FD.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/97/3a/716367_cx1FD.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/97/3a/716367_cx1FD.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/97/3a/716367_cx1FD.jpg"
+        },
+        "collection": {
+          "doing": 1
+        }
+      }
+    ]
+  },
+  {
+    "weekday": {
+      "en": "Tue",
+      "cn": "星期二",
+      "ja": "火耀日",
+      "id": 2
+    },
+    "items": [
+      {
+        "id": 505550,
+        "url": "http://bgm.tv/subject/505550",
+        "type": 2,
+        "name": "DARK MACHINE THE ANIMATION",
+        "name_cn": "暗机 DARK MACHINE",
+        "summary": "",
+        "air_date": "2026-10-13",
+        "air_weekday": 2,
+        "rating": {
+          "total": 132,
+          "count": {
+            "10": 1,
+            "9": 0,
+            "8": 2,
+            "7": 9,
+            "6": 44,
+            "5": 33,
+            "4": 25,
+            "3": 10,
+            "2": 3,
+            "1": 5
+          },
+          "score": 5
+        },
+        "rank": 9346,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/84/86/505550_OLQmz.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/84/86/505550_OLQmz.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/84/86/505550_OLQmz.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/84/86/505550_OLQmz.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/84/86/505550_OLQmz.jpg"
+        },
+        "collection": {
+          "doing": 638
+        }
+      },
+      {
+        "id": 513878,
+        "url": "http://bgm.tv/subject/513878",
+        "type": 2,
+        "name": "Cyberpunk: Edgerunners 2",
+        "name_cn": "赛博朋克：边缘行者 2",
+        "summary": "",
+        "air_date": "2026-10-20",
+        "air_weekday": 2,
+        "rating": {
+          "total": 5161,
+          "count": {
+            "10": 32,
+            "9": 40,
+            "8": 207,
+            "7": 843,
+            "6": 1739,
+            "5": 1149,
+            "4": 746,
+            "3": 228,
+            "2": 87,
+            "1": 90
+          },
+          "score": 5.5
+        },
+        "rank": 9450,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/db/94/513878_5f77g.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/db/94/513878_5f77g.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/db/94/513878_5f77g.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/db/94/513878_5f77g.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/db/94/513878_5f77g.jpg"
+        },
+        "collection": {
+          "doing": 3757
+        }
+      },
+      {
+        "id": 541538,
+        "url": "http://bgm.tv/subject/541538",
+        "type": 2,
+        "name": "幻想水滸伝",
+        "name_cn": "幻想水浒传",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 2,
+        "rating": {
+          "total": 65,
+          "count": {
+            "10": 1,
+            "9": 1,
+            "8": 0,
+            "7": 7,
+            "6": 18,
+            "5": 11,
+            "4": 12,
+            "3": 8,
+            "2": 2,
+            "1": 5
+          },
+          "score": 4.8
+        },
+        "rank": 8772,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/ee/12/541538_LxzAg.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/ee/12/541538_LxzAg.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/ee/12/541538_LxzAg.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/ee/12/541538_LxzAg.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/ee/12/541538_LxzAg.jpg"
+        },
+        "collection": {
+          "doing": 354
+        }
+      },
+      {
+        "id": 544378,
+        "url": "http://bgm.tv/subject/544378",
+        "type": 2,
+        "name": "Battle Spirits [Re] 絶界の空",
+        "name_cn": "战斗之魂[Re] 绝界之空",
+        "summary": "",
+        "air_date": "2026-10-06",
+        "air_weekday": 2,
+        "rating": {
+          "total": 31,
+          "count": {
+            "10": 1,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 10,
+            "5": 8,
+            "4": 5,
+            "3": 3,
+            "2": 2,
+            "1": 2
+          },
+          "score": 4.7
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/ec/af/544378_j3ouu.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/ec/af/544378_j3ouu.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/ec/af/544378_j3ouu.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/ec/af/544378_j3ouu.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/ec/af/544378_j3ouu.jpg"
+        },
+        "collection": {
+          "doing": 113
+        }
+      },
+      {
+        "id": 584847,
+        "url": "http://bgm.tv/subject/584847",
+        "type": 2,
+        "name": "千歳くんはラムネ瓶のなか 第2クール",
+        "name_cn": "弹珠汽水瓶里的千岁同学 第2部分",
+        "summary": "",
+        "air_date": "2026-10-13",
+        "air_weekday": 2,
+        "rating": {
+          "total": 368,
+          "count": {
+            "10": 20,
+            "9": 3,
+            "8": 11,
+            "7": 20,
+            "6": 64,
+            "5": 99,
+            "4": 69,
+            "3": 25,
+            "2": 19,
+            "1": 38
+          },
+          "score": 4.8
+        },
+        "rank": 10007,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/83/49/584847_5nM0F.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/83/49/584847_5nM0F.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/83/49/584847_5nM0F.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/83/49/584847_5nM0F.jpg"
+        },
+        "collection": {
+          "doing": 1752
+        }
+      },
+      {
+        "id": 593565,
+        "url": "http://bgm.tv/subject/593565",
+        "type": 2,
+        "name": "超巡！超条先輩",
+        "name_cn": "超巡！超条前辈",
+        "summary": "",
+        "air_date": "2026-10-06",
+        "air_weekday": 2,
+        "rating": {
+          "total": 207,
+          "count": {
+            "10": 0,
+            "9": 2,
+            "8": 5,
+            "7": 37,
+            "6": 87,
+            "5": 51,
+            "4": 16,
+            "3": 4,
+            "2": 3,
+            "1": 2
+          },
+          "score": 5.7
+        },
+        "rank": 8052,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/af/c1/593565_nno0j.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/af/c1/593565_nno0j.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/af/c1/593565_nno0j.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/af/c1/593565_nno0j.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/af/c1/593565_nno0j.jpg"
+        },
+        "collection": {
+          "doing": 950
+        }
+      },
+      {
+        "id": 624085,
+        "url": "http://bgm.tv/subject/624085",
+        "type": 2,
+        "name": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
+        "name_cn": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
+        "summary": "",
+        "air_date": "2026-10-06",
+        "air_weekday": 2,
+        "rating": {
+          "total": 762,
+          "count": {
+            "10": 21,
+            "9": 15,
+            "8": 116,
+            "7": 362,
+            "6": 182,
+            "5": 49,
+            "4": 11,
+            "3": 1,
+            "2": 1,
+            "1": 4
+          },
+          "score": 6.8
+        },
+        "rank": 3380,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/c6/8d/624085_5dXDL.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/c6/8d/624085_5dXDL.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/c6/8d/624085_5dXDL.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/c6/8d/624085_5dXDL.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/c6/8d/624085_5dXDL.jpg"
+        },
+        "collection": {
+          "doing": 4707
+        }
+      },
+      {
+        "id": 625799,
+        "url": "http://bgm.tv/subject/625799",
+        "type": 2,
+        "name": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
+        "name_cn": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
+        "summary": "",
+        "air_date": "2026-10-06",
+        "air_weekday": 2,
+        "rating": {
+          "total": 995,
+          "count": {
+            "10": 15,
+            "9": 11,
+            "8": 108,
+            "7": 365,
+            "6": 287,
+            "5": 124,
+            "4": 39,
+            "3": 22,
+            "2": 4,
+            "1": 20
+          },
+          "score": 6.3
+        },
+        "rank": 6442,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/af/3a/625799_ycox6.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/af/3a/625799_ycox6.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/af/3a/625799_ycox6.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/af/3a/625799_ycox6.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/af/3a/625799_ycox6.jpg"
+        },
+        "collection": {
+          "doing": 4912
+        }
+      },
+      {
+        "id": 634708,
+        "url": "http://bgm.tv/subject/634708",
+        "type": 2,
+        "name": "塩対応の佐藤さんが俺にだけ甘い",
+        "name_cn": "冷淡的佐藤同学只对我撒娇",
+        "summary": "",
+        "air_date": "2026-10-06",
+        "air_weekday": 2,
+        "rating": {
+          "total": 252,
+          "count": {
+            "10": 4,
+            "9": 1,
+            "8": 4,
+            "7": 23,
+            "6": 78,
+            "5": 88,
+            "4": 29,
+            "3": 16,
+            "2": 2,
+            "1": 7
+          },
+          "score": 5.3
+        },
+        "rank": 9352,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/39/84/634708_NnWAS.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/39/84/634708_NnWAS.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/39/84/634708_NnWAS.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/39/84/634708_NnWAS.jpg"
+        },
+        "collection": {
+          "doing": 1387
+        }
+      },
+      {
+        "id": 709326,
+        "url": "http://bgm.tv/subject/709326",
+        "type": 2,
+        "name": "Kiff: Scarm II: The Screamwriter",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-06",
+        "air_weekday": 2,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/94/b5/709326_Fsz6K.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/94/b5/709326_Fsz6K.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/94/b5/709326_Fsz6K.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/94/b5/709326_Fsz6K.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/94/b5/709326_Fsz6K.jpg"
+        },
+        "collection": {
+          "doing": 1
+        }
+      }
+    ]
+  },
+  {
+    "weekday": {
+      "en": "Wed",
+      "cn": "星期三",
+      "ja": "水耀日",
+      "id": 3
+    },
+    "items": [
+      {
+        "id": 975,
+        "url": "http://bgm.tv/subject/975",
+        "type": 2,
+        "name": "ONE PIECE",
+        "name_cn": "航海王",
+        "summary": "",
+        "air_date": "1999-10-20",
+        "air_weekday": 3,
+        "rating": {
+          "total": 14928,
+          "count": {
+            "10": 4080,
+            "9": 2898,
+            "8": 3917,
+            "7": 2413,
+            "6": 967,
+            "5": 358,
+            "4": 110,
+            "3": 44,
+            "2": 46,
+            "1": 95
+          },
+          "score": 8.3
+        },
+        "rank": 106,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/92/97/975_GFGYI.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/92/97/975_GFGYI.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/92/97/975_GFGYI.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/92/97/975_GFGYI.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/92/97/975_GFGYI.jpg"
+        },
+        "collection": {
+          "doing": 16428
+        }
+      },
+      {
+        "id": 393010,
+        "url": "http://bgm.tv/subject/393010",
+        "type": 2,
+        "name": "探偵はもう、死んでいる。 Season 2",
+        "name_cn": "侦探已经死了。 第二季",
+        "summary": "",
+        "air_date": "2026-10-07",
+        "air_weekday": 3,
+        "rating": {
+          "total": 148,
+          "count": {
+            "10": 6,
+            "9": 2,
+            "8": 1,
+            "7": 11,
+            "6": 45,
+            "5": 48,
+            "4": 22,
+            "3": 8,
+            "2": 2,
+            "1": 3
+          },
+          "score": 5.4
+        },
+        "rank": 8771,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/65/61/393010_EIOi9.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/65/61/393010_EIOi9.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/65/61/393010_EIOi9.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/65/61/393010_EIOi9.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/65/61/393010_EIOi9.jpg"
+        },
+        "collection": {
+          "doing": 1140
+        }
+      },
+      {
+        "id": 412008,
+        "url": "http://bgm.tv/subject/412008",
+        "type": 2,
+        "name": "転生したら剣でしたII",
+        "name_cn": "转生就是剑 第二季",
+        "summary": "",
+        "air_date": "2026-10-07",
+        "air_weekday": 3,
+        "rating": {
+          "total": 220,
+          "count": {
+            "10": 6,
+            "9": 5,
+            "8": 19,
+            "7": 90,
+            "6": 69,
+            "5": 26,
+            "4": 3,
+            "3": 1,
+            "2": 0,
+            "1": 1
+          },
+          "score": 6.6
+        },
+        "rank": 4355,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/ee/ed/412008_vuyt4.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/ee/ed/412008_vuyt4.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/ee/ed/412008_vuyt4.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/ee/ed/412008_vuyt4.jpg"
+        },
+        "collection": {
+          "doing": 1682
+        }
+      },
+      {
+        "id": 471844,
+        "url": "http://bgm.tv/subject/471844",
+        "type": 2,
+        "name": "帰還者の魔法は特別です 第2期",
+        "name_cn": "归还者的魔法要特别 第二季",
+        "summary": "",
+        "air_date": "2026-10-07",
+        "air_weekday": 3,
+        "rating": {
+          "total": 41,
+          "count": {
+            "10": 1,
+            "9": 1,
+            "8": 0,
+            "7": 4,
+            "6": 14,
+            "5": 12,
+            "4": 7,
+            "3": 1,
+            "2": 0,
+            "1": 1
+          },
+          "score": 5.4
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/1d/7c/471844_5G6H8.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/1d/7c/471844_5G6H8.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/1d/7c/471844_5G6H8.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/1d/7c/471844_5G6H8.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/1d/7c/471844_5G6H8.jpg"
+        },
+        "collection": {
+          "doing": 453
+        }
+      },
+      {
+        "id": 486456,
+        "url": "http://bgm.tv/subject/486456",
+        "type": 2,
+        "name": "佐々木とピーちゃん 第2期",
+        "name_cn": "佐佐木与文鸟小哔 第二季",
+        "summary": "",
+        "air_date": "2026-10-07",
+        "air_weekday": 3,
+        "rating": {
+          "total": 190,
+          "count": {
+            "10": 2,
+            "9": 1,
+            "8": 8,
+            "7": 35,
+            "6": 85,
+            "5": 43,
+            "4": 9,
+            "3": 2,
+            "2": 1,
+            "1": 4
+          },
+          "score": 5.8
+        },
+        "rank": 7586,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/fc/aa/486456_XO5B0.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/fc/aa/486456_XO5B0.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/fc/aa/486456_XO5B0.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/fc/aa/486456_XO5B0.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/fc/aa/486456_XO5B0.jpg"
+        },
+        "collection": {
+          "doing": 1490
+        }
+      },
+      {
+        "id": 502123,
+        "url": "http://bgm.tv/subject/502123",
+        "type": 2,
+        "name": "魔法騎士レイアース",
+        "name_cn": "魔法骑士雷阿斯 (2026)",
+        "summary": "",
+        "air_date": "2026-10-07",
+        "air_weekday": 3,
+        "rating": {
+          "total": 71,
+          "count": {
+            "10": 3,
+            "9": 1,
+            "8": 4,
+            "7": 17,
+            "6": 24,
+            "5": 17,
+            "4": 3,
+            "3": 0,
+            "2": 1,
+            "1": 1
+          },
+          "score": 6.1
+        },
+        "rank": 5412,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/e1/6f/502123_IiVB6.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/e1/6f/502123_IiVB6.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/e1/6f/502123_IiVB6.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/e1/6f/502123_IiVB6.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/e1/6f/502123_IiVB6.jpg"
+        },
+        "collection": {
+          "doing": 498
+        }
+      },
+      {
+        "id": 573707,
+        "url": "http://bgm.tv/subject/573707",
+        "type": 2,
+        "name": "Helluva Boss Season 3",
+        "name_cn": "极恶老大 第三季",
+        "summary": "",
+        "air_date": "2026-10-14",
+        "air_weekday": 3,
+        "rating": {
+          "total": 2,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 1,
+            "5": 0,
+            "4": 0,
+            "3": 1,
+            "2": 0,
+            "1": 0
+          },
+          "score": 4.5
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/37/37/573707_EjKKu.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/37/37/573707_EjKKu.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/37/37/573707_EjKKu.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/37/37/573707_EjKKu.jpg"
+        },
+        "collection": {
+          "doing": 32
+        }
+      },
+      {
+        "id": 646154,
+        "url": "http://bgm.tv/subject/646154",
+        "type": 2,
+        "name": "世界最強の魔女、始めました",
+        "name_cn": "世界最强的魔女，就此开始",
+        "summary": "",
+        "air_date": "2026-10-07",
+        "air_weekday": 3,
+        "rating": {
+          "total": 445,
+          "count": {
+            "10": 6,
+            "9": 5,
+            "8": 44,
+            "7": 157,
+            "6": 169,
+            "5": 43,
+            "4": 12,
+            "3": 4,
+            "2": 4,
+            "1": 1
+          },
+          "score": 6.4
+        },
+        "rank": 5555,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/89/fc/646154_uQi81.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/89/fc/646154_uQi81.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/89/fc/646154_uQi81.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/89/fc/646154_uQi81.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/89/fc/646154_uQi81.jpg"
+        },
+        "collection": {
+          "doing": 2621
+        }
+      },
+      {
+        "id": 657778,
+        "url": "http://bgm.tv/subject/657778",
+        "type": 2,
+        "name": "獣王武神ダンデヴァイン",
+        "name_cn": "兽王武神丹帝拜恩",
+        "summary": "",
+        "air_date": "2026-10-07",
+        "air_weekday": 3,
+        "rating": {
+          "total": 175,
+          "count": {
+            "10": 0,
+            "9": 1,
+            "8": 4,
+            "7": 11,
+            "6": 68,
+            "5": 41,
+            "4": 33,
+            "3": 11,
+            "2": 3,
+            "1": 3
+          },
+          "score": 5.2
+        },
+        "rank": 9270,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/3b/a5/657778_7HXP5.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/3b/a5/657778_7HXP5.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/3b/a5/657778_7HXP5.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/3b/a5/657778_7HXP5.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/3b/a5/657778_7HXP5.jpg"
+        },
+        "collection": {
+          "doing": 842
+        }
+      },
+      {
+        "id": 701779,
+        "url": "http://bgm.tv/subject/701779",
+        "type": 2,
+        "name": "マゼンチュ",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-07",
+        "air_weekday": 3,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/78/a0/701779_0phov.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/78/a0/701779_0phov.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/78/a0/701779_0phov.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/78/a0/701779_0phov.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/78/a0/701779_0phov.jpg"
+        },
+        "collection": {
+          "doing": 3
+        }
+      },
+      {
+        "id": 709475,
+        "url": "http://bgm.tv/subject/709475",
+        "type": 2,
+        "name": "ゲルぴよ 第2期",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-21",
+        "air_weekday": 3,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/6f/24/709475_zpW8A.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/6f/24/709475_zpW8A.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/6f/24/709475_zpW8A.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/6f/24/709475_zpW8A.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/6f/24/709475_zpW8A.jpg"
+        },
+        "collection": {
+          "doing": 2
+        }
+      },
+      {
+        "id": 712926,
+        "url": "http://bgm.tv/subject/712926",
+        "type": 2,
+        "name": "都市古医仙2",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-14",
+        "air_weekday": 3,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/f5/be/712926_i4vqi.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/f5/be/712926_i4vqi.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/f5/be/712926_i4vqi.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/f5/be/712926_i4vqi.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/f5/be/712926_i4vqi.jpg"
+        },
+        "collection": {
+          "doing": 2
+        }
+      }
+    ]
+  },
+  {
+    "weekday": {
+      "en": "Thu",
+      "cn": "星期四",
+      "ja": "木耀日",
+      "id": 4
+    },
+    "items": [
+      {
+        "id": 449346,
+        "url": "http://bgm.tv/subject/449346",
+        "type": 2,
+        "name": "大理寺日志 叁",
+        "name_cn": "大理寺日志 第三季",
+        "summary": "",
+        "air_date": "2026-10-15",
+        "air_weekday": 4,
+        "rating": {
+          "total": 9,
+          "count": {
+            "10": 2,
+            "9": 0,
+            "8": 1,
+            "7": 4,
+            "6": 1,
+            "5": 0,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 1
+          },
+          "score": 7
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/fc/d2/449346_0ql6W.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/fc/d2/449346_0ql6W.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/fc/d2/449346_0ql6W.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/fc/d2/449346_0ql6W.jpg"
+        },
+        "collection": {
+          "doing": 119
+        }
+      },
+      {
+        "id": 576783,
+        "url": "http://bgm.tv/subject/576783",
+        "type": 2,
+        "name": "狂王2",
+        "name_cn": "狂王 第2季",
+        "summary": "",
+        "air_date": "2026-10-08",
+        "air_weekday": 4,
+        "rating": {
+          "total": 2,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 1,
+            "5": 0,
+            "4": 1,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 5
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_a355J.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/c8/1a/576783_a355J.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/c8/1a/576783_a355J.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/c8/1a/576783_a355J.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/c8/1a/576783_a355J.jpg"
+        },
+        "collection": {
+          "doing": 5
+        }
+      },
+      {
+        "id": 577237,
+        "url": "http://bgm.tv/subject/577237",
+        "type": 2,
+        "name": "仙逆剧场版 弑仙之战",
+        "name_cn": "仙逆剧场版 弑仙之战",
+        "summary": "",
+        "air_date": "2026-10-01",
+        "air_weekday": 4,
+        "rating": {
+          "total": 62,
+          "count": {
+            "10": 1,
+            "9": 1,
+            "8": 6,
+            "7": 7,
+            "6": 30,
+            "5": 12,
+            "4": 3,
+            "3": 0,
+            "2": 2,
+            "1": 0
+          },
+          "score": 6
+        },
+        "rank": 5587,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/33/a4/577237_Cd0Cm.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/33/a4/577237_Cd0Cm.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/33/a4/577237_Cd0Cm.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/33/a4/577237_Cd0Cm.jpg"
+        },
+        "collection": {
+          "doing": 22
+        }
+      },
+      {
+        "id": 590553,
+        "url": "http://bgm.tv/subject/590553",
+        "type": 2,
+        "name": "てつりょー！meet with 鉄道むすめ",
+        "name_cn": "铁旅！meet with 铁道少女",
+        "summary": "",
+        "air_date": "2026-10-08",
+        "air_weekday": 4,
+        "rating": {
+          "total": 268,
+          "count": {
+            "10": 2,
+            "9": 1,
+            "8": 6,
+            "7": 34,
+            "6": 113,
+            "5": 66,
+            "4": 31,
+            "3": 10,
+            "2": 2,
+            "1": 3
+          },
+          "score": 5.5
+        },
+        "rank": 8789,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/b6/e8/590553_Xz5PO.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/b6/e8/590553_Xz5PO.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/b6/e8/590553_Xz5PO.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/b6/e8/590553_Xz5PO.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/b6/e8/590553_Xz5PO.jpg"
+        },
+        "collection": {
+          "doing": 1418
+        }
+      },
+      {
+        "id": 622288,
+        "url": "http://bgm.tv/subject/622288",
+        "type": 2,
+        "name": "FX戦士くるみちゃん",
+        "name_cn": "FX战士久留美",
+        "summary": "",
+        "air_date": "2026-10-01",
+        "air_weekday": 4,
+        "rating": {
+          "total": 2254,
+          "count": {
+            "10": 46,
+            "9": 59,
+            "8": 334,
+            "7": 1130,
+            "6": 515,
+            "5": 117,
+            "4": 22,
+            "3": 10,
+            "2": 4,
+            "1": 17
+          },
+          "score": 6.8
+        },
+        "rank": 3383,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/d3/99/622288_nmbC3.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/d3/99/622288_nmbC3.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/d3/99/622288_nmbC3.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/d3/99/622288_nmbC3.jpg"
+        },
+        "collection": {
+          "doing": 14222
+        }
+      },
+      {
+        "id": 650428,
+        "url": "http://bgm.tv/subject/650428",
+        "type": 2,
+        "name": "傷だらけ聖女より報復をこめて Season2",
+        "name_cn": "黑化吧！圣女大人 第二季",
+        "summary": "",
+        "air_date": "2026-10-01",
+        "air_weekday": 4,
+        "rating": {
+          "total": 17,
+          "count": {
+            "10": 0,
+            "9": 1,
+            "8": 0,
+            "7": 1,
+            "6": 2,
+            "5": 4,
+            "4": 0,
+            "3": 2,
+            "2": 3,
+            "1": 4
+          },
+          "score": 3.8
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/77/63/650428_G3GgP.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/77/63/650428_G3GgP.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/77/63/650428_G3GgP.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/77/63/650428_G3GgP.jpg"
+        },
+        "collection": {
+          "doing": 81
+        }
+      },
+      {
+        "id": 654294,
+        "url": "http://bgm.tv/subject/654294",
+        "type": 2,
+        "name": "冰剣の魔術師が世界を統べるⅡ",
+        "name_cn": "冰剑的魔术师将要统一世界 第二季",
+        "summary": "",
+        "air_date": "2026-10-08",
+        "air_weekday": 4,
+        "rating": {
+          "total": 89,
+          "count": {
+            "10": 7,
+            "9": 1,
+            "8": 3,
+            "7": 9,
+            "6": 21,
+            "5": 25,
+            "4": 16,
+            "3": 3,
+            "2": 2,
+            "1": 2
+          },
+          "score": 5.6
+        },
+        "rank": 7559,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/ec/2f/654294_ckrD9.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/ec/2f/654294_ckrD9.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/ec/2f/654294_ckrD9.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/ec/2f/654294_ckrD9.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/ec/2f/654294_ckrD9.jpg"
+        },
+        "collection": {
+          "doing": 672
+        }
+      },
+      {
+        "id": 665390,
+        "url": "http://bgm.tv/subject/665390",
+        "type": 2,
+        "name": "氷の城壁 第2期",
+        "name_cn": "冰之城墙 第二季",
+        "summary": "",
+        "air_date": "2026-10-01",
+        "air_weekday": 4,
+        "rating": {
+          "total": 611,
+          "count": {
+            "10": 24,
+            "9": 35,
+            "8": 225,
+            "7": 241,
+            "6": 61,
+            "5": 17,
+            "4": 3,
+            "3": 1,
+            "2": 2,
+            "1": 2
+          },
+          "score": 7.4
+        },
+        "rank": 1254,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/e4/41/665390_UCHPM.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/e4/41/665390_UCHPM.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/e4/41/665390_UCHPM.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/e4/41/665390_UCHPM.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/e4/41/665390_UCHPM.jpg"
+        },
+        "collection": {
+          "doing": 3136
+        }
+      },
+      {
+        "id": 700127,
+        "url": "http://bgm.tv/subject/700127",
+        "type": 2,
+        "name": "ちょこっとヤバシティ",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-01",
+        "air_weekday": 4,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/e4/11/700127_gLl6x.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/e4/11/700127_gLl6x.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/e4/11/700127_gLl6x.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/e4/11/700127_gLl6x.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/e4/11/700127_gLl6x.jpg"
+        },
+        "collection": {
+          "doing": 5
+        }
+      },
+      {
+        "id": 704737,
+        "url": "http://bgm.tv/subject/704737",
+        "type": 2,
+        "name": "シルバニアファミリー フレアのカラフル・エブリデイ",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-01",
+        "air_weekday": 4,
+        "rating": {
+          "total": 1,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 0,
+            "5": 1,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 5
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/7d/06/704737_iWzS7.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/7d/06/704737_iWzS7.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/7d/06/704737_iWzS7.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/7d/06/704737_iWzS7.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/7d/06/704737_iWzS7.jpg"
+        },
+        "collection": {
+          "doing": 2
+        }
+      },
+      {
+        "id": 705980,
+        "url": "http://bgm.tv/subject/705980",
+        "type": 2,
+        "name": "熊出没之神奇宝物2",
+        "name_cn": "熊出没之神奇宝物 第二季",
+        "summary": "",
+        "air_date": "2026-10-01",
+        "air_weekday": 4,
+        "rating": {
+          "total": 5,
+          "count": {
+            "10": 1,
+            "9": 0,
+            "8": 0,
+            "7": 2,
+            "6": 2,
+            "5": 0,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 7.2
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/83/75/705980_zVjkX.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/83/75/705980_zVjkX.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/83/75/705980_zVjkX.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/83/75/705980_zVjkX.jpg"
+        },
+        "collection": {
+          "doing": 6
+        }
+      },
+      {
+        "id": 716967,
+        "url": "http://bgm.tv/subject/716967",
+        "type": 2,
+        "name": "凶乱令嬢 ニア・リストンミニ",
+        "name_cn": "乱世千金倪亚‧利斯顿 迷你动画",
+        "summary": "",
+        "air_date": "2026-10-15",
+        "air_weekday": 4,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/43/67/716967_cp68P.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/43/67/716967_cp68P.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/43/67/716967_cp68P.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/43/67/716967_cp68P.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/43/67/716967_cp68P.jpg"
+        },
+        "collection": {
+          "doing": 4
+        }
+      }
+    ]
+  },
+  {
+    "weekday": {
+      "en": "Fri",
+      "cn": "星期五",
+      "ja": "金耀日",
+      "id": 5
+    },
+    "items": [
+      {
+        "id": 499474,
+        "url": "http://bgm.tv/subject/499474",
+        "type": 2,
+        "name": "東京リベンジャーズ 三天戦争編",
+        "name_cn": "东京复仇者 三天战争篇",
+        "summary": "",
+        "air_date": "2026-10-02",
+        "air_weekday": 5,
+        "rating": {
+          "total": 48,
+          "count": {
+            "10": 0,
+            "9": 1,
+            "8": 7,
+            "7": 11,
+            "6": 15,
+            "5": 5,
+            "4": 5,
+            "3": 2,
+            "2": 0,
+            "1": 2
+          },
+          "score": 5.9
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/0f/d4/499474_bheyE.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/0f/d4/499474_bheyE.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/0f/d4/499474_bheyE.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/0f/d4/499474_bheyE.jpg"
+        },
+        "collection": {
+          "doing": 297
+        }
+      },
+      {
+        "id": 537738,
+        "url": "http://bgm.tv/subject/537738",
+        "type": 2,
+        "name": "とある暗部の少女共棲",
+        "name_cn": "某暗部的少女共栖",
+        "summary": "",
+        "air_date": "2026-10-09",
+        "air_weekday": 5,
+        "rating": {
+          "total": 609,
+          "count": {
+            "10": 18,
+            "9": 11,
+            "8": 113,
+            "7": 346,
+            "6": 102,
+            "5": 17,
+            "4": 1,
+            "3": 0,
+            "2": 1,
+            "1": 0
+          },
+          "score": 7.1
+        },
+        "rank": 2305,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/1c/9b/537738_6rr67.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/1c/9b/537738_6rr67.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/1c/9b/537738_6rr67.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/1c/9b/537738_6rr67.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/1c/9b/537738_6rr67.jpg"
+        },
+        "collection": {
+          "doing": 4968
+        }
+      },
+      {
+        "id": 538631,
+        "url": "http://bgm.tv/subject/538631",
+        "type": 2,
+        "name": "Avatar: Seven Havens Season 1",
+        "name_cn": "降世神通：七个避风港 第一季",
+        "summary": "",
+        "air_date": "2026-10-09",
+        "air_weekday": 5,
+        "rating": {
+          "total": 14,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 2,
+            "7": 7,
+            "6": 4,
+            "5": 1,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 6.7
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/17/cc/538631_ll0LH.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/17/cc/538631_ll0LH.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/17/cc/538631_ll0LH.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/17/cc/538631_ll0LH.jpg"
+        },
+        "collection": {
+          "doing": 22
+        }
+      },
+      {
+        "id": 563508,
+        "url": "http://bgm.tv/subject/563508",
+        "type": 2,
+        "name": "パンどろぼう",
+        "name_cn": "神秘面包小子",
+        "summary": "",
+        "air_date": "2026-10-02",
+        "air_weekday": 5,
+        "rating": {
+          "total": 10,
+          "count": {
+            "10": 2,
+            "9": 0,
+            "8": 0,
+            "7": 1,
+            "6": 3,
+            "5": 2,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 2
+          },
+          "score": 5.7
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/56/5e/563508_t2XEq.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/56/5e/563508_t2XEq.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/56/5e/563508_t2XEq.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/56/5e/563508_t2XEq.jpg"
+        },
+        "collection": {
+          "doing": 26
+        }
+      },
+      {
+        "id": 568244,
+        "url": "http://bgm.tv/subject/568244",
+        "type": 2,
+        "name": "薬屋のひとりごと 第3期",
+        "name_cn": "药屋少女的呢喃 第三季",
+        "summary": "",
+        "air_date": "2026-10-02",
+        "air_weekday": 5,
+        "rating": {
+          "total": 656,
+          "count": {
+            "10": 22,
+            "9": 23,
+            "8": 219,
+            "7": 308,
+            "6": 67,
+            "5": 12,
+            "4": 1,
+            "3": 1,
+            "2": 1,
+            "1": 2
+          },
+          "score": 7.3
+        },
+        "rank": 1414,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_e64dA.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/55/e2/568244_e64dA.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/55/e2/568244_e64dA.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/55/e2/568244_e64dA.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/55/e2/568244_e64dA.jpg"
+        },
+        "collection": {
+          "doing": 5314
+        }
+      },
+      {
+        "id": 593863,
+        "url": "http://bgm.tv/subject/593863",
+        "type": 2,
+        "name": "罗小黑战记 学前篇",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-30",
+        "air_weekday": 5,
+        "rating": {
+          "total": 28,
+          "count": {
+            "10": 3,
+            "9": 2,
+            "8": 4,
+            "7": 13,
+            "6": 6,
+            "5": 0,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 7.4
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/86/cd/593863_7u0XX.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/86/cd/593863_7u0XX.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/86/cd/593863_7u0XX.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/86/cd/593863_7u0XX.jpg"
+        },
+        "collection": {
+          "doing": 359
+        }
+      },
+      {
+        "id": 617948,
+        "url": "http://bgm.tv/subject/617948",
+        "type": 2,
+        "name": "桃源暗鬼 ～日光・華厳の滝編～",
+        "name_cn": "桃源暗鬼 ～日光・华严之泷篇～",
+        "summary": "",
+        "air_date": "2026-10-02",
+        "air_weekday": 5,
+        "rating": {
+          "total": 31,
+          "count": {
+            "10": 2,
+            "9": 1,
+            "8": 0,
+            "7": 3,
+            "6": 9,
+            "5": 10,
+            "4": 3,
+            "3": 2,
+            "2": 0,
+            "1": 1
+          },
+          "score": 5.6
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/70/c2/617948_Mm3mn.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/70/c2/617948_Mm3mn.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/70/c2/617948_Mm3mn.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/70/c2/617948_Mm3mn.jpg"
+        },
+        "collection": {
+          "doing": 155
+        }
+      },
+      {
+        "id": 621108,
+        "url": "http://bgm.tv/subject/621108",
+        "type": 2,
+        "name": "ホタルの嫁入り",
+        "name_cn": "萤火虫的出嫁",
+        "summary": "",
+        "air_date": "2026-10-09",
+        "air_weekday": 5,
+        "rating": {
+          "total": 136,
+          "count": {
+            "10": 1,
+            "9": 1,
+            "8": 8,
+            "7": 23,
+            "6": 29,
+            "5": 32,
+            "4": 22,
+            "3": 7,
+            "2": 8,
+            "1": 5
+          },
+          "score": 5.2
+        },
+        "rank": 9022,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/5c/04/621108_guUyJ.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/5c/04/621108_guUyJ.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/5c/04/621108_guUyJ.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/5c/04/621108_guUyJ.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/5c/04/621108_guUyJ.jpg"
+        },
+        "collection": {
+          "doing": 843
+        }
+      },
+      {
+        "id": 632061,
+        "url": "http://bgm.tv/subject/632061",
+        "type": 2,
+        "name": "Duel Masters LOST ～断罪の少年～",
+        "name_cn": "决斗大师 LOST ～断罪的少年～",
+        "summary": "",
+        "air_date": "2026-10-09",
+        "air_weekday": 5,
+        "rating": {
+          "total": 1,
+          "count": {
+            "10": 1,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 0,
+            "5": 0,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 10
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/93/3c/632061_9qy7P.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/93/3c/632061_9qy7P.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/93/3c/632061_9qy7P.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/93/3c/632061_9qy7P.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/93/3c/632061_9qy7P.jpg"
+        },
+        "collection": {
+          "doing": 20
+        }
+      },
+      {
+        "id": 657656,
+        "url": "http://bgm.tv/subject/657656",
+        "type": 2,
+        "name": "テムパル～アイテムの力～",
+        "name_cn": "装备我最强",
+        "summary": "",
+        "air_date": "2026-10-02",
+        "air_weekday": 5,
+        "rating": {
+          "total": 161,
+          "count": {
+            "10": 3,
+            "9": 1,
+            "8": 7,
+            "7": 26,
+            "6": 67,
+            "5": 36,
+            "4": 9,
+            "3": 6,
+            "2": 5,
+            "1": 1
+          },
+          "score": 5.7
+        },
+        "rank": 7758,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/82/02/657656_z4b72.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/82/02/657656_z4b72.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/82/02/657656_z4b72.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/82/02/657656_z4b72.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/82/02/657656_z4b72.jpg"
+        },
+        "collection": {
+          "doing": 1034
+        }
+      },
+      {
+        "id": 698981,
+        "url": "http://bgm.tv/subject/698981",
+        "type": 2,
+        "name": "Adventure Time: Side Quests Season 2",
+        "name_cn": "探险时光：支线任务 第二季",
+        "summary": "",
+        "air_date": "2026-10-02",
+        "air_weekday": 5,
+        "rating": {
+          "total": 2,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 1,
+            "7": 0,
+            "6": 1,
+            "5": 0,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 7
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/91/f3/698981_S7sct.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/91/f3/698981_S7sct.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/91/f3/698981_S7sct.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/91/f3/698981_S7sct.jpg"
+        },
+        "collection": {
+          "doing": 1
+        }
+      },
+      {
+        "id": 700678,
+        "url": "http://bgm.tv/subject/700678",
+        "type": 2,
+        "name": "Haunted Hotel Season 2",
+        "name_cn": "闹鬼酒店 第二季",
+        "summary": "",
+        "air_date": "2026-10-09",
+        "air_weekday": 5,
+        "rating": {
+          "total": 8,
+          "count": {
+            "10": 0,
+            "9": 1,
+            "8": 2,
+            "7": 3,
+            "6": 1,
+            "5": 1,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 7.1
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/cb/da/700678_4sTY4.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/cb/da/700678_4sTY4.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/cb/da/700678_4sTY4.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/cb/da/700678_4sTY4.jpg"
+        },
+        "collection": {
+          "doing": 20
+        }
+      },
+      {
+        "id": 701310,
+        "url": "http://bgm.tv/subject/701310",
+        "type": 2,
+        "name": "The Sisters Grimm Season 2",
+        "name_cn": "格林姐妹大冒险 第二季",
+        "summary": "",
+        "air_date": "2026-10-02",
+        "air_weekday": 5,
+        "rating": {
+          "total": 1,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 1,
+            "5": 0,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 6
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/e8/cc/701310_t4Gsn.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/e8/cc/701310_t4Gsn.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/e8/cc/701310_t4Gsn.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/e8/cc/701310_t4Gsn.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/e8/cc/701310_t4Gsn.jpg"
+        },
+        "collection": {
+          "doing": 2
+        }
+      },
+      {
+        "id": 701782,
+        "url": "http://bgm.tv/subject/701782",
+        "type": 2,
+        "name": "Welsh &amp; Shedar",
+        "name_cn": "苍蓝传承 威尔什&amp;榭达",
+        "summary": "",
+        "air_date": "2026-10-02",
+        "air_weekday": 5,
+        "rating": {
+          "total": 51,
+          "count": {
+            "10": 0,
+            "9": 1,
+            "8": 0,
+            "7": 3,
+            "6": 11,
+            "5": 18,
+            "4": 12,
+            "3": 2,
+            "2": 1,
+            "1": 3
+          },
+          "score": 4.8
+        },
+        "rank": 8191,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/e8/30/701782_CGGYY.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/e8/30/701782_CGGYY.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/e8/30/701782_CGGYY.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/e8/30/701782_CGGYY.jpg"
+        },
+        "collection": {
+          "doing": 201
+        }
+      }
+    ]
+  },
+  {
+    "weekday": {
+      "en": "Sat",
+      "cn": "星期六",
+      "ja": "土耀日",
+      "id": 6
+    },
+    "items": [
+      {
+        "id": 899,
+        "url": "http://bgm.tv/subject/899",
+        "type": 2,
+        "name": "名探偵コナン",
+        "name_cn": "名侦探柯南",
+        "summary": "",
+        "air_date": "1996-01-08",
+        "air_weekday": 6,
+        "rating": {
+          "total": 11672,
+          "count": {
+            "10": 1175,
+            "9": 1163,
+            "8": 3281,
+            "7": 3828,
+            "6": 1564,
+            "5": 470,
+            "4": 96,
+            "3": 40,
+            "2": 14,
+            "1": 41
+          },
+          "score": 7.5
+        },
+        "rank": 910,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/01/88/899_REwVW.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/01/88/899_REwVW.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/01/88/899_REwVW.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/01/88/899_REwVW.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/01/88/899_REwVW.jpg"
+        },
+        "collection": {
+          "doing": 10975
+        }
+      },
+      {
+        "id": 456078,
+        "url": "http://bgm.tv/subject/456078",
+        "type": 2,
+        "name": "マジカル★エクスプローラー",
+        "name_cn": "魔法★探险家",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "rating": {
+          "total": 261,
+          "count": {
+            "10": 4,
+            "9": 3,
+            "8": 19,
+            "7": 67,
+            "6": 115,
+            "5": 37,
+            "4": 11,
+            "3": 3,
+            "2": 1,
+            "1": 1
+          },
+          "score": 6.2
+        },
+        "rank": 6332,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/f5/6b/456078_jtjPi.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/f5/6b/456078_jtjPi.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/f5/6b/456078_jtjPi.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/f5/6b/456078_jtjPi.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/f5/6b/456078_jtjPi.jpg"
+        },
+        "collection": {
+          "doing": 1690
+        }
+      },
+      {
+        "id": 507820,
+        "url": "http://bgm.tv/subject/507820",
+        "type": 2,
+        "name": "大王饶命 第三季",
+        "name_cn": "大王饶命 第三季",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "rating": {
+          "total": 24,
+          "count": {
+            "10": 3,
+            "9": 0,
+            "8": 4,
+            "7": 8,
+            "6": 7,
+            "5": 1,
+            "4": 1,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 7
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/32/ed/507820_nLOH8.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/32/ed/507820_nLOH8.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/32/ed/507820_nLOH8.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/32/ed/507820_nLOH8.jpg"
+        },
+        "collection": {
+          "doing": 169
+        }
+      },
+      {
+        "id": 542007,
+        "url": "http://bgm.tv/subject/542007",
+        "type": 2,
+        "name": "転生した大聖女は、聖女であることをひた隠す",
+        "name_cn": "转生后的大圣女，极力隐瞒圣女的身分",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "rating": {
+          "total": 168,
+          "count": {
+            "10": 4,
+            "9": 1,
+            "8": 3,
+            "7": 23,
+            "6": 75,
+            "5": 36,
+            "4": 16,
+            "3": 8,
+            "2": 1,
+            "1": 1
+          },
+          "score": 5.7
+        },
+        "rank": 7960,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/61/81/542007_wNKJa.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/61/81/542007_wNKJa.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/61/81/542007_wNKJa.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/61/81/542007_wNKJa.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/61/81/542007_wNKJa.jpg"
+        },
+        "collection": {
+          "doing": 927
+        }
+      },
+      {
+        "id": 554779,
+        "url": "http://bgm.tv/subject/554779",
+        "type": 2,
+        "name": "生徒会にも穴はある！",
+        "name_cn": "学生会也有洞！",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "rating": {
+          "total": 2711,
+          "count": {
+            "10": 136,
+            "9": 249,
+            "8": 1234,
+            "7": 784,
+            "6": 213,
+            "5": 64,
+            "4": 15,
+            "3": 5,
+            "2": 4,
+            "1": 7
+          },
+          "score": 7.6
+        },
+        "rank": 692,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/17/c7/554779_oPitO.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/17/c7/554779_oPitO.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/17/c7/554779_oPitO.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/17/c7/554779_oPitO.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/17/c7/554779_oPitO.jpg"
+        },
+        "collection": {
+          "doing": 15741
+        }
+      },
+      {
+        "id": 559080,
+        "url": "http://bgm.tv/subject/559080",
+        "type": 2,
+        "name": "Dreamland",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-17",
+        "air_weekday": 6,
+        "rating": {
+          "total": 25,
+          "count": {
+            "10": 0,
+            "9": 2,
+            "8": 0,
+            "7": 7,
+            "6": 8,
+            "5": 5,
+            "4": 3,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 6.1
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/0b/dc/559080_4QJvx.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/0b/dc/559080_4QJvx.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/0b/dc/559080_4QJvx.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/0b/dc/559080_4QJvx.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/0b/dc/559080_4QJvx.jpg"
+        },
+        "collection": {
+          "doing": 115
+        }
+      },
+      {
+        "id": 567896,
+        "url": "http://bgm.tv/subject/567896",
+        "type": 2,
+        "name": "ブラッククローバー 2nd Season",
+        "name_cn": "黑色五叶草 第二季",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "rating": {
+          "total": 164,
+          "count": {
+            "10": 23,
+            "9": 19,
+            "8": 65,
+            "7": 45,
+            "6": 6,
+            "5": 4,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 2
+          },
+          "score": 7.9
+        },
+        "rank": 562,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/be/e7/567896_RWffW.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/be/e7/567896_RWffW.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/be/e7/567896_RWffW.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/be/e7/567896_RWffW.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/be/e7/567896_RWffW.jpg"
+        },
+        "collection": {
+          "doing": 1006
+        }
+      },
+      {
+        "id": 568525,
+        "url": "http://bgm.tv/subject/568525",
+        "type": 2,
+        "name": "朱色の仮面",
+        "name_cn": "朱色假面",
+        "summary": "",
+        "air_date": "2026-10-10",
+        "air_weekday": 6,
+        "rating": {
+          "total": 78,
+          "count": {
+            "10": 0,
+            "9": 1,
+            "8": 2,
+            "7": 9,
+            "6": 26,
+            "5": 24,
+            "4": 10,
+            "3": 4,
+            "2": 0,
+            "1": 2
+          },
+          "score": 5.4
+        },
+        "rank": 7883,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/3a/11/568525_ovn2M.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/3a/11/568525_ovn2M.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/3a/11/568525_ovn2M.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/3a/11/568525_ovn2M.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/3a/11/568525_ovn2M.jpg"
+        },
+        "collection": {
+          "doing": 455
+        }
+      },
+      {
+        "id": 586255,
+        "url": "http://bgm.tv/subject/586255",
+        "type": 2,
+        "name": "#ゾンビさがしてます",
+        "name_cn": "僵尸搜寻中",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "rating": {
+          "total": 244,
+          "count": {
+            "10": 1,
+            "9": 0,
+            "8": 6,
+            "7": 38,
+            "6": 95,
+            "5": 74,
+            "4": 24,
+            "3": 4,
+            "2": 1,
+            "1": 1
+          },
+          "score": 5.6
+        },
+        "rank": 8413,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/9e/00/586255_FcfsN.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/9e/00/586255_FcfsN.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/9e/00/586255_FcfsN.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/9e/00/586255_FcfsN.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/9e/00/586255_FcfsN.jpg"
+        },
+        "collection": {
+          "doing": 1218
+        }
+      },
+      {
+        "id": 606716,
+        "url": "http://bgm.tv/subject/606716",
+        "type": 2,
+        "name": "貸した魔力は【リボ払い】で強制徴収",
+        "name_cn": "用【循环利息】强制收回借出的魔力",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "rating": {
+          "total": 195,
+          "count": {
+            "10": 2,
+            "9": 1,
+            "8": 1,
+            "7": 2,
+            "6": 20,
+            "5": 36,
+            "4": 45,
+            "3": 43,
+            "2": 24,
+            "1": 21
+          },
+          "score": 3.7
+        },
+        "rank": 10307,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/15/11/606716_Om183.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/15/11/606716_Om183.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/15/11/606716_Om183.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/15/11/606716_Om183.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/15/11/606716_Om183.jpg"
+        },
+        "collection": {
+          "doing": 1041
+        }
+      },
+      {
+        "id": 613256,
+        "url": "http://bgm.tv/subject/613256",
+        "type": 2,
+        "name": "恐怖コレクター",
+        "name_cn": "恐怖收集者",
+        "summary": "",
+        "air_date": "2026-10-10",
+        "air_weekday": 6,
+        "rating": {
+          "total": 78,
+          "count": {
+            "10": 1,
+            "9": 0,
+            "8": 1,
+            "7": 3,
+            "6": 8,
+            "5": 22,
+            "4": 24,
+            "3": 8,
+            "2": 5,
+            "1": 6
+          },
+          "score": 4.3
+        },
+        "rank": 9671,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/7b/a7/613256_fxVvG.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/7b/a7/613256_fxVvG.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/7b/a7/613256_fxVvG.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/7b/a7/613256_fxVvG.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/7b/a7/613256_fxVvG.jpg"
+        },
+        "collection": {
+          "doing": 313
+        }
+      },
+      {
+        "id": 616808,
+        "url": "http://bgm.tv/subject/616808",
+        "type": 2,
+        "name": "野生のラスボスが現れた！第2期",
+        "name_cn": "野生的大魔王出现了！第二季",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "rating": {
+          "total": 283,
+          "count": {
+            "10": 2,
+            "9": 3,
+            "8": 19,
+            "7": 114,
+            "6": 122,
+            "5": 16,
+            "4": 4,
+            "3": 2,
+            "2": 0,
+            "1": 1
+          },
+          "score": 6.5
+        },
+        "rank": 5068,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/f9/ae/616808_F80Sl.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/f9/ae/616808_F80Sl.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/f9/ae/616808_F80Sl.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/f9/ae/616808_F80Sl.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/f9/ae/616808_F80Sl.jpg"
+        },
+        "collection": {
+          "doing": 2060
+        }
+      },
+      {
+        "id": 617273,
+        "url": "http://bgm.tv/subject/617273",
+        "type": 2,
+        "name": "ケロロ軍曹☆",
+        "name_cn": "Keroro军曹☆",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "rating": {
+          "total": 59,
+          "count": {
+            "10": 1,
+            "9": 1,
+            "8": 2,
+            "7": 9,
+            "6": 23,
+            "5": 15,
+            "4": 4,
+            "3": 1,
+            "2": 1,
+            "1": 2
+          },
+          "score": 5.7
+        },
+        "rank": 6619,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/60/14/617273_dhFwZ.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/60/14/617273_dhFwZ.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/60/14/617273_dhFwZ.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/60/14/617273_dhFwZ.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/60/14/617273_dhFwZ.jpg"
+        },
+        "collection": {
+          "doing": 343
+        }
+      },
+      {
+        "id": 636512,
+        "url": "http://bgm.tv/subject/636512",
+        "type": 2,
+        "name": "バーテックスフォース",
+        "name_cn": "至高之力",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "rating": {
+          "total": 296,
+          "count": {
+            "10": 3,
+            "9": 2,
+            "8": 7,
+            "7": 32,
+            "6": 121,
+            "5": 76,
+            "4": 38,
+            "3": 13,
+            "2": 2,
+            "1": 2
+          },
+          "score": 5.5
+        },
+        "rank": 8921,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/42/ae/636512_oOtDt.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/42/ae/636512_oOtDt.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/42/ae/636512_oOtDt.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/42/ae/636512_oOtDt.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/42/ae/636512_oOtDt.jpg"
+        },
+        "collection": {
+          "doing": 1319
+        }
+      },
+      {
+        "id": 637206,
+        "url": "http://bgm.tv/subject/637206",
+        "type": 2,
+        "name": "しろたん",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "rating": {
+          "total": 1,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 0,
+            "5": 0,
+            "4": 0,
+            "3": 1,
+            "2": 0,
+            "1": 0
+          },
+          "score": 3
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/62/0c/637206_BoQXi.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/62/0c/637206_BoQXi.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/62/0c/637206_BoQXi.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/62/0c/637206_BoQXi.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/62/0c/637206_BoQXi.jpg"
+        },
+        "collection": {
+          "doing": 15
+        }
+      },
+      {
+        "id": 637802,
+        "url": "http://bgm.tv/subject/637802",
+        "type": 2,
+        "name": "らんま1/2 第3期",
+        "name_cn": "乱马1/2 第三季",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "rating": {
+          "total": 381,
+          "count": {
+            "10": 12,
+            "9": 19,
+            "8": 165,
+            "7": 151,
+            "6": 26,
+            "5": 5,
+            "4": 0,
+            "3": 0,
+            "2": 1,
+            "1": 2
+          },
+          "score": 7.5
+        },
+        "rank": 1060,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/7a/49/637802_YVTam.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/7a/49/637802_YVTam.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/7a/49/637802_YVTam.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/7a/49/637802_YVTam.jpg"
+        },
+        "collection": {
+          "doing": 2543
+        }
+      },
+      {
+        "id": 654678,
+        "url": "http://bgm.tv/subject/654678",
+        "type": 2,
+        "name": "おしりたんてい 第11シリーズ",
+        "name_cn": "屁屁侦探 第11季",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/8d/0c/654678_mR190.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/8d/0c/654678_mR190.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/8d/0c/654678_mR190.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/8d/0c/654678_mR190.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/8d/0c/654678_mR190.jpg"
+        },
+        "collection": {
+          "doing": 3
+        }
+      },
+      {
+        "id": 657084,
+        "url": "http://bgm.tv/subject/657084",
+        "type": 2,
+        "name": "マロニエ王国の七人の騎士",
+        "name_cn": "七叶树王国的七名骑士",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "rating": {
+          "total": 58,
+          "count": {
+            "10": 2,
+            "9": 1,
+            "8": 3,
+            "7": 12,
+            "6": 15,
+            "5": 12,
+            "4": 8,
+            "3": 4,
+            "2": 1,
+            "1": 0
+          },
+          "score": 5.7
+        },
+        "rank": 6318,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/ed/4a/657084_PZj4J.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/ed/4a/657084_PZj4J.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/ed/4a/657084_PZj4J.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/ed/4a/657084_PZj4J.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/ed/4a/657084_PZj4J.jpg"
+        },
+        "collection": {
+          "doing": 309
+        }
+      },
+      {
+        "id": 665014,
+        "url": "http://bgm.tv/subject/665014",
+        "type": 2,
+        "name": "Le Collège Noir Season 2",
+        "name_cn": "黑暗学院 第二季",
+        "summary": "",
+        "air_date": "2026-10-31",
+        "air_weekday": 6,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/74/5e/665014_YbeJ2.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/74/5e/665014_YbeJ2.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/74/5e/665014_YbeJ2.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/74/5e/665014_YbeJ2.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/74/5e/665014_YbeJ2.jpg"
+        },
+        "collection": {
+          "doing": 3
+        }
+      },
+      {
+        "id": 694622,
+        "url": "http://bgm.tv/subject/694622",
+        "type": 2,
+        "name": "ねずみくんのチョッキ 第2期",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/fe/1b/694622_NhQb3.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/fe/1b/694622_NhQb3.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/fe/1b/694622_NhQb3.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/fe/1b/694622_NhQb3.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/fe/1b/694622_NhQb3.jpg"
+        },
+        "collection": {
+          "doing": 10
+        }
+      },
+      {
+        "id": 701565,
+        "url": "http://bgm.tv/subject/701565",
+        "type": 2,
+        "name": "ふんばるず",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/79/c2/701565_WkAaz.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/79/c2/701565_WkAaz.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/79/c2/701565_WkAaz.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/79/c2/701565_WkAaz.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/79/c2/701565_WkAaz.jpg"
+        },
+        "collection": {
+          "doing": 3
+        }
+      },
+      {
+        "id": 702192,
+        "url": "http://bgm.tv/subject/702192",
+        "type": 2,
+        "name": "Get Jiro!",
+        "name_cn": "极道寿司次郎！",
+        "summary": "",
+        "air_date": "2026-10-03",
+        "air_weekday": 6,
+        "rating": {
+          "total": 24,
+          "count": {
+            "10": 0,
+            "9": 1,
+            "8": 2,
+            "7": 7,
+            "6": 9,
+            "5": 2,
+            "4": 1,
+            "3": 1,
+            "2": 0,
+            "1": 1
+          },
+          "score": 6.1
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/27/2f/702192_311Ln.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/27/2f/702192_311Ln.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/27/2f/702192_311Ln.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/27/2f/702192_311Ln.jpg"
+        },
+        "collection": {
+          "doing": 79
+        }
+      },
+      {
+        "id": 712500,
+        "url": "http://bgm.tv/subject/712500",
+        "type": 2,
+        "name": "万圣街 特别篇 古堡的秘密",
+        "name_cn": "万圣街 特别篇 古堡的秘密",
+        "summary": "",
+        "air_date": "2026-10-31",
+        "air_weekday": 6,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/bb/77/712500_Ene6m.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/bb/77/712500_Ene6m.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/bb/77/712500_Ene6m.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/bb/77/712500_Ene6m.jpg"
+        },
+        "collection": {
+          "doing": 4
+        }
+      },
+      {
+        "id": 717907,
+        "url": "http://bgm.tv/subject/717907",
+        "type": 2,
+        "name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク 6周年アニバーサリーソング『エメラルド』2DMV",
+        "name_cn": "世界计划 缤纷舞台！ feat. 初音未来 6周年纪念曲『Emerald』2DMV",
+        "summary": "",
+        "air_date": "2026-10-31",
+        "air_weekday": 6,
+        "rating": {
+          "total": 1,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 0,
+            "5": 0,
+            "4": 1,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 4
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/ac/b8/717907_zIFiJ.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/ac/b8/717907_zIFiJ.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/ac/b8/717907_zIFiJ.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/ac/b8/717907_zIFiJ.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/ac/b8/717907_zIFiJ.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "weekday": {
+      "en": "Sun",
+      "cn": "星期日",
+      "ja": "日耀日",
+      "id": 7
+    },
+    "items": [
+      {
+        "id": 536270,
+        "url": "http://bgm.tv/subject/536270",
+        "type": 2,
+        "name": "目覚めたら最強装備と宇宙船持ちだったので 、一戸建て目指して傭兵として自由に生きたい",
+        "name_cn": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 235,
+          "count": {
+            "10": 7,
+            "9": 1,
+            "8": 7,
+            "7": 43,
+            "6": 100,
+            "5": 43,
+            "4": 21,
+            "3": 8,
+            "2": 2,
+            "1": 3
+          },
+          "score": 5.8
+        },
+        "rank": 7851,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/3e/fc/536270_51P45.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/3e/fc/536270_51P45.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/3e/fc/536270_51P45.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/3e/fc/536270_51P45.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/3e/fc/536270_51P45.jpg"
+        },
+        "collection": {
+          "doing": 1526
+        }
+      },
+      {
+        "id": 548156,
+        "url": "http://bgm.tv/subject/548156",
+        "type": 2,
+        "name": "アオのハコ Season 2",
+        "name_cn": "青之箱 第二季",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 359,
+          "count": {
+            "10": 11,
+            "9": 4,
+            "8": 32,
+            "7": 107,
+            "6": 136,
+            "5": 40,
+            "4": 13,
+            "3": 7,
+            "2": 4,
+            "1": 5
+          },
+          "score": 6.3
+        },
+        "rank": 6177,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_L3fC6.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/f1/6c/548156_L3fC6.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/f1/6c/548156_L3fC6.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/f1/6c/548156_L3fC6.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/f1/6c/548156_L3fC6.jpg"
+        },
+        "collection": {
+          "doing": 2312
+        }
+      },
+      {
+        "id": 551304,
+        "url": "http://bgm.tv/subject/551304",
+        "type": 2,
+        "name": "わたしの幸せな結婚 特別篇",
+        "name_cn": "我的幸福婚姻 特别篇",
+        "summary": "",
+        "air_date": "2026-10-25",
+        "air_weekday": 7,
+        "rating": {
+          "total": 60,
+          "count": {
+            "10": 1,
+            "9": 0,
+            "8": 4,
+            "7": 6,
+            "6": 32,
+            "5": 12,
+            "4": 1,
+            "3": 2,
+            "2": 0,
+            "1": 2
+          },
+          "score": 5.8
+        },
+        "rank": 6183,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/ac/40/551304_FbmZ9.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/ac/40/551304_FbmZ9.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/ac/40/551304_FbmZ9.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/ac/40/551304_FbmZ9.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/ac/40/551304_FbmZ9.jpg"
+        },
+        "collection": {
+          "doing": 72
+        }
+      },
+      {
+        "id": 555605,
+        "url": "http://bgm.tv/subject/555605",
+        "type": 2,
+        "name": "アオアシ Season 2",
+        "name_cn": "青之芦苇 第二季",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 198,
+          "count": {
+            "10": 16,
+            "9": 6,
+            "8": 58,
+            "7": 87,
+            "6": 24,
+            "5": 4,
+            "4": 1,
+            "3": 0,
+            "2": 1,
+            "1": 1
+          },
+          "score": 7.4
+        },
+        "rank": 1444,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/67/5a/555605_cLCw5.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/67/5a/555605_cLCw5.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/67/5a/555605_cLCw5.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/67/5a/555605_cLCw5.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/67/5a/555605_cLCw5.jpg"
+        },
+        "collection": {
+          "doing": 1226
+        }
+      },
+      {
+        "id": 589775,
+        "url": "http://bgm.tv/subject/589775",
+        "type": 2,
+        "name": "ホテル・インヒューマンズ 第2期",
+        "name_cn": "杀手旅店 第二季",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 30,
+          "count": {
+            "10": 0,
+            "9": 1,
+            "8": 1,
+            "7": 2,
+            "6": 16,
+            "5": 6,
+            "4": 2,
+            "3": 1,
+            "2": 0,
+            "1": 1
+          },
+          "score": 5.6
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/5d/8c/589775_QZq4Z.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/5d/8c/589775_QZq4Z.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/5d/8c/589775_QZq4Z.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/5d/8c/589775_QZq4Z.jpg"
+        },
+        "collection": {
+          "doing": 182
+        }
+      },
+      {
+        "id": 596771,
+        "url": "http://bgm.tv/subject/596771",
+        "type": 2,
+        "name": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
+        "name_cn": "极致软弱千金小姐，不小心答应了精明未婚夫的赌局",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 84,
+          "count": {
+            "10": 0,
+            "9": 2,
+            "8": 2,
+            "7": 1,
+            "6": 19,
+            "5": 25,
+            "4": 18,
+            "3": 8,
+            "2": 5,
+            "1": 4
+          },
+          "score": 4.6
+        },
+        "rank": 9381,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/39/bd/596771_y75Tw.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/39/bd/596771_y75Tw.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/39/bd/596771_y75Tw.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/39/bd/596771_y75Tw.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/39/bd/596771_y75Tw.jpg"
+        },
+        "collection": {
+          "doing": 390
+        }
+      },
+      {
+        "id": 605533,
+        "url": "http://bgm.tv/subject/605533",
+        "type": 2,
+        "name": "おじさんはカワイイものがお好き。",
+        "name_cn": "大叔喜欢可爱小玩意",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 60,
+          "count": {
+            "10": 0,
+            "9": 1,
+            "8": 3,
+            "7": 8,
+            "6": 25,
+            "5": 14,
+            "4": 7,
+            "3": 0,
+            "2": 1,
+            "1": 1
+          },
+          "score": 5.7
+        },
+        "rank": 6633,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/d1/e7/605533_97NSn.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/d1/e7/605533_97NSn.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/d1/e7/605533_97NSn.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/d1/e7/605533_97NSn.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/d1/e7/605533_97NSn.jpg"
+        },
+        "collection": {
+          "doing": 280
+        }
+      },
+      {
+        "id": 621073,
+        "url": "http://bgm.tv/subject/621073",
+        "type": 2,
+        "name": "信者ゼロの女神サマと始める異世界攻略",
+        "name_cn": "和没有信徒的女神大人一起攻略异世界",
+        "summary": "",
+        "air_date": "2026-10-11",
+        "air_weekday": 7,
+        "rating": {
+          "total": 128,
+          "count": {
+            "10": 4,
+            "9": 1,
+            "8": 0,
+            "7": 11,
+            "6": 62,
+            "5": 27,
+            "4": 18,
+            "3": 2,
+            "2": 0,
+            "1": 3
+          },
+          "score": 5.6
+        },
+        "rank": 7964,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/ec/f9/621073_oFcZ3.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/ec/f9/621073_oFcZ3.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/ec/f9/621073_oFcZ3.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/ec/f9/621073_oFcZ3.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/ec/f9/621073_oFcZ3.jpg"
+        },
+        "collection": {
+          "doing": 1027
+        }
+      },
+      {
+        "id": 623249,
+        "url": "http://bgm.tv/subject/623249",
+        "type": 2,
+        "name": "ドラゴンボール超 ビルス",
+        "name_cn": "龙珠超 比鲁斯",
+        "summary": "",
+        "air_date": "2026-10-11",
+        "air_weekday": 7,
+        "rating": {
+          "total": 128,
+          "count": {
+            "10": 10,
+            "9": 8,
+            "8": 48,
+            "7": 42,
+            "6": 13,
+            "5": 5,
+            "4": 0,
+            "3": 0,
+            "2": 1,
+            "1": 1
+          },
+          "score": 7.5
+        },
+        "rank": 1286,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/0f/0f/623249_zCdly.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/0f/0f/623249_zCdly.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/0f/0f/623249_zCdly.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/0f/0f/623249_zCdly.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/0f/0f/623249_zCdly.jpg"
+        },
+        "collection": {
+          "doing": 850
+        }
+      },
+      {
+        "id": 630160,
+        "url": "http://bgm.tv/subject/630160",
+        "type": 2,
+        "name": "ダークサモナーとデキている",
+        "name_cn": "黑暗召唤师在地下恋爱中",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 399,
+          "count": {
+            "10": 3,
+            "9": 6,
+            "8": 31,
+            "7": 119,
+            "6": 179,
+            "5": 43,
+            "4": 11,
+            "3": 2,
+            "2": 1,
+            "1": 4
+          },
+          "score": 6.3
+        },
+        "rank": 6162,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/9e/b5/630160_tL25y.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/9e/b5/630160_tL25y.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/9e/b5/630160_tL25y.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/9e/b5/630160_tL25y.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/9e/b5/630160_tL25y.jpg"
+        },
+        "collection": {
+          "doing": 3763
+        }
+      },
+      {
+        "id": 632817,
+        "url": "http://bgm.tv/subject/632817",
+        "type": 2,
+        "name": "肥志百科 第15季",
+        "name_cn": "肥志百科 第15季",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 1,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 1,
+            "5": 0,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 6
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/3e/4b/632817_iiHlp.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/3e/4b/632817_iiHlp.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/3e/4b/632817_iiHlp.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/3e/4b/632817_iiHlp.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/3e/4b/632817_iiHlp.jpg"
+        },
+        "collection": {
+          "doing": 1
+        }
+      },
+      {
+        "id": 634210,
+        "url": "http://bgm.tv/subject/634210",
+        "type": 2,
+        "name": "魔法の姉妹ルルットリリィ 第2クール",
+        "name_cn": "魔法姐妹露露特莉莉 第2部分",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 92,
+          "count": {
+            "10": 1,
+            "9": 2,
+            "8": 7,
+            "7": 44,
+            "6": 27,
+            "5": 9,
+            "4": 1,
+            "3": 0,
+            "2": 0,
+            "1": 1
+          },
+          "score": 6.6
+        },
+        "rank": 3901,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/44/ed/634210_O7aNK.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/44/ed/634210_O7aNK.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/44/ed/634210_O7aNK.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/44/ed/634210_O7aNK.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/44/ed/634210_O7aNK.jpg"
+        },
+        "collection": {
+          "doing": 533
+        }
+      },
+      {
+        "id": 635258,
+        "url": "http://bgm.tv/subject/635258",
+        "type": 2,
+        "name": "ポップパップポルターズ",
+        "name_cn": "啵普与帕噗与珀尔嗒",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 1,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 1,
+            "6": 0,
+            "5": 0,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 7
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/df/29/635258_JqFf3.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/df/29/635258_JqFf3.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/df/29/635258_JqFf3.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/df/29/635258_JqFf3.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/df/29/635258_JqFf3.jpg"
+        },
+        "collection": {
+          "doing": 8
+        }
+      },
+      {
+        "id": 636023,
+        "url": "http://bgm.tv/subject/636023",
+        "type": 2,
+        "name": "TANK CHAIR-戦車椅子-",
+        "name_cn": "战车椅子",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 268,
+          "count": {
+            "10": 0,
+            "9": 1,
+            "8": 8,
+            "7": 81,
+            "6": 118,
+            "5": 36,
+            "4": 12,
+            "3": 5,
+            "2": 4,
+            "1": 3
+          },
+          "score": 6
+        },
+        "rank": 7380,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/94/c9/636023_iF8j7.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/94/c9/636023_iF8j7.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/94/c9/636023_iF8j7.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/94/c9/636023_iF8j7.jpg"
+        },
+        "collection": {
+          "doing": 1331
+        }
+      },
+      {
+        "id": 636058,
+        "url": "http://bgm.tv/subject/636058",
+        "type": 2,
+        "name": "彼方から",
+        "name_cn": "来自远方",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 45,
+          "count": {
+            "10": 1,
+            "9": 1,
+            "8": 1,
+            "7": 9,
+            "6": 7,
+            "5": 8,
+            "4": 13,
+            "3": 3,
+            "2": 1,
+            "1": 1
+          },
+          "score": 5.2
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/58/0c/636058_bDwNj.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/58/0c/636058_bDwNj.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/58/0c/636058_bDwNj.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/58/0c/636058_bDwNj.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/58/0c/636058_bDwNj.jpg"
+        },
+        "collection": {
+          "doing": 207
+        }
+      },
+      {
+        "id": 638081,
+        "url": "http://bgm.tv/subject/638081",
+        "type": 2,
+        "name": "タヌキとキツネ",
+        "name_cn": "小狸猫与小狐狸",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 11,
+          "count": {
+            "10": 2,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 0,
+            "5": 2,
+            "4": 0,
+            "3": 1,
+            "2": 0,
+            "1": 6
+          },
+          "score": 3.5
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/49/6a/638081_tc7A0.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/49/6a/638081_tc7A0.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/49/6a/638081_tc7A0.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/49/6a/638081_tc7A0.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/49/6a/638081_tc7A0.jpg"
+        },
+        "collection": {
+          "doing": 33
+        }
+      },
+      {
+        "id": 646586,
+        "url": "http://bgm.tv/subject/646586",
+        "type": 2,
+        "name": "ぷにるんず ぷに４",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/b7/a4/646586_DcbJB.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/b7/a4/646586_DcbJB.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/b7/a4/646586_DcbJB.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/b7/a4/646586_DcbJB.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/b7/a4/646586_DcbJB.jpg"
+        },
+        "collection": {
+          "doing": 2
+        }
+      },
+      {
+        "id": 647220,
+        "url": "http://bgm.tv/subject/647220",
+        "type": 2,
+        "name": "彼女の友達",
+        "name_cn": "女友的朋友",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 185,
+          "count": {
+            "10": 1,
+            "9": 1,
+            "8": 3,
+            "7": 1,
+            "6": 21,
+            "5": 46,
+            "4": 62,
+            "3": 33,
+            "2": 8,
+            "1": 9
+          },
+          "score": 4.2
+        },
+        "rank": 10151,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/24/df/647220_cZZjY.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/24/df/647220_cZZjY.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/24/df/647220_cZZjY.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/24/df/647220_cZZjY.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/24/df/647220_cZZjY.jpg"
+        },
+        "collection": {
+          "doing": 1320
+        }
+      },
+      {
+        "id": 656083,
+        "url": "http://bgm.tv/subject/656083",
+        "type": 2,
+        "name": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪",
+        "name_cn": "不擅交际的未亡人雪女与诅咒戒指",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 239,
+          "count": {
+            "10": 5,
+            "9": 1,
+            "8": 5,
+            "7": 23,
+            "6": 67,
+            "5": 79,
+            "4": 44,
+            "3": 8,
+            "2": 2,
+            "1": 5
+          },
+          "score": 5.3
+        },
+        "rank": 9240,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/af/7e/656083_B22Yt.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/af/7e/656083_B22Yt.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/af/7e/656083_B22Yt.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/af/7e/656083_B22Yt.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/af/7e/656083_B22Yt.jpg"
+        },
+        "collection": {
+          "doing": 1709
+        }
+      },
+      {
+        "id": 661278,
+        "url": "http://bgm.tv/subject/661278",
+        "type": 2,
+        "name": "ゆるゆる図鑑",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 2,
+          "count": {
+            "10": 1,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 0,
+            "5": 0,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 1
+          },
+          "score": 5.5
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/e3/df/661278_g29RR.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/e3/df/661278_g29RR.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/e3/df/661278_g29RR.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/e3/df/661278_g29RR.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/e3/df/661278_g29RR.jpg"
+        },
+        "collection": {
+          "doing": 5
+        }
+      },
+      {
+        "id": 664389,
+        "url": "http://bgm.tv/subject/664389",
+        "type": 2,
+        "name": "夜桜さんちの大作戦 第2期 第2クール",
+        "name_cn": "夜樱家的大作战 第二季 第2部分",
+        "summary": "",
+        "air_date": "2026-10-11",
+        "air_weekday": 7,
+        "rating": {
+          "total": 64,
+          "count": {
+            "10": 1,
+            "9": 1,
+            "8": 2,
+            "7": 14,
+            "6": 28,
+            "5": 8,
+            "4": 8,
+            "3": 1,
+            "2": 0,
+            "1": 1
+          },
+          "score": 5.9
+        },
+        "rank": 5984,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/95/5d/664389_zP36V.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/95/5d/664389_zP36V.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/95/5d/664389_zP36V.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/95/5d/664389_zP36V.jpg"
+        },
+        "collection": {
+          "doing": 519
+        }
+      },
+      {
+        "id": 664395,
+        "url": "http://bgm.tv/subject/664395",
+        "type": 2,
+        "name": "ダイヤのA actⅡ Second Season 第2クール",
+        "name_cn": "钻石王牌 act2 第二季 第2部分",
+        "summary": "",
+        "air_date": "2026-10-11",
+        "air_weekday": 7,
+        "rating": {
+          "total": 9,
+          "count": {
+            "10": 2,
+            "9": 1,
+            "8": 0,
+            "7": 2,
+            "6": 1,
+            "5": 2,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 1
+          },
+          "score": 6.7
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/61/d5/664395_diPLi.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/61/d5/664395_diPLi.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/61/d5/664395_diPLi.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/61/d5/664395_diPLi.jpg"
+        },
+        "collection": {
+          "doing": 139
+        }
+      },
+      {
+        "id": 688797,
+        "url": "http://bgm.tv/subject/688797",
+        "type": 2,
+        "name": "僕らが選んだベストアドベンチャー",
+        "name_cn": "数码宝贝30周年纪念：我们选出的最佳冒险",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 6,
+          "count": {
+            "10": 2,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 2,
+            "5": 1,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 1
+          },
+          "score": 6.3
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/14/2d/688797_z3waa.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/14/2d/688797_z3waa.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/14/2d/688797_z3waa.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/14/2d/688797_z3waa.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/14/2d/688797_z3waa.jpg"
+        },
+        "collection": {
+          "doing": 19
+        }
+      },
+      {
+        "id": 698032,
+        "url": "http://bgm.tv/subject/698032",
+        "type": 2,
+        "name": "マウスカーソルで 現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
+        "name_cn": "因为鼠标光标似乎可以操控现实，所以我要疯狂点击女孩子",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 56,
+          "count": {
+            "10": 0,
+            "9": 1,
+            "8": 1,
+            "7": 0,
+            "6": 4,
+            "5": 19,
+            "4": 18,
+            "3": 6,
+            "2": 6,
+            "1": 1
+          },
+          "score": 4.3
+        },
+        "rank": 9293,
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/00/50/698032_1UUWe.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/00/50/698032_1UUWe.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/00/50/698032_1UUWe.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/00/50/698032_1UUWe.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/00/50/698032_1UUWe.jpg"
+        },
+        "collection": {
+          "doing": 461
+        }
+      },
+      {
+        "id": 708612,
+        "url": "http://bgm.tv/subject/708612",
+        "type": 2,
+        "name": "ダークサモナーとデキている  ミニアニメ劇場",
+        "name_cn": "黑暗召唤师在地下恋爱中 迷你动画剧场",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 1,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 0,
+            "5": 1,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 5
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/9c/1d/708612_jks1j.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/9c/1d/708612_jks1j.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/9c/1d/708612_jks1j.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/9c/1d/708612_jks1j.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/9c/1d/708612_jks1j.jpg"
+        },
+        "collection": {
+          "doing": 13
+        }
+      },
+      {
+        "id": 712000,
+        "url": "http://bgm.tv/subject/712000",
+        "type": 2,
+        "name": "牧神记 伍",
+        "name_cn": "牧神记5",
+        "summary": "",
+        "air_date": "2026-10-18",
+        "air_weekday": 7,
+        "rating": {
+          "total": 10,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 1,
+            "7": 4,
+            "6": 3,
+            "5": 1,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 1
+          },
+          "score": 6
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/da/c8/712000_Z5S1J.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/da/c8/712000_Z5S1J.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/da/c8/712000_Z5S1J.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/da/c8/712000_Z5S1J.jpg"
+        },
+        "collection": {
+          "doing": 98
+        }
+      },
+      {
+        "id": 715907,
+        "url": "http://bgm.tv/subject/715907",
+        "type": 2,
+        "name": "罗德岛学院",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-25",
+        "air_weekday": 7,
+        "rating": {
+          "total": 11,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 3,
+            "7": 2,
+            "6": 5,
+            "5": 0,
+            "4": 1,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 6.5
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/b4/fc/715907_1Llil.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/b4/fc/715907_1Llil.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/b4/fc/715907_1Llil.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/b4/fc/715907_1Llil.jpg"
+        },
+        "collection": {
+          "doing": 24
+        }
+      },
+      {
+        "id": 716251,
+        "url": "http://bgm.tv/subject/716251",
+        "type": 2,
+        "name": "【活動記録】間章 Dream Interlude「陽ノ下に咲く蓮」（蓮ノ空女学院スクールアイドルクラブ）",
+        "name_cn": "",
+        "summary": "",
+        "air_date": "2026-10-04",
+        "air_weekday": 7,
+        "rating": {
+          "total": 1,
+          "count": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 0,
+            "5": 1,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+          },
+          "score": 5
+        },
+        "images": {
+          "large": "http://lain.bgm.tv/pic/cover/l/39/20/716251_y0b05.jpg",
+          "common": "http://lain.bgm.tv/pic/cover/c/39/20/716251_y0b05.jpg",
+          "medium": "http://lain.bgm.tv/pic/cover/m/39/20/716251_y0b05.jpg",
+          "small": "http://lain.bgm.tv/pic/cover/s/39/20/716251_y0b05.jpg",
+          "grid": "http://lain.bgm.tv/pic/cover/g/39/20/716251_y0b05.jpg"
+        },
+        "collection": {
+          "doing": 1
+        }
+      }
+    ]
+  }
+]

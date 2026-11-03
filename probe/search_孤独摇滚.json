@@ -1,0 +1,2486 @@
+{
+  "data": [
+    {
+      "date": "2022-10-08",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/e2/e7/328609_2EHLJ.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e2/e7/328609_2EHLJ.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/e2/e7/328609_2EHLJ.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e2/e7/328609_2EHLJ.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/e2/e7/328609_2EHLJ.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/e2/e7/328609_2EHLJ.jpg",
+      "summary": "作为网络吉他手“吉他英雄”而广受好评的后藤一里，在现实中却是个什么都不会的沟通障碍者。一里有着组建乐队的梦想，但因为不敢向人主动搭话而一直没有成功，直到一天在公园中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。可是，完全没有和他人合作经历的一里，在人前完全发挥不出原本的实力。为了努力克服沟通障碍，一里与“结束乐队”的成员们一同开始努力……",
+      "name": "ぼっち・ざ・ろっく！",
+      "name_cn": "孤独摇滚！",
+      "tags": [
+        {
+          "name": "芳文社",
+          "count": 10988,
+          "total_count": 78713
+        },
+        {
+          "name": "音乐",
+          "count": 9453,
+          "total_count": 106035
+        },
+        {
+          "name": "轻百合",
+          "count": 7560,
+          "total_count": 39349
+        },
+        {
+          "name": "CloverWorks",
+          "count": 7126,
+          "total_count": 57709
+        },
+        {
+          "name": "日常",
+          "count": 6993,
+          "total_count": 417020
+        },
+        {
+          "name": "乐队题材",
+          "count": 4793,
+          "total_count": 4994
+        },
+        {
+          "name": "漫画改",
+          "count": 4793,
+          "total_count": 895321
+        },
+        {
+          "name": "2022年10月",
+          "count": 4554,
+          "total_count": 36270
+        },
+        {
+          "name": "搞笑",
+          "count": 3375,
+          "total_count": 659265
+        },
+        {
+          "name": "TV",
+          "count": 3185,
+          "total_count": 1449901
+        },
+        {
+          "name": "百合",
+          "count": 2238,
+          "total_count": 415078
+        },
+        {
+          "name": "2022",
+          "count": 1858,
+          "total_count": 81965
+        },
+        {
+          "name": "斎藤圭一郎",
+          "count": 1546,
+          "total_count": 1932
+        },
+        {
+          "name": "漫改",
+          "count": 1520,
+          "total_count": 370971
+        },
+        {
+          "name": "乐队",
+          "count": 997,
+          "total_count": 24006
+        },
+        {
+          "name": "日本",
+          "count": 731,
+          "total_count": 316192
+        },
+        {
+          "name": "梅原翔太",
+          "count": 478,
+          "total_count": 1721
+        },
+        {
+          "name": "校园",
+          "count": 247,
+          "total_count": 472510
+        },
+        {
+          "name": "斋藤圭一郎",
+          "count": 214,
+          "total_count": 3884
+        },
+        {
+          "name": "青春",
+          "count": 193,
+          "total_count": 110550
+        },
+        {
+          "name": "治愈",
+          "count": 167,
+          "total_count": 309284
+        },
+        {
+          "name": "萌",
+          "count": 92,
+          "total_count": 72383
+        },
+        {
+          "name": "神作",
+          "count": 89,
+          "total_count": 48406
+        },
+        {
+          "name": "孤独摇滚",
+          "count": 87,
+          "total_count": 374
+        },
+        {
+          "name": "少女乐队",
+          "count": 84,
+          "total_count": 506
+        },
+        {
+          "name": "社恐",
+          "count": 79,
+          "total_count": 129
+        },
+        {
+          "name": "轻百",
+          "count": 74,
+          "total_count": 4292
+        },
+        {
+          "name": "2022年",
+          "count": 58,
+          "total_count": 3522
+        },
+        {
+          "name": "摇滚",
+          "count": 57,
+          "total_count": 2142
+        },
+        {
+          "name": "成长",
+          "count": 37,
+          "total_count": 5749
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "孤独摇滚！"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "BTR"
+            },
+            {
+              "v": "Bocchi the Rock!"
+            },
+            {
+              "v": "Bocchi the \"Guitar Hero\" Rock Story"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "12"
+        },
+        {
+          "key": "放送开始",
+          "value": "2022年10月8日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://bocchi.rocks/tv/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "TOKYO MX / BS11 / 群馬テレビ / とちぎテレビ"
+        },
+        {
+          "key": "其他电视台",
+          "value": "MRT宮崎放送 / MBS / RKB毎日放送 / AT-X"
+        },
+        {
+          "key": "播放结束",
+          "value": "2022年12月24日"
+        },
+        {
+          "key": "导演",
+          "value": "斎藤圭一郎"
+        },
+        {
+          "key": "音乐",
+          "value": "菊谷知樹"
+        },
+        {
+          "key": "Copyright",
+          "value": "©はまじあき／芳文社・アニプレックス"
+        },
+        {
+          "key": "原作",
+          "value": "はまじあき（芳文社「まんがタイムきららMAX」連載中）"
+        },
+        {
+          "key": "系列构成",
+          "value": "吉田恵里香"
+        },
+        {
+          "key": "人物设定",
+          "value": "けろりら"
+        },
+        {
+          "key": "副人物设定",
+          "value": "人设协力：高橋沙妃(6)"
+        },
+        {
+          "key": "总作画监督",
+          "value": "けろりら"
+        },
+        {
+          "key": "副导演",
+          "value": "山本ゆうすけ"
+        },
+        {
+          "key": "道具设计",
+          "value": "永木歩実；人偶制作：佐藤利幸"
+        },
+        {
+          "key": "色彩设计",
+          "value": "横田明日香"
+        },
+        {
+          "key": "美术监督",
+          "value": "守安靖尚"
+        },
+        {
+          "key": "美术设计",
+          "value": "taracod"
+        },
+        {
+          "key": "摄影监督",
+          "value": "金森つばさ"
+        },
+        {
+          "key": "摄影监督助理",
+          "value": "佐藤瑠里"
+        },
+        {
+          "key": "CG 导演",
+          "value": "宮地克明；Live CG导演：内田博明"
+        },
+        {
+          "key": "3DCG",
+          "value": "Boundary；LIVE 舞台CG：exsa"
+        },
+        {
+          "key": "剪辑",
+          "value": "平木大輔"
+        },
+        {
+          "key": "剪辑助理",
+          "value": "丸山流美"
+        },
+        {
+          "key": "音响监督",
+          "value": "藤田亜紀子"
+        },
+        {
+          "key": "音响",
+          "value": "HALF H・P STUDIO"
+        },
+        {
+          "key": "音响制作担当",
+          "value": "鑰山千代"
+        },
+        {
+          "key": "音效",
+          "value": "八十正太"
+        },
+        {
+          "key": "录音",
+          "value": "林淑恭"
+        },
+        {
+          "key": "录音助理",
+          "value": "關このみ"
+        },
+        {
+          "key": "录音工作室",
+          "value": "タバック"
+        },
+        {
+          "key": "音乐制作",
+          "value": "Aniplex"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "山内真治"
+        },
+        {
+          "key": "音乐监督",
+          "value": "岡村弦"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "三井律郎"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "音羽-otoha-（OP）、谷口鮪 (KANA-BOON)、中嶋イッキュウ、北澤ゆうほ（ED）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "樋口愛（ヒグチアイ）（OP）、谷口鮪 (KANA-BOON)、中嶋イッキュウ、北澤ゆうほ（ED）"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "結束バンド (青山吉能、長谷川育美、水野朔、鈴代紗弓)"
+        },
+        {
+          "key": "插入歌演出",
+          "value": "結束バンド、SICK HACK"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "斎藤圭一郎 / スズキハルカ"
+        },
+        {
+          "key": "OP・ED 演出",
+          "value": "斎藤圭一郎 / スズキハルカ"
+        },
+        {
+          "key": "OP・ED 动画制作",
+          "value": "ED动画制作：Pie in the sky"
+        },
+        {
+          "key": "动画制作",
+          "value": "CloverWorks"
+        },
+        {
+          "key": "製作",
+          "value": "Aniplex、芳文社"
+        },
+        {
+          "key": "製作协力",
+          "value": "三宅将典、淀明子、鈴木健太"
+        },
+        {
+          "key": "企画",
+          "value": "岩上敦宏、孝壽尚志"
+        },
+        {
+          "key": "企画协力",
+          "value": "月岡佑紀"
+        },
+        {
+          "key": "制片人",
+          "value": "石川達也、小林宏之"
+        },
+        {
+          "key": "副制片人",
+          "value": "高山幹弘"
+        },
+        {
+          "key": "宣传制片人",
+          "value": "田中瑛"
+        },
+        {
+          "key": "宣传",
+          "value": "尼子風斗、濱岡直輝、小山憲太郎"
+        },
+        {
+          "key": "原作协力",
+          "value": "瀬古口拓也"
+        },
+        {
+          "key": "制作事务",
+          "value": "岡本千尋、岡田千晴、秋山ちほ、伊藤奈々子、大下真由美"
+        },
+        {
+          "key": "动画制片人",
+          "value": "梅原翔太"
+        },
+        {
+          "key": "制作统括",
+          "value": "清水暁"
+        },
+        {
+          "key": "制作管理",
+          "value": "制作デスク：木村美月"
+        },
+        {
+          "key": "制作管理助理",
+          "value": "制作デスク補佐：染野翔"
+        },
+        {
+          "key": "设定制作",
+          "value": "長田晃"
+        },
+        {
+          "key": "脚本",
+          "value": "吉田恵里香"
+        },
+        {
+          "key": "分镜",
+          "value": "斎藤圭一郎(1,2,8,12)、山本ゆうすけ(3,11)、刈谷暢秀(4)、川上雄介(5,10)、藤原佳幸(6)、アマタジャンチキ[石井俊匡](7)、平峯義大(9)"
+        },
+        {
+          "key": "演出",
+          "value": "斎藤圭一郎(1,12)、藤原佳幸(2,6,10)、山本ゆうすけ(3,11)、刈谷暢秀(4)、川上雄介(5,10)、篠原啓輔(7)、瀬尾健(8)、平峯義大(9)"
+        },
+        {
+          "key": "作画监督",
+          "value": "けろりら(OP,1,4,6-8,10,12)、助川裕彦(2,11)、中村颯(3)、Maring Song(4,10)、高橋沙妃(5,10)、冨田真理(6)、朴世英(7)、石田一将(7)、川妻智美(7)、Franziska van Wulfen(8)、TOMATO(8)、伊藤弘樹(9)、きーくん[杉本龍彦](10)、スズキハルカ(ED)"
+        },
+        {
+          "key": "主动画师",
+          "value": "LIVE动画师：伊藤優希"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "森川侑紀、安野将人、山崎淳、中村颯、高橋沙妃、けろりら、冨田真理、刈谷暢秀、瀬尾健、平峯義大、伊藤弘樹"
+        },
+        {
+          "key": "演出助理",
+          "value": "山本ゆうすけ、篠原啓輔"
+        },
+        {
+          "key": "标题设计",
+          "value": "タイトルロゴ・サブタイトルデザイン：内古閑智之"
+        }
+      ],
+      "rating": {
+        "rank": 73,
+        "total": 41530,
+        "count": {
+          "1": 200,
+          "2": 49,
+          "3": 51,
+          "4": 112,
+          "5": 378,
+          "6": 1426,
+          "7": 5250,
+          "8": 14390,
+          "9": 12653,
+          "10": 7021
+        },
+        "score": 8.4
+      },
+      "collection": {
+        "on_hold": 1214,
+        "dropped": 628,
+        "wish": 4689,
+        "collect": 67666,
+        "doing": 5322
+      },
+      "id": 328609,
+      "eps": 12,
+      "total_episodes": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "音乐",
+        "日常"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": null,
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/9a/537409_w8wy0.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/9a/537409_w8wy0.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/5b/9a/537409_w8wy0.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/9a/537409_w8wy0.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/9a/537409_w8wy0.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/5b/9a/537409_w8wy0.jpg",
+      "summary": "「ぼっちちゃん」こと後藤ひとりは、ギターを愛する孤独な少女。\r\n家で一人寂しく弾くだけの毎日だったが、\r\nひょんなことから伊地知虹夏が率いる「結束バンド」に加入することに。\r\n人前での演奏に不慣れな後藤は、立派なバンドマンになれるのか――",
+      "name": "ぼっち・ざ・ろっく！ 第2期",
+      "name_cn": "孤独摇滚！第二季",
+      "tags": [
+        {
+          "name": "CloverWorks",
+          "count": 329,
+          "total_count": 57704
+        },
+        {
+          "name": "漫画改",
+          "count": 270,
+          "total_count": 895001
+        },
+        {
+          "name": "芳文社",
+          "count": 264,
+          "total_count": 78711
+        },
+        {
+          "name": "TV",
+          "count": 261,
+          "total_count": 1449475
+        },
+        {
+          "name": "音乐",
+          "count": 257,
+          "total_count": 106033
+        },
+        {
+          "name": "日常",
+          "count": 214,
+          "total_count": 417002
+        },
+        {
+          "name": "乐队",
+          "count": 199,
+          "total_count": 24005
+        },
+        {
+          "name": "日本",
+          "count": 128,
+          "total_count": 316163
+        },
+        {
+          "name": "百合",
+          "count": 119,
+          "total_count": 415061
+        },
+        {
+          "name": "漫改",
+          "count": 93,
+          "total_count": 370952
+        },
+        {
+          "name": "未定档",
+          "count": 93,
+          "total_count": 4265
+        },
+        {
+          "name": "轻百合",
+          "count": 78,
+          "total_count": 39348
+        },
+        {
+          "name": "山本ゆうすけ",
+          "count": 76,
+          "total_count": 89
+        },
+        {
+          "name": "搞笑",
+          "count": 61,
+          "total_count": 659218
+        },
+        {
+          "name": "孤独摇滚",
+          "count": 16,
+          "total_count": 374
+        },
+        {
+          "name": "山本裕介",
+          "count": 15,
+          "total_count": 2536
+        },
+        {
+          "name": "续作",
+          "count": 12,
+          "total_count": 48373
+        },
+        {
+          "name": "校园",
+          "count": 7,
+          "total_count": 472483
+        },
+        {
+          "name": "乐队题材",
+          "count": 5,
+          "total_count": 4993
+        },
+        {
+          "name": "少女乐队",
+          "count": 4,
+          "total_count": 506
+        },
+        {
+          "name": "未上映",
+          "count": 4,
+          "total_count": 673
+        },
+        {
+          "name": "少女",
+          "count": 3,
+          "total_count": 6431
+        },
+        {
+          "name": "滨路晶",
+          "count": 3,
+          "total_count": 10
+        },
+        {
+          "name": "TVA",
+          "count": 3,
+          "total_count": 16355
+        },
+        {
+          "name": "青春",
+          "count": 3,
+          "total_count": 110549
+        },
+        {
+          "name": "小田景门",
+          "count": 3,
+          "total_count": 3
+        },
+        {
+          "name": "治愈",
+          "count": 2,
+          "total_count": 309265
+        },
+        {
+          "name": "喜剧",
+          "count": 2,
+          "total_count": 40248
+        },
+        {
+          "name": "吉田恵里香",
+          "count": 2,
+          "total_count": 64
+        },
+        {
+          "name": "梅原翔太",
+          "count": 2,
+          "total_count": 1721
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "孤独摇滚！第二季"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "BTR 2"
+            },
+            {
+              "v": "Bocchi the Rock! Season 2"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "*"
+        },
+        {
+          "key": "放送开始",
+          "value": "*"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://bocchi.rocks/"
+        },
+        {
+          "key": "导演",
+          "value": "山本ゆうすけ"
+        },
+        {
+          "key": "Copyright",
+          "value": "©はまじあき／芳文社・アニプレックス"
+        },
+        {
+          "key": "原作",
+          "value": "はまじあき（芳文社「まんがタイムきららMAX」連載中）"
+        },
+        {
+          "key": "人物设定",
+          "value": "小田景門、けろりら"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 53,
+        "count": {
+          "1": 7,
+          "2": 1,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 6,
+          "7": 6,
+          "8": 21,
+          "9": 1,
+          "10": 11
+        },
+        "score": 7.1
+      },
+      "collection": {
+        "on_hold": 89,
+        "dropped": 20,
+        "wish": 5790,
+        "collect": 155,
+        "doing": 175
+      },
+      "id": 537409,
+      "eps": 0,
+      "total_episodes": 0,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "音乐",
+        "日常"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": null,
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/81/718086_3MYt2.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/81/718086_3MYt2.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/d6/81/718086_3MYt2.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/81/718086_3MYt2.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/81/718086_3MYt2.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/d6/81/718086_3MYt2.jpg",
+      "summary": "これは結束バンド結成以前――\"別れ\"から始まる\"姉妹の夢\"の物語\r\n\r\n芳文社・「まんがタイムきららMAX」連載中の、はまじあきによる人気4コマ漫画「ぼっち・ざ・ろっく！」。\r\n極度の人見知りで陰キャな少女・後藤ひとりが《結束バンド》というバンドに加入し、\r\n伊地知虹夏、山田リョウ、喜多郁代の3人の個性的なメンバーとともに成長していく様を描き、多くの共感を集めている。\r\n\r\n2022年にTVアニメ１期が放送、2024年には劇場総集編が公開された。\r\nTVアニメ１期は海外メディア「Anime Trending」が主催する「第9回アニメトレンドアワー」において年間最優秀賞となるアニメオブザイヤーほか8冠を達成し、「劇場総集編Re:」は総集編ながら公開初週の週末動員&興行で1位を獲得するなど、国内外問わず絶大な人気を博し、TVアニメ２期の制作も決定している。\r\nさらに、音楽面では《結束バンド》のフルアルバム「結束バンド」が2023 年のオリコン「作品別売上数部門 デジタルアルバムランキング」年間1位やBillboard JAPAN「年間ダウンロードアルバムチャート」１位を獲得、TVアニメ１期オープニングテーマ「青春コンプレックス」が全世界累計再生数1億回を超えるなど大きな旋風を巻き起こしている。\r\n\r\nそして、伊地知虹夏とその姉・星歌にフォーカスした原作第5巻巻末の「ぼっち・ざ・ろっく！」前日譚が、監督・若林信（『ワンダーエッグ・プライオリティ』）×キャラクターデザイン・堀口悠紀子（『けいおん！』）×脚本・吉田恵里香（『虎に翼』）×アニメーション制作・CloverWorksによって、2027年に待望の映画化――。\r\n",
+      "name": "映画ぼっち・ざ・ろっく！星のあしあと",
+      "name_cn": "电影 孤独摇滚！星之足迹",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 110,
+          "total_count": 739935
+        },
+        {
+          "name": "CloverWorks",
+          "count": 89,
+          "total_count": 57710
+        },
+        {
+          "name": "2027",
+          "count": 71,
+          "total_count": 2109
+        },
+        {
+          "name": "若林信",
+          "count": 51,
+          "total_count": 1427
+        },
+        {
+          "name": "漫画改",
+          "count": 42,
+          "total_count": 895347
+        },
+        {
+          "name": "芳文社",
+          "count": 32,
+          "total_count": 78714
+        },
+        {
+          "name": "堀口悠纪子",
+          "count": 29,
+          "total_count": 268
+        },
+        {
+          "name": "日本",
+          "count": 26,
+          "total_count": 316203
+        },
+        {
+          "name": "日常",
+          "count": 25,
+          "total_count": 417031
+        },
+        {
+          "name": "百合",
+          "count": 22,
+          "total_count": 415082
+        },
+        {
+          "name": "漫改",
+          "count": 16,
+          "total_count": 370985
+        },
+        {
+          "name": "孤獨搖滾",
+          "count": 9,
+          "total_count": 12
+        },
+        {
+          "name": "原创",
+          "count": 8,
+          "total_count": 638038
+        },
+        {
+          "name": "劇場版",
+          "count": 6,
+          "total_count": 4619
+        },
+        {
+          "name": "音乐",
+          "count": 5,
+          "total_count": 106037
+        },
+        {
+          "name": "2027年",
+          "count": 5,
+          "total_count": 122
+        },
+        {
+          "name": "乐队",
+          "count": 3,
+          "total_count": 24006
+        },
+        {
+          "name": "孤独摇滚",
+          "count": 2,
+          "total_count": 374
+        },
+        {
+          "name": "萌",
+          "count": 2,
+          "total_count": 72383
+        },
+        {
+          "name": "搞笑",
+          "count": 2,
+          "total_count": 659279
+        },
+        {
+          "name": "はまじあき",
+          "count": 1,
+          "total_count": 21
+        },
+        {
+          "name": "内田真礼",
+          "count": 1,
+          "total_count": 2416
+        },
+        {
+          "name": "滨路晶",
+          "count": 1,
+          "total_count": 10
+        },
+        {
+          "name": "AM",
+          "count": 1,
+          "total_count": 637
+        },
+        {
+          "name": "萌豚",
+          "count": 1,
+          "total_count": 8140
+        },
+        {
+          "name": "20年代",
+          "count": 1,
+          "total_count": 1390
+        },
+        {
+          "name": "鈴代紗弓",
+          "count": 1,
+          "total_count": 317
+        },
+        {
+          "name": "续篇",
+          "count": 1,
+          "total_count": 1327
+        },
+        {
+          "name": "轻百合",
+          "count": 1,
+          "total_count": 39349
+        },
+        {
+          "name": "芳文社日常",
+          "count": 1,
+          "total_count": 2
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "电影 孤独摇滚！星之足迹"
+        },
+        {
+          "key": "上映年度",
+          "value": "2027年"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://bocchi.rocks/"
+        },
+        {
+          "key": "Copyright",
+          "value": "©はまじあき／芳文社・アニプレックス"
+        },
+        {
+          "key": "导演",
+          "value": "若林信"
+        },
+        {
+          "key": "人物设定",
+          "value": "堀口悠紀子"
+        },
+        {
+          "key": "脚本",
+          "value": "吉田恵里香"
+        },
+        {
+          "key": "动画制作",
+          "value": "CloverWorks"
+        },
+        {
+          "key": "原作",
+          "value": "はまじあき（芳文社「まんがタイムきららMAX」連載中）"
+        },
+        {
+          "key": "设定",
+          "value": "スタイリスト：入山浩章；グラフィックデザイン：濱祐斗"
+        },
+        {
+          "key": "色彩设计",
+          "value": "中島和子"
+        },
+        {
+          "key": "美术监督",
+          "value": "船隠雄貴"
+        },
+        {
+          "key": "摄影监督",
+          "value": "佐久間悠也"
+        },
+        {
+          "key": "剪辑",
+          "value": "平木大輔"
+        },
+        {
+          "key": "音响监督",
+          "value": "藤田亜紀子"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 0,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 0
+      },
+      "collection": {
+        "on_hold": 8,
+        "dropped": 0,
+        "wish": 693,
+        "collect": 1,
+        "doing": 6
+      },
+      "id": 718086,
+      "eps": 0,
+      "total_episodes": 0,
+      "meta_tags": [
+        "剧场版",
+        "日本"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": "2024-06-07",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/4d/fe/436738_Z960u.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4d/fe/436738_Z960u.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/4d/fe/436738_Z960u.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4d/fe/436738_Z960u.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/4d/fe/436738_Z960u.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/4d/fe/436738_Z960u.jpg",
+      "summary": "「ぼっちちゃん」こと後藤ひとりは、ギターを愛する孤独な少女。\r\n 家で一人寂しく弾くだけの毎日だったが、ひょんなことから\r\n 伊地知虹夏が率いる「結束バンド」に加入することに。\r\n 人前での演奏に不慣れな後藤は、立派なバンドマンになれるのか――\r\n",
+      "name": "劇場総集編ぼっち・ざ・ろっく！ Re:",
+      "name_cn": "剧场总集篇孤独摇滚！ Re:",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 1016,
+          "total_count": 739820
+        },
+        {
+          "name": "总集篇",
+          "count": 683,
+          "total_count": 19270
+        },
+        {
+          "name": "CloverWorks",
+          "count": 619,
+          "total_count": 57704
+        },
+        {
+          "name": "2024",
+          "count": 559,
+          "total_count": 73245
+        },
+        {
+          "name": "芳文社",
+          "count": 513,
+          "total_count": 78711
+        },
+        {
+          "name": "漫画改",
+          "count": 497,
+          "total_count": 895064
+        },
+        {
+          "name": "音乐",
+          "count": 465,
+          "total_count": 106033
+        },
+        {
+          "name": "日常",
+          "count": 374,
+          "total_count": 417004
+        },
+        {
+          "name": "斋藤圭一郎",
+          "count": 284,
+          "total_count": 3884
+        },
+        {
+          "name": "百合",
+          "count": 248,
+          "total_count": 415061
+        },
+        {
+          "name": "乐队",
+          "count": 208,
+          "total_count": 24005
+        },
+        {
+          "name": "搞笑",
+          "count": 183,
+          "total_count": 659225
+        },
+        {
+          "name": "孤独摇滚",
+          "count": 129,
+          "total_count": 374
+        },
+        {
+          "name": "漫改",
+          "count": 107,
+          "total_count": 370956
+        },
+        {
+          "name": "治愈",
+          "count": 73,
+          "total_count": 309266
+        },
+        {
+          "name": "轻百合",
+          "count": 34,
+          "total_count": 39348
+        },
+        {
+          "name": "日本",
+          "count": 19,
+          "total_count": 316172
+        },
+        {
+          "name": "校园",
+          "count": 18,
+          "total_count": 472487
+        },
+        {
+          "name": "梅原翔太",
+          "count": 17,
+          "total_count": 1721
+        },
+        {
+          "name": "2024年",
+          "count": 16,
+          "total_count": 2741
+        },
+        {
+          "name": "青春",
+          "count": 13,
+          "total_count": 110549
+        },
+        {
+          "name": "斎藤圭一郎",
+          "count": 8,
+          "total_count": 1932
+        },
+        {
+          "name": "2024年6月",
+          "count": 7,
+          "total_count": 288
+        },
+        {
+          "name": "轻百",
+          "count": 7,
+          "total_count": 4292
+        },
+        {
+          "name": "2025",
+          "count": 6,
+          "total_count": 75093
+        },
+        {
+          "name": "少女乐队",
+          "count": 5,
+          "total_count": 506
+        },
+        {
+          "name": "TV",
+          "count": 4,
+          "total_count": 1449586
+        },
+        {
+          "name": "日本动画",
+          "count": 4,
+          "total_count": 36218
+        },
+        {
+          "name": "续作",
+          "count": 4,
+          "total_count": 48375
+        },
+        {
+          "name": "吉田惠里香",
+          "count": 4,
+          "total_count": 53
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "剧场总集篇孤独摇滚！ Re:"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "劇場総集編「ぼっち・ざ・ろっく！」 前編"
+            },
+            {
+              "v": "BOCCHI THE ROCK! Recap Part 1"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "2024年6月7日"
+        },
+        {
+          "key": "片长",
+          "value": "92分钟"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://bocchi.rocks/"
+        },
+        {
+          "key": "Copyright",
+          "value": "©はまじあき／芳文社・アニプレックス"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "原作",
+          "value": "はまじあき（芳文社「まんがタイムきららMAX」連載中）"
+        },
+        {
+          "key": "导演",
+          "value": "斎藤圭一郎"
+        },
+        {
+          "key": "副导演",
+          "value": "山本ゆうすけ"
+        },
+        {
+          "key": "系列构成",
+          "value": "吉田恵里香"
+        },
+        {
+          "key": "人物设定",
+          "value": "けろりら"
+        },
+        {
+          "key": "原画",
+          "value": "伊藤優希（Live动画师）"
+        },
+        {
+          "key": "道具设计",
+          "value": "永木歩美(永木歩実)"
+        },
+        {
+          "key": "数码绘图",
+          "value": "梅木葵（2D WORK）"
+        },
+        {
+          "key": "美术监督",
+          "value": "守安靖尚"
+        },
+        {
+          "key": "美术设计",
+          "value": "taracod"
+        },
+        {
+          "key": "色彩设计",
+          "value": "横田明日香"
+        },
+        {
+          "key": "摄影监督",
+          "value": "金森つばさ"
+        },
+        {
+          "key": "CG 导演",
+          "value": "宮地克明；Live CG导演：内田博明"
+        },
+        {
+          "key": "剪辑",
+          "value": "平木大輔"
+        },
+        {
+          "key": "音响监督",
+          "value": "藤田亜紀子"
+        },
+        {
+          "key": "音效",
+          "value": "八十正太"
+        },
+        {
+          "key": "音乐",
+          "value": "菊谷知樹"
+        },
+        {
+          "key": "音乐制作",
+          "value": "Aniplex"
+        },
+        {
+          "key": "制片人",
+          "value": "石川達也、小林宏之"
+        },
+        {
+          "key": "制作统括",
+          "value": "清水暁"
+        },
+        {
+          "key": "动画制片人",
+          "value": "梅原翔太"
+        },
+        {
+          "key": "制作管理",
+          "value": "木村美月"
+        },
+        {
+          "key": "动画制作",
+          "value": "CloverWorks"
+        },
+        {
+          "key": "企画",
+          "value": "岩上敦宏、孝壽尚志"
+        },
+        {
+          "key": "製作",
+          "value": "Aniplex、芳文社"
+        },
+        {
+          "key": "脚本",
+          "value": "吉田恵里香"
+        },
+        {
+          "key": "分镜",
+          "value": "斎藤圭一郎、山本ゆうすけ、刈谷暢秀、川上雄介"
+        },
+        {
+          "key": "演出",
+          "value": "斎藤圭一郎、藤原佳幸、山本ゆうすけ、刈谷暢秀、川上雄介"
+        },
+        {
+          "key": "作画监督",
+          "value": "けろりら、助川裕彦、中村颯、Maring Song、高橋沙妃"
+        },
+        {
+          "key": "总作画监督",
+          "value": "けろりら"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "山本ゆうすけ（OP）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "樋口愛(ヒグチアイ) / 北澤ゆうほ"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "音羽-otoha- / 北澤ゆうほ"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "三井律郎"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "喜多郁代（CV：長谷川育美）"
+        },
+        {
+          "key": "插入歌演出",
+          "value": "喜多郁代（CV：長谷川育美）"
+        },
+        {
+          "key": "其他上映日期",
+          "value": "2025年4月25日(中国大陆)"
+        }
+      ],
+      "rating": {
+        "rank": 1189,
+        "total": 2693,
+        "count": {
+          "1": 5,
+          "2": 3,
+          "3": 8,
+          "4": 9,
+          "5": 56,
+          "6": 307,
+          "7": 1097,
+          "8": 944,
+          "9": 168,
+          "10": 96
+        },
+        "score": 7.4
+      },
+      "collection": {
+        "on_hold": 117,
+        "dropped": 61,
+        "wish": 1067,
+        "collect": 5273,
+        "doing": 255
+      },
+      "id": 436738,
+      "eps": 1,
+      "total_episodes": 1,
+      "meta_tags": [
+        "剧场版",
+        "漫画改"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": "2024-08-09",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/16/459642_83jcG.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/16/459642_83jcG.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/8e/16/459642_83jcG.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/16/459642_83jcG.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/16/459642_83jcG.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/8e/16/459642_83jcG.jpg",
+      "summary": "“ぼっちちゃん”こと後藤ひとりは会話の頭に必ず「あっ」って付けてしまう極度の人見知りで陰キャな少女。\r\n\r\nそんな自分でも輝けそうなバンド活動に憧れギターを始めるも友達がいないため、\r\n一人で毎日6時間ギターを弾く中学生時代を過ごすことに。\r\n\r\n上手くなったギターの演奏動画を“ギターヒーロー”としてネットに投稿したり文化祭ライブで活躍したりする妄想なんかをしていると、気づいたときにはバンドメンバーを見つけるどころか\r\n友達が一人も出来ないまま高校生になっていた……！\r\n\r\nひきこもり一歩手前の彼女だったがある日“結束バンド”でドラムをやっている伊地知虹夏に\r\n声をかけられたことで、そんな日常がほんの少しずつ変わっていく――",
+      "name": "劇場総集編ぼっち・ざ・ろっく！ Re:Re:",
+      "name_cn": "剧场总集篇孤独摇滚！ Re:Re:",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 841,
+          "total_count": 739812
+        },
+        {
+          "name": "总集篇",
+          "count": 601,
+          "total_count": 19269
+        },
+        {
+          "name": "CloverWorks",
+          "count": 522,
+          "total_count": 57704
+        },
+        {
+          "name": "2024",
+          "count": 459,
+          "total_count": 73243
+        },
+        {
+          "name": "漫画改",
+          "count": 431,
+          "total_count": 895041
+        },
+        {
+          "name": "芳文社",
+          "count": 415,
+          "total_count": 78711
+        },
+        {
+          "name": "音乐",
+          "count": 385,
+          "total_count": 106033
+        },
+        {
+          "name": "日常",
+          "count": 317,
+          "total_count": 417002
+        },
+        {
+          "name": "百合",
+          "count": 258,
+          "total_count": 415061
+        },
+        {
+          "name": "斋藤圭一郎",
+          "count": 170,
+          "total_count": 3884
+        },
+        {
+          "name": "乐队",
+          "count": 164,
+          "total_count": 24005
+        },
+        {
+          "name": "孤独摇滚",
+          "count": 138,
+          "total_count": 374
+        },
+        {
+          "name": "搞笑",
+          "count": 136,
+          "total_count": 659222
+        },
+        {
+          "name": "漫改",
+          "count": 101,
+          "total_count": 370954
+        },
+        {
+          "name": "2024年",
+          "count": 30,
+          "total_count": 2741
+        },
+        {
+          "name": "轻百合",
+          "count": 26,
+          "total_count": 39348
+        },
+        {
+          "name": "校园",
+          "count": 20,
+          "total_count": 472483
+        },
+        {
+          "name": "日本",
+          "count": 16,
+          "total_count": 316169
+        },
+        {
+          "name": "治愈",
+          "count": 12,
+          "total_count": 309266
+        },
+        {
+          "name": "斎藤圭一郎",
+          "count": 10,
+          "total_count": 1932
+        },
+        {
+          "name": "少女乐队",
+          "count": 6,
+          "total_count": 506
+        },
+        {
+          "name": "2024年8月",
+          "count": 6,
+          "total_count": 76
+        },
+        {
+          "name": "青春",
+          "count": 6,
+          "total_count": 110549
+        },
+        {
+          "name": "2025",
+          "count": 6,
+          "total_count": 75093
+        },
+        {
+          "name": "2024年7月",
+          "count": 5,
+          "total_count": 37416
+        },
+        {
+          "name": "轻百",
+          "count": 4,
+          "total_count": 4292
+        },
+        {
+          "name": "吉田惠里香",
+          "count": 4,
+          "total_count": 53
+        },
+        {
+          "name": "动画电影",
+          "count": 4,
+          "total_count": 44782
+        },
+        {
+          "name": "电影",
+          "count": 3,
+          "total_count": 13852
+        },
+        {
+          "name": "青山吉能",
+          "count": 3,
+          "total_count": 746
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "剧场总集篇孤独摇滚！ Re:Re:"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "劇場総集編「ぼっち・ざ・ろっく！」 後編"
+            },
+            {
+              "v": "BOCCHI THE ROCK! Recap Part 2"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "2024年8月9日"
+        },
+        {
+          "key": "片长",
+          "value": "77分钟"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://bocchi.rocks/"
+        },
+        {
+          "key": "Copyright",
+          "value": "©はまじあき／芳文社・アニプレックス"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "原作",
+          "value": "はまじあき（芳文社「まんがタイムきららMAX」連載中）"
+        },
+        {
+          "key": "导演",
+          "value": "斎藤圭一郎"
+        },
+        {
+          "key": "副导演",
+          "value": "山本ゆうすけ"
+        },
+        {
+          "key": "系列构成",
+          "value": "吉田恵里香"
+        },
+        {
+          "key": "人物设定",
+          "value": "けろりら"
+        },
+        {
+          "key": "原画",
+          "value": "伊藤優希（Live动画师）"
+        },
+        {
+          "key": "道具设计",
+          "value": "永木歩実"
+        },
+        {
+          "key": "数码绘图",
+          "value": "梅木葵（2D WORK）"
+        },
+        {
+          "key": "美术监督",
+          "value": "守安靖尚"
+        },
+        {
+          "key": "美术设计",
+          "value": "taracod"
+        },
+        {
+          "key": "色彩设计",
+          "value": "横田明日香"
+        },
+        {
+          "key": "摄影监督",
+          "value": "金森つばさ"
+        },
+        {
+          "key": "CG 导演",
+          "value": "宮地克明；Live CG导演：内田博明"
+        },
+        {
+          "key": "剪辑",
+          "value": "平木大輔"
+        },
+        {
+          "key": "音响监督",
+          "value": "藤田亜紀子"
+        },
+        {
+          "key": "音效",
+          "value": "八十正太"
+        },
+        {
+          "key": "音乐",
+          "value": "菊谷知樹"
+        },
+        {
+          "key": "音乐制作",
+          "value": "Aniplex"
+        },
+        {
+          "key": "制片人",
+          "value": "石川達也、小林宏之"
+        },
+        {
+          "key": "制作统括",
+          "value": "清水暁"
+        },
+        {
+          "key": "动画制片人",
+          "value": "梅原翔太"
+        },
+        {
+          "key": "制作管理",
+          "value": "木村美月"
+        },
+        {
+          "key": "动画制作",
+          "value": "CloverWorks"
+        },
+        {
+          "key": "企画",
+          "value": "岩上敦宏、孝壽尚志"
+        },
+        {
+          "key": "製作",
+          "value": "Aniplex、芳文社"
+        },
+        {
+          "key": "脚本",
+          "value": "吉田恵里香"
+        },
+        {
+          "key": "分镜",
+          "value": "斎藤圭一郎、藤原佳幸、平峯義大、川上雄介、山本ゆうすけ"
+        },
+        {
+          "key": "演出",
+          "value": "斎藤圭一郎、藤原佳幸、瀬尾健、平峯義大、川上雄介、山本ゆうすけ"
+        },
+        {
+          "key": "作画监督",
+          "value": "けろりら、冨田真理、Franziska van Wulfen、TOMATO、伊藤弘樹、きーくん(杉本龍彦)、助川裕彦"
+        },
+        {
+          "key": "总作画监督",
+          "value": "けろりら"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "樋口愛(ヒグチアイ) / 後藤正文"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "飛内将大 / 後藤正文・山田貴洋"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "三井律郎"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "喜多郁代（CV：長谷川育美） / 後藤ひとり（CV：青山吉能）"
+        },
+        {
+          "key": "插入歌演出",
+          "value": "喜多郁代（CV：長谷川育美）"
+        },
+        {
+          "key": "其他上映日期",
+          "value": "2025年5月10日(中国大陆)"
+        }
+      ],
+      "rating": {
+        "rank": 957,
+        "total": 2284,
+        "count": {
+          "1": 5,
+          "2": 2,
+          "3": 1,
+          "4": 8,
+          "5": 33,
+          "6": 212,
+          "7": 917,
+          "8": 843,
+          "9": 167,
+          "10": 96
+        },
+        "score": 7.5
+      },
+      "collection": {
+        "on_hold": 108,
+        "dropped": 49,
+        "wish": 982,
+        "collect": 4547,
+        "doing": 164
+      },
+      "id": 459642,
+      "eps": 1,
+      "total_episodes": 1,
+      "meta_tags": [
+        "剧场版",
+        "漫画改"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": "1959-01-01",
+      "platform": "其他",
+      "images": {
+        "small": "",
+        "grid": "",
+        "large": "",
+        "medium": "",
+        "common": ""
+      },
+      "image": "",
+      "summary": "Harassed by the day, a man runs away in the evening from people and town. He crawls into his little room to sleep. The dream is bringing him the limitless and quiet spaces of solitude. At last, he is alone and free. But the solitude engenders the fear.",
+      "name": "Samac",
+      "name_cn": "孤独",
+      "tags": [
+        {
+          "name": "南斯拉夫",
+          "count": 3,
+          "total_count": 24
+        },
+        {
+          "name": "短片",
+          "count": 3,
+          "total_count": 84818
+        },
+        {
+          "name": "1959",
+          "count": 2,
+          "total_count": 114
+        },
+        {
+          "name": "扁平化",
+          "count": 1,
+          "total_count": 1
+        },
+        {
+          "name": "米米察",
+          "count": 1,
+          "total_count": 1
+        },
+        {
+          "name": "实验",
+          "count": 1,
+          "total_count": 314
+        },
+        {
+          "name": "超现实",
+          "count": 1,
+          "total_count": 1648
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "孤独"
+        },
+        {
+          "key": "上映年度",
+          "value": "1959"
+        },
+        {
+          "key": "片长",
+          "value": "11分钟"
+        },
+        {
+          "key": "Imdb",
+          "value": "tt0173160"
+        },
+        {
+          "key": "国家",
+          "value": "南斯拉夫"
+        },
+        {
+          "key": "导演",
+          "value": "Vatroslav Mimica"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 2,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0,
+          "7": 1,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 6
+      },
+      "collection": {
+        "on_hold": 0,
+        "dropped": 1,
+        "wish": 3,
+        "collect": 4,
+        "doing": 0
+      },
+      "id": 504554,
+      "eps": 0,
+      "total_episodes": 0,
+      "meta_tags": [],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": null,
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/c8/aa/152083_V4Apw.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c8/aa/152083_V4Apw.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/c8/aa/152083_V4Apw.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c8/aa/152083_V4Apw.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/c8/aa/152083_V4Apw.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/c8/aa/152083_V4Apw.jpg",
+      "summary": "　　刺猬求小猪帮忙摘除身上的红果、小熊要求进小猪房中避雨时，小猪均以“我不帮助别人，也不要别人帮助”为理由拒绝了，甚至小白兔被大灰狼紧追要求进它院子里躲避一下时，它也不肯伸手相助，它的自私行为惹得篱笆、大树和小屋都很不满。 \r\n　　捉兔不成的大灰狼向小猪叫嚣时，小猪以为它根本闯不破坚固的篱笆，不想篱笆自动离它而去，随后，小屋和大树也不肯帮助它，小猪落入大灰狼手中。路上，小猪奋力逃脱，幸好有一块独木舟才免于落入湖中，不想因为又念叨“我不要别人帮助”，它再落大灰狼之手，这时，太阳公公也对它摇起头。孤独的小猪以为性命难保之时，曾被它拒绝帮助的小白兔找来小熊和刺猬商议，大伙决定把它从大灰狼的魔爪中救出来。",
+      "name": "孤独的小猪",
+      "name_cn": "",
+      "tags": [
+        {
+          "name": "短片",
+          "count": 3,
+          "total_count": 94286
+        },
+        {
+          "name": "中国",
+          "count": 3,
+          "total_count": 27251
+        },
+        {
+          "name": "1988",
+          "count": 2,
+          "total_count": 6404
+        },
+        {
+          "name": "动画",
+          "count": 2,
+          "total_count": 32940
+        },
+        {
+          "name": "国产",
+          "count": 2,
+          "total_count": 153192
+        },
+        {
+          "name": "沈祖慰",
+          "count": 2,
+          "total_count": 32
+        },
+        {
+          "name": "凌纾",
+          "count": 2,
+          "total_count": 34
+        },
+        {
+          "name": "子供向",
+          "count": 1,
+          "total_count": 10858
+        },
+        {
+          "name": "定格动画",
+          "count": 1,
+          "total_count": 2951
+        },
+        {
+          "name": "中国动画",
+          "count": 1,
+          "total_count": 2037
+        },
+        {
+          "name": "上海美术电影制片厂",
+          "count": 1,
+          "total_count": 10214
+        },
+        {
+          "name": "剪纸",
+          "count": 1,
+          "total_count": 159
+        },
+        {
+          "name": "上美",
+          "count": 1,
+          "total_count": 629
+        },
+        {
+          "name": "YL",
+          "count": 1,
+          "total_count": 143
+        },
+        {
+          "name": "剧场版",
+          "count": 1,
+          "total_count": 680026
+        }
+      ],
+      "infobox": [
+        {
+          "key": "上映年度",
+          "value": "1988年"
+        },
+        {
+          "key": "片长",
+          "value": "10分钟"
+        },
+        {
+          "key": "制片国家/地区",
+          "value": "中国大陆"
+        },
+        {
+          "key": "导演",
+          "value": "沈祖慰"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 6,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 3,
+          "7": 2,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 6.2
+      },
+      "collection": {
+        "on_hold": 1,
+        "dropped": 5,
+        "wish": 1,
+        "collect": 15,
+        "doing": 1
+      },
+      "id": 152083,
+      "eps": 1,
+      "total_episodes": 1,
+      "meta_tags": [
+        "剧场版",
+        "中国"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": null,
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2a/d6/173243_lfLaw.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2a/d6/173243_lfLaw.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/2a/d6/173243_lfLaw.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2a/d6/173243_lfLaw.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2a/d6/173243_lfLaw.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/2a/d6/173243_lfLaw.jpg",
+      "summary": "　　小鸟随它的伙伴离去之后，蜡烛又成为孤独的莉里的唯一伙伴，在忽明忽暗的烛光中，莉里进入了遐想中的世界，结识和她同名、且也失去妈妈的、没谁陪着玩的小王子，两人很快成为无话不谈的朋友。 \r\n　　国王带着大臣打猎的日子，小王子为躲开吵嚷的众人，单独骑着大蚂蚱去给莉里打野猪，不想遇到两个身形异常庞大、相貌十分丑陋的老妖婆，娇小可爱的他被她们囚禁在了一张床上。莉里千辛万苦找到小王子，并凭着机智将他救出。可是即使在梦里，小王子也只是她短暂的好玩伴。",
+      "name": "孤独的莉里",
+      "name_cn": "",
+      "tags": [
+        {
+          "name": "中国",
+          "count": 4,
+          "total_count": 31954
+        },
+        {
+          "name": "短片",
+          "count": 4,
+          "total_count": 102670
+        },
+        {
+          "name": "国产",
+          "count": 3,
+          "total_count": 161640
+        },
+        {
+          "name": "方润南",
+          "count": 3,
+          "total_count": 14
+        },
+        {
+          "name": "薛梅君",
+          "count": 3,
+          "total_count": 9
+        },
+        {
+          "name": "1990",
+          "count": 3,
+          "total_count": 2800
+        },
+        {
+          "name": "原创",
+          "count": 2,
+          "total_count": 623124
+        },
+        {
+          "name": "余又晨",
+          "count": 2,
+          "total_count": 8
+        },
+        {
+          "name": "剧场版",
+          "count": 2,
+          "total_count": 727324
+        },
+        {
+          "name": "动画",
+          "count": 1,
+          "total_count": 35779
+        },
+        {
+          "name": "南方",
+          "count": 1,
+          "total_count": 1
+        },
+        {
+          "name": "子供向",
+          "count": 1,
+          "total_count": 13095
+        },
+        {
+          "name": "上海美术电影制片厂",
+          "count": 1,
+          "total_count": 10630
+        },
+        {
+          "name": "上美",
+          "count": 1,
+          "total_count": 649
+        }
+      ],
+      "infobox": [
+        {
+          "key": "上映年度",
+          "value": "1990年"
+        },
+        {
+          "key": "片长",
+          "value": "20分钟"
+        },
+        {
+          "key": "导演",
+          "value": "方润南、薛梅君"
+        },
+        {
+          "key": "脚本",
+          "value": "余又晨、南方"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 6,
+        "count": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 2,
+          "7": 0,
+          "8": 1,
+          "9": 0,
+          "10": 0
+        },
+        "score": 4.3
+      },
+      "collection": {
+        "on_hold": 1,
+        "dropped": 7,
+        "wish": 3,
+        "collect": 12,
+        "doing": 1
+      },
+      "id": 173243,
+      "eps": 1,
+      "total_episodes": 1,
+      "meta_tags": [
+        "剧场版",
+        "中国"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": "2017-11-29",
+      "platform": "WEB",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/69/216228_gx9oK.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/69/216228_gx9oK.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/dd/69/216228_gx9oK.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/69/216228_gx9oK.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/69/216228_gx9oK.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/dd/69/216228_gx9oK.jpg",
+      "summary": "個人で輸入雑貨商を営む主人公・井之頭五郎が、一人で食事をするシチュエーションを淡々と描くハードボイルド・グルメマンガ『孤独のグルメ』。 ",
+      "name": "孤独のグルメ",
+      "name_cn": "孤独的美食家",
+      "tags": [
+        {
+          "name": "WEB",
+          "count": 14,
+          "total_count": 74390
+        },
+        {
+          "name": "2017",
+          "count": 11,
+          "total_count": 72639
+        },
+        {
+          "name": "漫画改",
+          "count": 10,
+          "total_count": 892050
+        },
+        {
+          "name": "泡面番",
+          "count": 8,
+          "total_count": 157311
+        },
+        {
+          "name": "孤独的美食家",
+          "count": 8,
+          "total_count": 9
+        },
+        {
+          "name": "TATEANIME",
+          "count": 3,
+          "total_count": 3
+        },
+        {
+          "name": "2017年11月",
+          "count": 3,
+          "total_count": 421
+        },
+        {
+          "name": "日本",
+          "count": 2,
+          "total_count": 313915
+        },
+        {
+          "name": "TV",
+          "count": 2,
+          "total_count": 1444239
+        },
+        {
+          "name": "2017年Web·SP",
+          "count": 2,
+          "total_count": 43
+        },
+        {
+          "name": "漫改",
+          "count": 2,
+          "total_count": 369846
+        },
+        {
+          "name": "美食",
+          "count": 2,
+          "total_count": 30494
+        },
+        {
+          "name": "喜剧",
+          "count": 1,
+          "total_count": 39724
+        },
+        {
+          "name": "青年向",
+          "count": 1,
+          "total_count": 5042
+        },
+        {
+          "name": "短片",
+          "count": 1,
+          "total_count": 104163
+        },
+        {
+          "name": "OVA",
+          "count": 1,
+          "total_count": 371860
+        },
+        {
+          "name": "上班族",
+          "count": 1,
+          "total_count": 29
+        },
+        {
+          "name": "值得一看",
+          "count": 1,
+          "total_count": 441
+        },
+        {
+          "name": "Production.I.G",
+          "count": 1,
+          "total_count": 42833
+        },
+        {
+          "name": "改编",
+          "count": 1,
+          "total_count": 1189
+        },
+        {
+          "name": "二〇一七年",
+          "count": 1,
+          "total_count": 194
+        },
+        {
+          "name": "漫画改编",
+          "count": 1,
+          "total_count": 3754
+        },
+        {
+          "name": "下饭神剧",
+          "count": 1,
+          "total_count": 2
+        },
+        {
+          "name": "剧情",
+          "count": 1,
+          "total_count": 16468
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "孤独的美食家"
+        },
+        {
+          "key": "话数",
+          "value": "10"
+        },
+        {
+          "key": "放送开始",
+          "value": "2017年11月29日"
+        },
+        {
+          "key": "播放电视台",
+          "value": "アプリ「タテアニメ」"
+        },
+        {
+          "key": "播放结束",
+          "value": "2018年8月31日"
+        },
+        {
+          "key": "导演",
+          "value": "黄瀬和哉"
+        },
+        {
+          "key": "原作",
+          "value": "久住昌之・谷口ジロー"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 25,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 10,
+          "7": 12,
+          "8": 1,
+          "9": 1,
+          "10": 1
+        },
+        "score": 6.8
+      },
+      "collection": {
+        "on_hold": 19,
+        "dropped": 13,
+        "wish": 106,
+        "collect": 60,
+        "doing": 10
+      },
+      "id": 216228,
+      "eps": 10,
+      "total_episodes": 10,
+      "meta_tags": [
+        "日本",
+        "漫画改",
+        "青年向",
+        "美食",
+        "WEB"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    },
+    {
+      "date": null,
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/42/04/626139_LnhdD.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/42/04/626139_LnhdD.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/42/04/626139_LnhdD.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/42/04/626139_LnhdD.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/42/04/626139_LnhdD.jpg"
+      },
+      "image": "https://lain.bgm.tv/pic/cover/l/42/04/626139_LnhdD.jpg",
+      "summary": "",
+      "name": "The Wild Inside",
+      "name_cn": "孤独凶猛",
+      "tags": [
+        {
+          "name": "法国",
+          "count": 1,
+          "total_count": 3050
+        },
+        {
+          "name": "剧场版",
+          "count": 1,
+          "total_count": 673828
+        },
+        {
+          "name": "动画片",
+          "count": 1,
+          "total_count": 1384
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "孤独凶猛"
+        },
+        {
+          "key": "上映年度",
+          "value": "*"
+        },
+        {
+          "key": "导演",
+          "value": "Patrick Imbert"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 0,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 0
+      },
+      "collection": {
+        "on_hold": 1,
+        "dropped": 0,
+        "wish": 0,
+        "collect": 0,
+        "doing": 0
+      },
+      "id": 626139,
+      "eps": 0,
+      "total_episodes": 0,
+      "meta_tags": [
+        "剧场版"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2
+    }
+  ],
+  "total": 19,
+  "limit": 10,
+  "offset": 0
+}

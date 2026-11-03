@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "airdate": "2025-07-01",
+      "name": "血契之约",
+      "name_cn": "",
+      "duration": "00:12:47",
+      "desc": "",
+      "ep": 1,
+      "sort": 1,
+      "id": 1531084,
+      "subject_id": 567520,
+      "comment": 0,
+      "type": 0,
+      "disc": 0,
+      "duration_seconds": 767
+    }
+  ],
+  "total": 1,
+  "limit": 10,
+  "offset": 0
+}

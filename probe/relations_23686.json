@@ -1,0 +1,772 @@
+[
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/c8/df/279465_St9S6.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c8/df/279465_St9S6.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/c8/df/279465_St9S6.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c8/df/279465_St9S6.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/c8/df/279465_St9S6.jpg"
+    },
+    "name": "ソードアート・オンライン Alicization Lycoris",
+    "name_cn": "刀剑神域 彼岸游境",
+    "relation": "游戏",
+    "type": 4,
+    "id": 279465
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/05/89/115582_Ekup3.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/05/89/115582_Ekup3.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/05/89/115582_Ekup3.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/05/89/115582_Ekup3.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/05/89/115582_Ekup3.jpg"
+    },
+    "name": "ソードアート・オンライン ザ・デイ・ビフォア",
+    "name_cn": "刀剑神域 The Day Before",
+    "relation": "番外篇",
+    "type": 1,
+    "id": 115582
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/28/bf/115583_xpXSZ.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/28/bf/115583_xpXSZ.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/28/bf/115583_xpXSZ.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/28/bf/115583_xpXSZ.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/bf/115583_xpXSZ.jpg"
+    },
+    "name": "ソードアート・オンライン ザ・デイ・アフター",
+    "name_cn": "刀剑神域 The Day After",
+    "relation": "番外篇",
+    "type": 1,
+    "id": 115583
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/fa/2e/157919_jp.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fa/2e/157919_jp.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/fa/2e/157919_jp.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fa/2e/157919_jp.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/2e/157919_jp.jpg"
+    },
+    "name": "ソードアート・オンライン ミュージックコレクション",
+    "name_cn": "",
+    "relation": "其他",
+    "type": 3,
+    "id": 157919
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/20/168089_BmaJQ.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/20/168089_BmaJQ.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/08/20/168089_BmaJQ.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/20/168089_BmaJQ.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/20/168089_BmaJQ.jpg"
+    },
+    "name": "ソードアート・オンライン -ホロウ・リアリゼーション-",
+    "name_cn": "刀剑神域：虚空幻界",
+    "relation": "游戏",
+    "type": 4,
+    "id": 168089
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/1b/33/184769_ss3Mv.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1b/33/184769_ss3Mv.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/1b/33/184769_ss3Mv.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1b/33/184769_ss3Mv.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/1b/33/184769_ss3Mv.jpg"
+    },
+    "name": "黑衣剑士-刀剑神域",
+    "name_cn": "",
+    "relation": "游戏",
+    "type": 4,
+    "id": 184769
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/05/c1/188684_jp.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/05/c1/188684_jp.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/05/c1/188684_jp.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/05/c1/188684_jp.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/05/c1/188684_jp.jpg"
+    },
+    "name": "石田可奈 イラストワークス よせあつめ",
+    "name_cn": "",
+    "relation": "画集",
+    "type": 1,
+    "id": 188684
+  },
+  {
+    "images": {
+      "small": "",
+      "grid": "",
+      "large": "",
+      "medium": "",
+      "common": ""
+    },
+    "name": "Sword Art Online",
+    "name_cn": "刀剑神域",
+    "relation": "不同演绎",
+    "type": 6,
+    "id": 188817
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/b5/df/191642_rea42.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b5/df/191642_rea42.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/b5/df/191642_rea42.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b5/df/191642_rea42.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/b5/df/191642_rea42.jpg"
+    },
+    "name": "ソードアート・オンライン -メモリー・デフラグ-",
+    "name_cn": "刀剑神域-记忆重组-",
+    "relation": "游戏",
+    "type": 4,
+    "id": 191642
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/79/52/222871_BGO7i.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/79/52/222871_BGO7i.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/79/52/222871_BGO7i.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/79/52/222871_BGO7i.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/79/52/222871_BGO7i.jpg"
+    },
+    "name": "ソードアート・オンライン フェイタル・バレット",
+    "name_cn": "刀剑神域：夺命凶弹",
+    "relation": "游戏",
+    "type": 4,
+    "id": 222871
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/e1/91/226432_FkBkh.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e1/91/226432_FkBkh.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/e1/91/226432_FkBkh.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e1/91/226432_FkBkh.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/e1/91/226432_FkBkh.jpg"
+    },
+    "name": "ソードアート・オンライン インテグラル・ファクター",
+    "name_cn": "刀剑神域 关键斗士",
+    "relation": "游戏",
+    "type": 4,
+    "id": 226432
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/40/226750_3fW9q.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/40/226750_3fW9q.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/29/40/226750_3fW9q.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/40/226750_3fW9q.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/40/226750_3fW9q.jpg"
+    },
+    "name": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+    "name_cn": "刀剑神域外传 Gun Gale Online",
+    "relation": "相同世界观",
+    "type": 2,
+    "id": 226750
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/e4/250372_lr1qD.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/e4/250372_lr1qD.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/25/e4/250372_lr1qD.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/e4/250372_lr1qD.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/e4/250372_lr1qD.jpg"
+    },
+    "name": "雀魂麻将",
+    "name_cn": "雀魂麻将",
+    "relation": "游戏",
+    "type": 4,
+    "id": 250372
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/c8/ad/272519_2euPe.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c8/ad/272519_2euPe.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/c8/ad/272519_2euPe.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c8/ad/272519_2euPe.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/c8/ad/272519_2euPe.jpg"
+    },
+    "name": "SAO コード・レジスタ",
+    "name_cn": "刀剑神域：代码寄存器",
+    "relation": "游戏",
+    "type": 4,
+    "id": 272519
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/42/4a/115581_jp.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/42/4a/115581_jp.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/42/4a/115581_jp.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/42/4a/115581_jp.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/42/4a/115581_jp.jpg"
+    },
+    "name": "アニメ『ソードアート・オンライン』ノ全テ",
+    "name_cn": "",
+    "relation": "画集",
+    "type": 1,
+    "id": 115581
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/cb/4d/283528_R6Q5w.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cb/4d/283528_R6Q5w.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/cb/4d/283528_R6Q5w.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cb/4d/283528_R6Q5w.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/cb/4d/283528_R6Q5w.jpg"
+    },
+    "name": "ソードアート・オンライン アーケード ディープ・エクスプローラー",
+    "name_cn": "刀剑神域Arcade：深境探索者",
+    "relation": "游戏",
+    "type": 4,
+    "id": 283528
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/4a/78/290105_b5H42.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4a/78/290105_b5H42.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/4a/78/290105_b5H42.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4a/78/290105_b5H42.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/4a/78/290105_b5H42.jpg"
+    },
+    "name": "ソードアート・オンライン アンリーシュ・ブレイディング",
+    "name_cn": "刀劍神域 Unleash Blading",
+    "relation": "游戏",
+    "type": 4,
+    "id": 290105
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/b5/d7/309325_osK9V.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b5/d7/309325_osK9V.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/b5/d7/309325_osK9V.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b5/d7/309325_osK9V.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/b5/d7/309325_osK9V.jpg"
+    },
+    "name": "刀剑神域黑衣剑士：王牌",
+    "name_cn": "",
+    "relation": "游戏",
+    "type": 4,
+    "id": 309325
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/63/24/315375_1ivNC.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/63/24/315375_1ivNC.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/63/24/315375_1ivNC.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/63/24/315375_1ivNC.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/63/24/315375_1ivNC.jpg"
+    },
+    "name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
+    "name_cn": "剧场版 刀剑神域 进击篇 无星之夜的咏叹调",
+    "relation": "不同演绎",
+    "type": 2,
+    "id": 315375
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/f0/4f/354820_34oG6.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f0/4f/354820_34oG6.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/f0/4f/354820_34oG6.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f0/4f/354820_34oG6.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/4f/354820_34oG6.jpg"
+    },
+    "name": "ソードアート・オンライン フィルムオーケストラコンサート 2021 with 東京ニューシティ管弦楽団",
+    "name_cn": "",
+    "relation": "其他",
+    "type": 3,
+    "id": 354820
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/dc/43/378104_989wz.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dc/43/378104_989wz.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/dc/43/378104_989wz.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/43/378104_989wz.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/43/378104_989wz.jpg"
+    },
+    "name": "ソードアート・オンライン ヴァリアント・ショウダウン",
+    "name_cn": "刀剑神域 火线征战",
+    "relation": "游戏",
+    "type": 4,
+    "id": 378104
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/bb/409905_4c5N4.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/bb/409905_4c5N4.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/c5/bb/409905_4c5N4.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/bb/409905_4c5N4.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/bb/409905_4c5N4.jpg"
+    },
+    "name": "ソードアート・オンライン -フルダイブ-",
+    "name_cn": "刀劍神域 -Full Dive-",
+    "relation": "其他",
+    "type": 6,
+    "id": 409905
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/f5/416595_vMJX5.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/f5/416595_vMJX5.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/dd/f5/416595_vMJX5.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/f5/416595_vMJX5.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/f5/416595_vMJX5.jpg"
+    },
+    "name": "ソードアート・オンライン アニメ10周年Anniversary Book",
+    "name_cn": "刀剑神域 动画10周年纪念册",
+    "relation": "画集",
+    "type": 1,
+    "id": 416595
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/88/511167_u11L1.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/88/511167_u11L1.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/08/88/511167_u11L1.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/88/511167_u11L1.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/88/511167_u11L1.jpg"
+    },
+    "name": "蒼穹のファンファーレ",
+    "name_cn": "",
+    "relation": "其他",
+    "type": 3,
+    "id": 511167
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/fe/40/532778_A542F.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fe/40/532778_A542F.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/fe/40/532778_A542F.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fe/40/532778_A542F.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/fe/40/532778_A542F.jpg"
+    },
+    "name": "UNION ARENA",
+    "name_cn": "携战之境",
+    "relation": "游戏",
+    "type": 4,
+    "id": 532778
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/1d/1a/535758_Q3ccc.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1d/1a/535758_Q3ccc.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/1d/1a/535758_Q3ccc.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1d/1a/535758_Q3ccc.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/1d/1a/535758_Q3ccc.jpg"
+    },
+    "name": "異世界∞異世界 ～次はどの作品を、集めよう～",
+    "name_cn": "",
+    "relation": "游戏",
+    "type": 4,
+    "id": 535758
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/4f/633618_4GD56.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/4f/633618_4GD56.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/3e/4f/633618_4GD56.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/4f/633618_4GD56.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/4f/633618_4GD56.jpg"
+    },
+    "name": "Unanswered//butterfly",
+    "name_cn": "寂静不语的//蝴蝶",
+    "relation": "相同世界观",
+    "type": 2,
+    "id": 633618
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/8b/9e/115521_mMZ03.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8b/9e/115521_mMZ03.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/8b/9e/115521_mMZ03.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8b/9e/115521_mMZ03.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/9e/115521_mMZ03.jpg"
+    },
+    "name": "ソードアート・オンライン プログレッシブ",
+    "name_cn": "刀剑神域: Progressive",
+    "relation": "书籍",
+    "type": 1,
+    "id": 115521
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/01/da/5397_S6jRK.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/01/da/5397_S6jRK.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/01/da/5397_S6jRK.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/01/da/5397_S6jRK.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/da/5397_S6jRK.jpg"
+    },
+    "name": "ソードアート・オンライン",
+    "name_cn": "刀剑神域",
+    "relation": "书籍",
+    "type": 1,
+    "id": 5397
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/b1/35579_GDMp7.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/b1/35579_GDMp7.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/ea/b1/35579_GDMp7.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/b1/35579_GDMp7.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/b1/35579_GDMp7.jpg"
+    },
+    "name": "嫁コレ",
+    "name_cn": "新娘梦工厂",
+    "relation": "游戏",
+    "type": 4,
+    "id": 35579
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/e2/4a/45131_jp.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e2/4a/45131_jp.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/e2/4a/45131_jp.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e2/4a/45131_jp.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/e2/4a/45131_jp.jpg"
+    },
+    "name": "ユメセカイ",
+    "name_cn": "",
+    "relation": "片尾曲",
+    "type": 3,
+    "id": 41014
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/e5/c7/41555_FrMS6.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e5/c7/41555_FrMS6.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/e5/c7/41555_FrMS6.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e5/c7/41555_FrMS6.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/e5/c7/41555_FrMS6.jpg"
+    },
+    "name": "crossing field",
+    "name_cn": "",
+    "relation": "片头曲",
+    "type": 3,
+    "id": 41555
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/2d/48733_D1TPW.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/2d/48733_D1TPW.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/0b/2d/48733_D1TPW.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/2d/48733_D1TPW.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/2d/48733_D1TPW.jpg"
+    },
+    "name": "INNOCENCE",
+    "name_cn": "",
+    "relation": "片头曲",
+    "type": 3,
+    "id": 48733
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/eb/a5/49370_yIJN1.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/eb/a5/49370_yIJN1.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/eb/a5/49370_yIJN1.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/eb/a5/49370_yIJN1.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/eb/a5/49370_yIJN1.jpg"
+    },
+    "name": "Overfly",
+    "name_cn": "",
+    "relation": "片尾曲",
+    "type": 3,
+    "id": 49370
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/71/73/52405_1vyz0.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/71/73/52405_1vyz0.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/71/73/52405_1vyz0.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/73/52405_1vyz0.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/73/52405_1vyz0.jpg"
+    },
+    "name": "ソードアート・オンライン -インフィニティ・モーメント-",
+    "name_cn": "刀剑神域：无限瞬间",
+    "relation": "游戏",
+    "type": 4,
+    "id": 52405
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/ba/2484_q0J28.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/ba/2484_q0J28.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/b4/ba/2484_q0J28.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/ba/2484_q0J28.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/ba/2484_q0J28.jpg"
+    },
+    "name": "던전 앤 파이터",
+    "name_cn": "地下城与勇士",
+    "relation": "游戏",
+    "type": 4,
+    "id": 2484
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/fd/115069_q55UQ.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/fd/115069_q55UQ.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/5d/fd/115069_q55UQ.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/fd/115069_q55UQ.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/fd/115069_q55UQ.jpg"
+    },
+    "name": "ソードアート・オンライン -ロスト・ソング-",
+    "name_cn": "刀剑神域：失落之歌",
+    "relation": "游戏",
+    "type": 4,
+    "id": 115069
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/6f/3e/108850_rztYo.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6f/3e/108850_rztYo.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/6f/3e/108850_rztYo.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6f/3e/108850_rztYo.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/6f/3e/108850_rztYo.jpg"
+    },
+    "name": "SWORD ART ONLINE SONG COLLECTION",
+    "name_cn": "",
+    "relation": "其他",
+    "type": 3,
+    "id": 108850
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/eb/9f/92382_zJ0gB.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/eb/9f/92382_zJ0gB.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/eb/9f/92382_zJ0gB.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/eb/9f/92382_zJ0gB.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/eb/9f/92382_zJ0gB.jpg"
+    },
+    "name": "ソードアート・オンラインII",
+    "name_cn": "刀剑神域 第二季",
+    "relation": "续集",
+    "type": 2,
+    "id": 92382
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/0e/c6/84871_5LNTD.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0e/c6/84871_5LNTD.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/0e/c6/84871_5LNTD.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0e/c6/84871_5LNTD.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/0e/c6/84871_5LNTD.jpg"
+    },
+    "name": "ソードアート・オンライン -ホロウ・フラグメント-",
+    "name_cn": "刀剑神域：虚空断章",
+    "relation": "游戏",
+    "type": 4,
+    "id": 84871
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/a7/57907_7NWcC.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/a7/57907_7NWcC.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/0c/a7/57907_7NWcC.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/a7/57907_7NWcC.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/a7/57907_7NWcC.jpg"
+    },
+    "name": "ソードアート・オンライン Original Soundtrack vol.1",
+    "name_cn": "",
+    "relation": "原声集",
+    "type": 3,
+    "id": 57907
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/49/114164_jp.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/49/114164_jp.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/d7/49/114164_jp.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/49/114164_jp.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/49/114164_jp.jpg"
+    },
+    "name": "ラジオCD ソードアート・オンエアー Vol.1",
+    "name_cn": "",
+    "relation": "其他",
+    "type": 3,
+    "id": 114164
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/e2/be/52401_RsSwL.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e2/be/52401_RsSwL.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/e2/be/52401_RsSwL.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e2/be/52401_RsSwL.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/e2/be/52401_RsSwL.jpg"
+    },
+    "name": "ソードアート・オンライン 第1巻 特典CD",
+    "name_cn": "",
+    "relation": "角色歌",
+    "type": 3,
+    "id": 52401
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/f2/52806_F3YsH.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/f2/52806_F3YsH.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/56/f2/52806_F3YsH.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/f2/52806_F3YsH.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/f2/52806_F3YsH.jpg"
+    },
+    "name": "ソードアート・オンライン 第2巻 特典CD",
+    "name_cn": "",
+    "relation": "角色歌",
+    "type": 3,
+    "id": 52806
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/c8/66950_eg8uw.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/c8/66950_eg8uw.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/b4/c8/66950_eg8uw.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/c8/66950_eg8uw.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/c8/66950_eg8uw.jpg"
+    },
+    "name": "ソードアート・オンライン Original Soundtrack vol.2",
+    "name_cn": "",
+    "relation": "原声集",
+    "type": 3,
+    "id": 66950
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/2f/73712_iui3a.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/2f/73712_iui3a.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/d6/2f/73712_iui3a.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/2f/73712_iui3a.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/2f/73712_iui3a.jpg"
+    },
+    "name": "そーどあーと・おふらいん",
+    "name_cn": "掉线神域",
+    "relation": "衍生",
+    "type": 2,
+    "id": 73712
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/76/19/114165_jp.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/76/19/114165_jp.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/76/19/114165_jp.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/76/19/114165_jp.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/76/19/114165_jp.jpg"
+    },
+    "name": "ラジオCD ソードアート・オンエアー Vol.2",
+    "name_cn": "",
+    "relation": "其他",
+    "type": 3,
+    "id": 114165
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/9c/15/59990_P1pJY.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9c/15/59990_P1pJY.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/9c/15/59990_P1pJY.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9c/15/59990_P1pJY.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/9c/15/59990_P1pJY.jpg"
+    },
+    "name": "ソードアート・オンライン 第3巻 特典CD",
+    "name_cn": "",
+    "relation": "角色歌",
+    "type": 3,
+    "id": 59990
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/31/ab/114166_jp.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/31/ab/114166_jp.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/31/ab/114166_jp.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/31/ab/114166_jp.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/31/ab/114166_jp.jpg"
+    },
+    "name": "ラジオCD ソードアート・オンエアー Vol.3",
+    "name_cn": "",
+    "relation": "其他",
+    "type": 3,
+    "id": 114166
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/6e/53/84866_yQ6Kq.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6e/53/84866_yQ6Kq.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/6e/53/84866_yQ6Kq.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6e/53/84866_yQ6Kq.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/6e/53/84866_yQ6Kq.jpg"
+    },
+    "name": "ソードアート・オンライン Extra Edition",
+    "name_cn": "刀剑神域 Extra Edition",
+    "relation": "番外篇",
+    "type": 2,
+    "id": 84866
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/3f/83/268232_76663.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3f/83/268232_76663.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/3f/83/268232_76663.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3f/83/268232_76663.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/3f/83/268232_76663.jpg"
+    },
+    "name": "ラジオCD  ソードアート・オンエアー Vol.4",
+    "name_cn": "",
+    "relation": "其他",
+    "type": 3,
+    "id": 268232
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/71/8f/62579_PvxvD.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/71/8f/62579_PvxvD.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/71/8f/62579_PvxvD.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/8f/62579_PvxvD.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/8f/62579_PvxvD.jpg"
+    },
+    "name": "ソードアート・オンライン 第5巻 特典CD",
+    "name_cn": "",
+    "relation": "角色歌",
+    "type": 3,
+    "id": 62579
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/d4/27/66193_Z2JyJ.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d4/27/66193_Z2JyJ.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/d4/27/66193_Z2JyJ.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d4/27/66193_Z2JyJ.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/d4/27/66193_Z2JyJ.jpg"
+    },
+    "name": "ソードアート・オンライン 第6巻 特典CD",
+    "name_cn": "",
+    "relation": "角色歌",
+    "type": 3,
+    "id": 66193
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/3d/4b/71952_i30An.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3d/4b/71952_i30An.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/3d/4b/71952_i30An.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3d/4b/71952_i30An.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/3d/4b/71952_i30An.jpg"
+    },
+    "name": "ソードアート・オンライン 第8巻 特典CD",
+    "name_cn": "",
+    "relation": "角色歌",
+    "type": 3,
+    "id": 71952
+  },
+  {
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/cb/74644_N2239.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/cb/74644_N2239.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/85/cb/74644_N2239.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/cb/74644_N2239.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/cb/74644_N2239.jpg"
+    },
+    "name": "ソードアート・オンライン 第9巻 特典CD",
+    "name_cn": "",
+    "relation": "角色歌",
+    "type": 3,
+    "id": 74644
+  }
+]
