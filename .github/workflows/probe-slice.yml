@@ -1,0 +1,54 @@
+name: probe-slice
+
+# 验证全量枚举的可行方案。
+#
+# 已知：
+# - sort=title 只能 10 页
+# - sort=rank 只能 435 页（≈1.04 万部），再大折叠回第 1 页
+# - 网页 ?year=YYYY 参数无效（各年返回完全相同）
+#
+# 本 workflow 测三条替代路径：
+# A. API 搜索 + air_date 范围过滤（按年切片，最有望）
+# B. 网页路径形式的筛选
+# C. API 搜索 + tag 过滤
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: pip install httpx
+
+      - name: 验证切片方案
+        run: python probe_slice.py
+
+      - name: 上传结果
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: slice-report
+          path: probe_ids/
+          retention-days: 14
+
+      - name: 提交结果
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f probe_ids/
+          git diff --staged --quiet || git commit -m "probe-slice: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
