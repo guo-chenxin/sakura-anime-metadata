@@ -11,6 +11,11 @@ name: probe
 on:
   workflow_dispatch:   # 只手动触发，避免无谓消耗
 
+# 提交结果需要写权限。默认 GITHUB_TOKEN 是只读的，
+# 不声明的话最后一步 `git push` 会 403。
+permissions:
+  contents: write
+
 jobs:
   probe:
     runs-on: ubuntu-latest
