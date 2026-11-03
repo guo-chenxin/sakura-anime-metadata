@@ -1,0 +1,23 @@
+{
+  "version": "20261103T084317Z",
+  "generated_at": "2026-11-03T08:43:17.222635+00:00",
+  "started_at": "2026-11-03T06:42:17.686308+00:00",
+  "shard": 0,
+  "shards": 8,
+  "year_range": [
+    1980,
+    2026
+  ],
+  "subjects": 2873,
+  "episodes": 33199,
+  "relations": 0,
+  "fail": 0,
+  "api_calls": 3062,
+  "rate_limited": 0,
+  "files": [
+    "episodes.jsonl.gz",
+    "episodes_s0of8.jsonl.gz",
+    "subjects.jsonl.gz",
+    "subjects_s0of8.jsonl.gz"
+  ]
+}
