@@ -1,0 +1,38 @@
+name: probe-ids
+
+# 探测如何枚举 Bangumi 全量动画 id。
+#
+# Bangumi API 没有「列出全部动画」的接口，采集全量前必须先解决 id 枚举。
+# 本 workflow 测试三套方案，结果决定正式采集脚本怎么写。
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: pip install httpx
+
+      - name: 探测 id 枚举方案
+        run: python probe_ids.py
+
+      - name: 提交结果
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add probe_ids/
+          git diff --staged --quiet || git commit -m "probe-ids: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push

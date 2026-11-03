@@ -1,0 +1,519 @@
+============================================================================
+1. 详情接口 /v0/subjects/{id}  完整字段
+============================================================================
+
+--- subject_23686.json  (JSON 顶层键: ['collection', 'date', 'eps', 'id', 'images', 'infobox', 'locked', 'meta_tags', 'name', 'name_cn', 'nsfw', 'platform', 'rating', 'series', 'summary', 'tags', 'total_episodes', 'type', 'volumes']) ---
+  id           23686
+  name         'ソードアート・オンライン'
+  name_cn      '刀剑神域'
+  date         '2012-07-07'
+  platform     'TV'
+  eps          25
+  total_eps    25
+  volumes      0
+  rating       {'rank': 1177, 'total': 26121, 'count': {'1': 111, '2': 51, '3': 114, '4': 345, '5': 973, '6': 3404, '7': 8869, '8': 8220, '9': 2476, '10': 1558}, 'score': 7.4}
+  collection   {'on_hold': 1048, 'dropped': 918, 'wish': 2439, 'collect': 45156, 'doing': 2053}
+  images       {'small': 'https://lain.bgm.tv/r/200/pic/cover/l/2e/c8/23686_e36x9.jpg', 'grid': 'https://lain.bgm.tv/r/100/pic/cover/l/2e/c8/23686_e36x9.jpg', 'large': 'https://lain.bgm.tv/pic/cover/l/2e/c8/23686_e36x9.jpg', 'medium': 'https://lain.bgm.tv/r/800/pic/cover/l/2e/c8/23686_e36x9.jpg', 'common': 'https://lain.bgm.tv/r/400/pic/cover/l/2e/c8/23686_e36x9.jpg'}
+  locked       False  nsfw=False
+  series       False
+  summary 长度 320
+  summary      '2022年，人类实现了现实世界和假想空间的融合，电子制造商开发了名为《刀剑神域（Sword Art Online）》的在线电子游戏。SAO甫一面世便大受好评，限量一万份的名额在发售当天的短时间内便被抢购一空。通过联网，玩家可以身临其境进入充'
+  infobox      36 项:
+      '中文名': '刀剑神域'
+      '别名': '[{"v": "SAO"}, {"v": "Sword Art Online"}]'
+      '话数': '25'
+      '放送开始': '2012年7月7日'
+      '放送星期': '星期六'
+      '官方网站': 'http://www.swordart-online.net/'
+      '播放电视台': 'TOKYO MX/MBS'
+      '其他电视台': 'BS11'
+      '播放结束': '2012年12月22日'
+      '导演': '伊藤智彦'
+      'Copyright': '©️川原 礫／アスキー・メディアワークス／SAO Project'
+      '原作': '川原礫（電撃文庫／アスキー・メディアワークス刊）'
+      '人物原案': 'BUNBUN（abec）'
+      '总制片人': '岩上敦宏、大澤信博'
+      '制片人': '柏田真一郎、三木一馬'
+      '动画制片人': '加藤淳'
+      '企画': '夏目公一朗、鈴木一智、国崎久徳、真木太郎'
+      '製作': 'SAO Project（Aniplex、アスキー・メディアワークス、バンダイナムコエンターテインメント、ジェンコ）'
+      '制作统括': '植田益朗、落越友則；製作統括：小山直子、渡辺隆'
+      '副制片人': '土屋智之、川上竜太郎、二見鷹介'
+      '助理制片人': '丹羽将己'
+      '设定协力': '武藤孝、平八重諭'
+      '音效': '今野康之；助手：中島勝大'
+      '录音': '今井修治'
+      '录音助理': '森田祐一'
+      '音响': 'ダックスプロダクション；音响制作协力：東京アニメーター学院'
+      '剪辑': '西山茂；助手：近藤勇二'
+      '美术设计': '谷内優穂；协力：塩澤良憲、石本剛啓、末武康光'
+      '2D 设计': '廣岡岳、向井吉秀'
+      '宣传': '矢口泰之、北島幹雄、竹原朋子、高村江美'
+      '协力': '和田敦、山本直吉郎、小山陽子、佐藤茂薫'
+      '人物设定': '足立慎吾'
+      '副人物设定': '川上哲也'
+      'OP・ED 分镜': '伊藤智彦(OP1)、あおきえい(OP2) / 浅香守生(ED1)、出合小都美(ED2)'
+      'OP・ED 演出': '伊藤智彦(OP1)、あおきえい(OP2) / 浅香守生(ED1)、出合小都美(ED2)'
+      '音响制作担当': '今西栄介'
+  tags         30 个:
+      '刀剑神域'  count=5203
+      '轻小说改'  count=4326
+      'SAO'  count=3053
+      'A-1Pictures'  count=2962
+      '后宫'  count=2806
+      '2012年7月'  count=2699
+      'TV'  count=2015
+      '战斗'  count=1945
+      '网游'  count=1904
+      '亚丝娜'  count=1382
+      '川原砾'  count=1329
+      '2012'  count=1116
+
+--- subject_311310.json  (JSON 顶层键: ['collection', 'date', 'eps', 'id', 'images', 'infobox', 'locked', 'meta_tags', 'name', 'name_cn', 'nsfw', 'platform', 'rating', 'series', 'summary', 'tags', 'total_episodes', 'type', 'volumes']) ---
+  id           311310
+  name         '海賊王女'
+  name_cn      '海贼王女'
+  date         '2021-10-02'
+  platform     'TV'
+  eps          12
+  total_eps    12
+  volumes      0
+  rating       {'rank': 9816, 'total': 958, 'count': {'1': 13, '2': 26, '3': 74, '4': 155, '5': 301, '6': 256, '7': 93, '8': 25, '9': 5, '10': 10}, 'score': 5.2}
+  collection   {'on_hold': 195, 'dropped': 351, 'wish': 490, 'collect': 1244, 'doing': 192}
+  images       {'small': 'https://lain.bgm.tv/r/200/pic/cover/l/2a/8e/311310_1NXnu.jpg', 'grid': 'https://lain.bgm.tv/r/100/pic/cover/l/2a/8e/311310_1NXnu.jpg', 'large': 'https://lain.bgm.tv/pic/cover/l/2a/8e/311310_1NXnu.jpg', 'medium': 'https://lain.bgm.tv/r/800/pic/cover/l/2a/8e/311310_1NXnu.jpg', 'common': 'https://lain.bgm.tv/r/400/pic/cover/l/2a/8e/311310_1NXnu.jpg'}
+  locked       False  nsfw=False
+  series       False
+  summary 长度 351
+  summary      '18世纪、大西洋。\r\n与父亲一起出海航行的菲娜·霍特曼遭到海盗袭击，\r\n一个人乘着小船漂流，保住性命。\r\n菲娜漂流到的地方，是国家默认的妓女·男娼之岛“香格里拉”。\r\n10年后──。\r\n雪白的肌肤和闪亮的银发，\r\n成长为一名美人的菲娜，即将'
+  infobox      25 项:
+      '中文名': '海贼王女'
+      '别名': '[{"v": "Kaizoku Oujo"}, {"v": "Fena: Pirate Princess"}]'
+      '话数': '12'
+      '放送开始': '2021年10月2日'
+      '放送星期': '星期六'
+      '官方网站': 'https://fena-pirate-princess.com/'
+      '播放电视台': 'MBS / TOKYO MX / BS朝日'
+      '其他电视台': 'AT-X'
+      '播放结束': '2021年12月18日'
+      '导演': 'ToyGerPROJECT / 中澤一登 / 高橋哲也 / 藤井サキ（藤咲淳一）'
+      '音乐': '梶浦由記'
+      '其他': '2021年8月14日（Crunchyroll）'
+      'Copyright': '©Kazuto Nakazawa / Production I.G'
+      '原作': '中澤一登×Production I.G'
+      '脚本': '窪山阿佐子'
+      '音乐制作': 'フライングドッグ'
+      '动画制作': 'Production I.G'
+      '人物设定': '高橋靖子（主要人物设定）、西村理恵'
+      '主题歌作词': '梶浦由記 / 饗庭純'
+      '主题歌作曲': '梶浦由記 / 出羽良彰'
+      '主题歌编曲': '梶浦由記 / 出羽良彰'
+      '主题歌演出': 'JUNNA / 鈴木みのり'
+      '演出': '高橋哲也、竹内知海、横山和基'
+      '作画监督': '中澤一登、高橋靖子、福原麻衣、杉田まるみ、竹内知海、下妻日紗子、具志堅眞由、實藤晴香、角谷知美、植田実、黄瀬和哉、宮下雄次、沼田くみ子、山﨑'
+      '特效作画监督': '中澤一登、橋本敬史'
+  tags         30 个:
+      '原创'  count=320
+      'Production.I.G'  count=258
+      'TV'  count=203
+      '2021年10月'  count=199
+      '冒险'  count=144
+      '2021'  count=135
+      '战斗'  count=124
+      '梶浦由记'  count=81
+      '中泽一登'  count=80
+      'ProductionI.G'  count=44
+      '奇幻'  count=43
+      '搞笑'  count=41
+
+--- subject_328609.json  (JSON 顶层键: ['collection', 'date', 'eps', 'id', 'images', 'infobox', 'locked', 'meta_tags', 'name', 'name_cn', 'nsfw', 'platform', 'rating', 'series', 'summary', 'tags', 'total_episodes', 'type', 'volumes']) ---
+  id           328609
+  name         'ぼっち・ざ・ろっく！'
+  name_cn      '孤独摇滚！'
+  date         '2022-10-08'
+  platform     'TV'
+  eps          12
+  total_eps    16
+  volumes      0
+  rating       {'rank': 73, 'total': 41530, 'count': {'1': 200, '2': 49, '3': 51, '4': 112, '5': 378, '6': 1426, '7': 5250, '8': 14390, '9': 12653, '10': 7021}, 'score': 8.4}
+  collection   {'on_hold': 1214, 'dropped': 628, 'wish': 4688, 'collect': 67666, 'doing': 5322}
+  images       {'small': 'https://lain.bgm.tv/r/200/pic/cover/l/e2/e7/328609_2EHLJ.jpg', 'grid': 'https://lain.bgm.tv/r/100/pic/cover/l/e2/e7/328609_2EHLJ.jpg', 'large': 'https://lain.bgm.tv/pic/cover/l/e2/e7/328609_2EHLJ.jpg', 'medium': 'https://lain.bgm.tv/r/800/pic/cover/l/e2/e7/328609_2EHLJ.jpg', 'common': 'https://lain.bgm.tv/r/400/pic/cover/l/e2/e7/328609_2EHLJ.jpg'}
+  locked       False  nsfw=False
+  series       False
+  summary 长度 173
+  summary      '作为网络吉他手“吉他英雄”而广受好评的后藤一里，在现实中却是个什么都不会的沟通障碍者。一里有着组建乐队的梦想，但因为不敢向人主动搭话而一直没有成功，直到一天在公园中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。可是，完全没有和他人合作'
+  infobox      70 项:
+      '中文名': '孤独摇滚！'
+      '别名': '[{"v": "BTR"}, {"v": "Bocchi the Rock!"}, {"v": "Bocchi the \\"Guitar H'
+      '话数': '12'
+      '放送开始': '2022年10月8日'
+      '放送星期': '星期六'
+      '官方网站': 'https://bocchi.rocks/tv/'
+      '播放电视台': 'TOKYO MX / BS11 / 群馬テレビ / とちぎテレビ'
+      '其他电视台': 'MRT宮崎放送 / MBS / RKB毎日放送 / AT-X'
+      '播放结束': '2022年12月24日'
+      '导演': '斎藤圭一郎'
+      '音乐': '菊谷知樹'
+      'Copyright': '©はまじあき／芳文社・アニプレックス'
+      '原作': 'はまじあき（芳文社「まんがタイムきららMAX」連載中）'
+      '系列构成': '吉田恵里香'
+      '人物设定': 'けろりら'
+      '副人物设定': '人设协力：高橋沙妃(6)'
+      '总作画监督': 'けろりら'
+      '副导演': '山本ゆうすけ'
+      '道具设计': '永木歩実；人偶制作：佐藤利幸'
+      '色彩设计': '横田明日香'
+      '美术监督': '守安靖尚'
+      '美术设计': 'taracod'
+      '摄影监督': '金森つばさ'
+      '摄影监督助理': '佐藤瑠里'
+      'CG 导演': '宮地克明；Live CG导演：内田博明'
+      '3DCG': 'Boundary；LIVE 舞台CG：exsa'
+      '剪辑': '平木大輔'
+      '剪辑助理': '丸山流美'
+      '音响监督': '藤田亜紀子'
+      '音响': 'HALF H・P STUDIO'
+      '音响制作担当': '鑰山千代'
+      '音效': '八十正太'
+      '录音': '林淑恭'
+      '录音助理': '關このみ'
+      '录音工作室': 'タバック'
+      '音乐制作': 'Aniplex'
+      '音乐制作人': '山内真治'
+      '音乐监督': '岡村弦'
+      '主题歌编曲': '三井律郎'
+      '主题歌作曲': '音羽-otoha-（OP）、谷口鮪 (KANA-BOON)、中嶋イッキュウ、北澤ゆうほ（ED）'
+      '主题歌作词': '樋口愛（ヒグチアイ）（OP）、谷口鮪 (KANA-BOON)、中嶋イッキュウ、北澤ゆうほ（ED）'
+      '主题歌演出': '結束バンド (青山吉能、長谷川育美、水野朔、鈴代紗弓)'
+      '插入歌演出': '結束バンド、SICK HACK'
+      'OP・ED 分镜': '斎藤圭一郎 / スズキハルカ'
+      'OP・ED 演出': '斎藤圭一郎 / スズキハルカ'
+      'OP・ED 动画制作': 'ED动画制作：Pie in the sky'
+      '动画制作': 'CloverWorks'
+      '製作': 'Aniplex、芳文社'
+      '製作协力': '三宅将典、淀明子、鈴木健太'
+      '企画': '岩上敦宏、孝壽尚志'
+      '企画协力': '月岡佑紀'
+      '制片人': '石川達也、小林宏之'
+      '副制片人': '高山幹弘'
+      '宣传制片人': '田中瑛'
+      '宣传': '尼子風斗、濱岡直輝、小山憲太郎'
+      '原作协力': '瀬古口拓也'
+      '制作事务': '岡本千尋、岡田千晴、秋山ちほ、伊藤奈々子、大下真由美'
+      '动画制片人': '梅原翔太'
+      '制作统括': '清水暁'
+      '制作管理': '制作デスク：木村美月'
+      '制作管理助理': '制作デスク補佐：染野翔'
+      '设定制作': '長田晃'
+      '脚本': '吉田恵里香'
+      '分镜': '斎藤圭一郎(1,2,8,12)、山本ゆうすけ(3,11)、刈谷暢秀(4)、川上雄介(5,10)、藤原佳幸(6)、アマタジャンチキ[石井俊匡]'
+      '演出': '斎藤圭一郎(1,12)、藤原佳幸(2,6,10)、山本ゆうすけ(3,11)、刈谷暢秀(4)、川上雄介(5,10)、篠原啓輔(7)、瀬尾健(8'
+      '作画监督': 'けろりら(OP,1,4,6-8,10,12)、助川裕彦(2,11)、中村颯(3)、Maring Song(4,10)、高橋沙妃(5,10)、'
+      '主动画师': 'LIVE动画师：伊藤優希'
+      '作画监督助理': '森川侑紀、安野将人、山崎淳、中村颯、高橋沙妃、けろりら、冨田真理、刈谷暢秀、瀬尾健、平峯義大、伊藤弘樹'
+      '演出助理': '山本ゆうすけ、篠原啓輔'
+      '标题设计': 'タイトルロゴ・サブタイトルデザイン：内古閑智之'
+  tags         30 个:
+      '芳文社'  count=10988
+      '音乐'  count=9453
+      '轻百合'  count=7560
+      'CloverWorks'  count=7126
+      '日常'  count=6993
+      '乐队题材'  count=4793
+      '漫画改'  count=4793
+      '2022年10月'  count=4554
+      '搞笑'  count=3375
+      'TV'  count=3185
+      '百合'  count=2238
+      '2022'  count=1858
+
+--- subject_55770.json  (JSON 顶层键: ['collection', 'date', 'eps', 'id', 'images', 'infobox', 'locked', 'meta_tags', 'name', 'name_cn', 'nsfw', 'platform', 'rating', 'series', 'summary', 'tags', 'total_episodes', 'type', 'volumes']) ---
+  id           55770
+  name         '進撃の巨人'
+  name_cn      '进击的巨人'
+  date         '2013-04-06'
+  platform     'TV'
+  eps          25
+  total_eps    26
+  volumes      0
+  rating       {'rank': 115, 'total': 32140, 'count': {'1': 129, '2': 37, '3': 44, '4': 83, '5': 302, '6': 1189, '7': 4712, '8': 13062, '9': 8046, '10': 4536}, 'score': 8.2}
+  collection   {'on_hold': 1334, 'dropped': 1028, 'wish': 3578, 'collect': 53856, 'doing': 3967}
+  images       {'small': 'https://lain.bgm.tv/r/200/pic/cover/l/78/c9/55770_HsJfh.jpg', 'grid': 'https://lain.bgm.tv/r/100/pic/cover/l/78/c9/55770_HsJfh.jpg', 'large': 'https://lain.bgm.tv/pic/cover/l/78/c9/55770_HsJfh.jpg', 'medium': 'https://lain.bgm.tv/r/800/pic/cover/l/78/c9/55770_HsJfh.jpg', 'common': 'https://lain.bgm.tv/r/400/pic/cover/l/78/c9/55770_HsJfh.jpg'}
+  locked       False  nsfw=False
+  series       False
+  summary 长度 138
+  summary      '悠长的历史之中,人类曾一度因被巨人捕食而崩溃。幸存下来的人们建造了一面巨大的墙壁,防止了巨人的入侵。不过,作为“和平”的代价,人类失去了到墙壁的外面去这一“自由”。主人公艾伦·耶格尔对还没见过的外面的世界抱有兴趣。在他正做着到墙壁的外面去这'
+  infobox      27 项:
+      '中文名': '进击的巨人'
+      '别名': '[{"v": "自由之翼"}, {"v": "進擊的巨人"}, {"v": "Attack on Titan"}, {"v": "Shing'
+      '话数': '25'
+      '放送开始': '2013年4月6日'
+      '放送星期': '星期六'
+      '官方网站': 'http://shingeki.tv'
+      '播放电视台': 'MBS'
+      '其他电视台': 'TOKYO MX / FBS / TOS / 北海道テレビ / テレビ愛知 / BS11'
+      '播放结束': '2013年9月28日'
+      '导演': '荒木哲郎'
+      'Copyright': '©諫山創・講談社／「進撃の巨人」製作委員会'
+      '设定': '千葉崇明(巨人设计)'
+      '视觉概念': '森山洋'
+      '製作': '「進撃の巨人」製作委員会(ポニーキャニオン、講談社、Production I.G、電通、ポニーキャニオンエンタープライズ) 古川陽子、鈴木伸'
+      '主题歌演出': 'Linked Horizon(Revo) / 日笠陽子、cinema staff'
+      '主题歌作词': 'Revo / マイクスギヤマ、三島想平'
+      '主题歌作曲': 'Revo / 石塚玲依、cinema staff'
+      '主题歌编曲': 'Revo / 根岸貴幸、cinema staff・亀田誠治'
+      '原作': '諫山創（別冊少年マガジン連載／講談社）'
+      '人物设定': '浅野恭司'
+      '主动画师': '手塚響平、山田歩'
+      '企画': '磯山敦、松下卓也、森下勝司、今井陽介、椎名信一、丸山博雄'
+      '制片人': '木下哲哉、立石謙介、和田丈嗣、古川慎、永瀬智人、前田俊博'
+      '动画制片人': '中武哲也'
+      '分镜': '荒木哲郎(1,25)、肥塚正史(2,13,25)、大原実(3,6,11)、別所誠人(4)、江崎慎平(5,22)、立川譲(7)、平田智浩(8,'
+      '演出': '荒木哲郎(1,25)、田中洋之(1,10,21,24)、菊池聡延(8)、肥塚正史(2,13,25)、福本潔(3,11,15,19)、別所誠人'
+      '脚本': '小林靖子(1,2,4,9,14,16,20,24,25)、瀬古浩司(3,5-7,10,11,15,17,18,23)、高木登(8,12,13'
+  tags         30 个:
+      '进击的巨人'  count=6759
+      '热血'  count=6002
+      '泽野弘之'  count=3882
+      '漫画改'  count=3421
+      '2013年4月'  count=3234
+      'WITSTUDIO'  count=3029
+      '战斗'  count=2921
+      'TV'  count=2520
+      'Production.I.G'  count=1841
+      '2013'  count=1478
+      '漫改'  count=1077
+      '奇幻'  count=1003
+
+--- subject_567520.json  (JSON 顶层键: ['collection', 'date', 'eps', 'id', 'images', 'infobox', 'locked', 'meta_tags', 'name', 'name_cn', 'nsfw', 'platform', 'rating', 'series', 'summary', 'tags', 'total_episodes', 'type', 'volumes']) ---
+  id           567520
+  name         '【无职转生同人动画】血契之约'
+  name_cn      ''
+  date         '2025-07-01'
+  platform     '其他'
+  eps          1
+  total_eps    1
+  volumes      0
+  rating       {'rank': 9926, 'total': 190, 'count': {'1': 42, '2': 9, '3': 10, '4': 18, '5': 30, '6': 34, '7': 24, '8': 11, '9': 5, '10': 7}, 'score': 4.7}
+  collection   {'on_hold': 13, 'dropped': 25, 'wish': 62, 'collect': 344, 'doing': 22}
+  images       {'small': 'https://lain.bgm.tv/r/200/pic/cover/l/1a/43/567520_WvktT.jpg', 'grid': 'https://lain.bgm.tv/r/100/pic/cover/l/1a/43/567520_WvktT.jpg', 'large': 'https://lain.bgm.tv/pic/cover/l/1a/43/567520_WvktT.jpg', 'medium': 'https://lain.bgm.tv/r/800/pic/cover/l/1a/43/567520_WvktT.jpg', 'common': 'https://lain.bgm.tv/r/400/pic/cover/l/1a/43/567520_WvktT.jpg'}
+  locked       False  nsfw=False
+  series       False
+  summary 长度 104
+  summary      '这是一部改编自《无职转生》小说“转折点4”章节的12分钟同人动画。 本作重新演绎了第14～15卷中，鲁迪与奥尔斯蒂德战斗的高潮片段。 由蓝纹兔子发起、统筹与导演，联合全国多位充满热情的动画师与志愿者共同完成。'
+  infobox      11 项:
+      '上映年度': '2025年7月1日'
+      '片长': '12分47秒'
+      '链接': '[{"k": "哔哩哔哩", "v": "https://www.bilibili.com/video/BV1miHfzEET2"}]'
+      '企画': '蓝纹兔子'
+      '脚本': '蓝纹兔子'
+      '分镜': '叶瀚文、蓝纹兔子'
+      '制片人': '蓝纹兔子'
+      '导演': '蓝纹兔子'
+      '摄影': '超次元小翼、NIMART辰辰、阿和、咸鱼、SEIHAN、忍耐、颓废、垚森、纸欣、色切子、阿莫、风月酱、汐'
+      '背景美术': '耿旭东、谢惊蛰'
+      '话数': '1'
+  tags         27 个:
+      '同人'  count=65
+      '短片'  count=62
+      '2025'  count=41
+      '中国'  count=29
+      '无职转生'  count=29
+      '战斗'  count=27
+      '国产'  count=27
+      'WEB'  count=24
+      '轻小说改'  count=21
+      '奇幻'  count=20
+      '2025年7月'  count=12
+      '同人动画'  count=11
+
+============================================================================
+2. 剧集接口 /v0/episodes
+============================================================================
+
+--- episodes_23686.json  (顶层键: ['data', 'limit', 'offset', 'total']) ---
+  total=25 limit=10 offset=0
+    键: ['airdate', 'comment', 'desc', 'disc', 'duration', 'duration_seconds', 'ep', 'id', 'name', 'name_cn', 'sort', 'subject_id', 'type']
+    ep=1 sort=1 type=0
+    name='剣の世界'
+    name_cn='剑之世界'
+    airdate=2012-07-07 duration=00:23:40
+    desc='2022年、次世代ゲーム《ナーヴギア》が開発され、仮想空間へのフルダイブが実現した。\r\n《ナーヴギア'
+    comment=187 disc=0
+
+    键: ['airdate', 'comment', 'desc', 'disc', 'duration', 'duration_seconds', 'ep', 'id', 'name', 'name_cn', 'sort', 'subject_id', 'type']
+    ep=2 sort=2 type=0
+    name='ビーター'
+    name_cn='封弊者'
+    airdate=2012-07-14 duration=00:23:40
+    desc='デスゲームが開始されてから一ヶ月が過ぎ──2022年12月。\r\nすでに二千人ものプレイヤーが命を落と'
+    comment=153 disc=0
+
+    键: ['airdate', 'comment', 'desc', 'disc', 'duration', 'duration_seconds', 'ep', 'id', 'name', 'name_cn', 'sort', 'subject_id', 'type']
+    ep=3 sort=3 type=0
+    name='赤鼻のトナカイ'
+    name_cn='红鼻子麋鹿'
+    airdate=2012-07-21 duration=00:23:40
+    desc='モンスターに襲われていたギルド≪月夜の黒猫団≫を救ったキリト。\r\n現実世界でも友人同士だという黒猫団'
+    comment=145 disc=0
+
+    键: ['airdate', 'comment', 'desc', 'disc', 'duration', 'duration_seconds', 'ep', 'id', 'name', 'name_cn', 'sort', 'subject_id', 'type']
+    ep=4 sort=4 type=0
+    name='黒の剣士'
+    name_cn='黑色剑士'
+    airdate=2012-07-28 duration=00:23:40
+    desc='パーティメンバーと喧嘩別れしたビーストテイマーの少女・シリカは、森で道に迷ったあげくモンスターに遭遇'
+    comment=116 disc=0
+
+    键: ['airdate', 'comment', 'desc', 'disc', 'duration', 'duration_seconds', 'ep', 'id', 'name', 'name_cn', 'sort', 'subject_id', 'type']
+    ep=5 sort=5 type=0
+    name='圏内事件'
+    name_cn='圈内事件'
+    airdate=2012-08-04 duration=00:23:40
+    desc='2024年4月。アスナは《SAO》屈指のギルド≪血盟騎士団≫の副団長として最前線に立ち、攻略は第五十'
+    comment=88 disc=0
+
+
+--- episodes_311310.json  (顶层键: ['data', 'limit', 'offset', 'total']) ---
+  total=12 limit=10 offset=0
+    键: ['airdate', 'comment', 'desc', 'disc', 'duration', 'duration_seconds', 'ep', 'id', 'name', 'name_cn', 'sort', 'subject_id', 'type']
+    ep=1 sort=1 type=0
+    name='記憶'
+    name_cn='记忆'
+    airdate=2021-10-02 duration=00:23:30
+    desc='わずかな月明りが覗く夜、その海上で赤く燃え盛った船……\r\n幼きフェナは雪丸に助けられ、一人孤独な海へ'
+    comment=42 disc=0
+
+    键: ['airdate', 'comment', 'desc', 'disc', 'duration', 'duration_seconds', 'ep', 'id', 'name', 'name_cn', 'sort', 'subject_id', 'type']
+    ep=2 sort=2 type=0
+    name='受け継ぐ旅'
+    name_cn='继承之旅'
+    airdate=2021-10-09 duration=00:23:30
+    desc='気が付くとフェナは大西洋に浮かぶ小舟に乗っていた。\r\n脱出を手助けしてくれたのは、ハウトマン家に仕え'
+    comment=53 disc=0
+
+    键: ['airdate', 'comment', 'desc', 'disc', 'duration', 'duration_seconds', 'ep', 'id', 'name', 'name_cn', 'sort', 'subject_id', 'type']
+    ep=3 sort=3 type=0
+    name='バルバラル'
+    name_cn='巴巴拉尔'
+    airdate=2021-10-16 duration=00:23:30
+    desc='父の旅を引き継ぎ、ゴブリンの島を出港したフェナと雪丸達。\r\n旅の準備のために、自由都市バルバラルへと'
+    comment=42 disc=0
+
+    键: ['airdate', 'comment', 'desc', 'disc', 'duration', 'duration_seconds', 'ep', 'id', 'name', 'name_cn', 'sort', 'subject_id', 'type']
+    ep=4 sort=4 type=0
+    name='石の謎'
+    name_cn='石之谜'
+    airdate=2021-10-23 duration=00:23:30
+    desc='追手から逃げ切ったフェナ達は、石が製造されたという「リバーオーバーシュタイン」へと向かう。\r\n雪丸に'
+    comment=34 disc=0
+
+    键: ['airdate', 'comment', 'desc', 'disc', 'duration', 'duration_seconds', 'ep', 'id', 'name', 'name_cn', 'sort', 'subject_id', 'type']
+    ep=5 sort=5 type=0
+    name='座標'
+    name_cn='坐标'
+    airdate=2021-10-30 duration=00:23:30
+    desc='リバーオーバーシュタインで得た情報をもとに、謎の石が採掘された場所「オルレアン」へとたどり着く一行。'
+    comment=34 disc=0
+
+
+--- episodes_567520.json  (顶层键: ['data', 'limit', 'offset', 'total']) ---
+  total=1 limit=10 offset=0
+    键: ['airdate', 'comment', 'desc', 'disc', 'duration', 'duration_seconds', 'ep', 'id', 'name', 'name_cn', 'sort', 'subject_id', 'type']
+    ep=1 sort=1 type=0
+    name='血契之约'
+    name_cn=''
+    airdate=2025-07-01 duration=00:12:47
+    desc=''
+    comment=0 disc=0
+
+
+============================================================================
+3. 关联接口 /v0/subjects/{id}/subjects
+============================================================================
+
+--- relations_23686.json  55 条 ---
+  relation 分布: {'游戏': 19, '番外篇': 3, '其他': 9, '画集': 3, '不同演绎': 2, '相同世界观': 2, '书籍': 2, '片尾曲': 2, '片头曲': 2, '续集': 1, '原声集': 2, '角色歌': 7, '衍生': 1}
+    游戏             id=279465 name='ソードアート・オンライン Alicization Lycoris' name_cn='刀剑神域 彼岸游境'
+    番外篇            id=115582 name='ソードアート・オンライン ザ・デイ・ビフォア' name_cn='刀剑神域 The Day Before'
+    番外篇            id=115583 name='ソードアート・オンライン ザ・デイ・アフター' name_cn='刀剑神域 The Day After'
+    其他             id=157919 name='ソードアート・オンライン ミュージックコレクション' name_cn=''
+    游戏             id=168089 name='ソードアート・オンライン -ホロウ・リアリゼーション-' name_cn='刀剑神域：虚空幻界'
+    游戏             id=184769 name='黑衣剑士-刀剑神域' name_cn=''
+    画集             id=188684 name='石田可奈 イラストワークス よせあつめ' name_cn=''
+    不同演绎           id=188817 name='Sword Art Online' name_cn='刀剑神域'
+
+--- relations_311310.json  4 条 ---
+  relation 分布: {'片头曲': 1, '原声集': 1, '片尾曲': 2}
+    片头曲            id=343344 name='海と真珠' name_cn=''
+    原声集            id=351817 name='TVアニメーション『海賊王女』オリジナルサウンドトラック' name_cn=''
+    片尾曲            id=347822 name='サイハテ' name_cn=''
+    片尾曲            id=363204 name='太陽の航路' name_cn=''
+
+--- relations_567520.json  0 条 ---
+  relation 分布: {}
+
+============================================================================
+4. 日历 /calendar
+============================================================================
+  顶层: list，7 天
+    星期一: 14 部
+    星期二: 10 部
+    星期三: 12 部
+    星期四: 12 部
+    星期五: 14 部
+    星期六: 24 部
+    星期日: 28 部
+  本周共 114 部
+
+  条目字段: ['air_date', 'air_weekday', 'collection', 'id', 'images', 'name', 'name_cn', 'rating', 'summary', 'type', 'url']
+    id=390200
+    name='列女战纪：女娲石记'
+    name_cn='列女战纪：女娲石记'
+    air_date=2026-10-05 air_weekday=1
+    images=http://lain.bgm.tv/pic/cover/l/1c/b4/390200_Z9jPp.jpg
+    rating={'total': 8, 'count': {'10': 0, '9': 0, '8': 0, '7': 0, '6': 2, '5': 2, '4': 1, '3': 0, '2': 0, '1': 3}, 'score': 3.6}
+    rank=None collection={'doing': 6}
+
+============================================================================
+5. 搜索接口 /v0/search/subjects
+============================================================================
+
+--- 关键词 '刀剑神域': total=26 返回 10 ---
+    id=   23686 name_cn='刀剑神域'                 date=2012-07-07 eps=25
+    id=   84866 name_cn='刀剑神域 Extra Edition'   date=2013-12-31 eps=1
+    id=   92382 name_cn='刀剑神域 第二季'             date=2014-07-05 eps=24
+    id=  148099 name_cn='刀剑神域 序列之争'            date=2017-02-18 eps=1
+    id=  225604 name_cn='刀剑神域 爱丽丝篇'            date=2018-10-06 eps=24
+    条目字段: ['collection', 'date', 'eps', 'id', 'image', 'images', 'infobox', 'locked', 'meta_tags', 'name', 'name_cn', 'nsfw', 'platform', 'rating', 'series', 'summary', 'tags', 'total_episodes', 'type', 'volumes']
+
+--- 关键词 '孤独摇滚': total=19 返回 10 ---
+    id=  328609 name_cn='孤独摇滚！'                date=2022-10-08 eps=12
+    id=  537409 name_cn='孤独摇滚！第二季'             date=None eps=0
+    id=  718086 name_cn='电影 孤独摇滚！星之足迹'         date=None eps=0
+    id=  436738 name_cn='剧场总集篇孤独摇滚！ Re:'       date=2024-06-07 eps=1
+    id=  459642 name_cn='剧场总集篇孤独摇滚！ Re:Re:'    date=2024-08-09 eps=1
+    条目字段: ['collection', 'date', 'eps', 'id', 'image', 'images', 'infobox', 'locked', 'meta_tags', 'name', 'name_cn', 'nsfw', 'platform', 'rating', 'series', 'summary', 'tags', 'total_episodes', 'type', 'volumes']
+
+--- 关键词 '无职转生': total=9 返回 9 ---
+    id=  567520 name_cn=''                     date=2025-07-01 eps=1
+    id=  277554 name_cn='无职转生～到了异世界就拿出真本事～'    date=2021-01-10 eps=11
+    id=  325585 name_cn='无职转生～到了异世界就拿出真本事～ 第2部分' date=2021-10-03 eps=12
+    id=  373247 name_cn='无职转生 第二季 ～到了异世界就拿出真本事～' date=2023-07-02 eps=13
+    id=  444557 name_cn='无职转生 第二季 ～到了异世界就拿出真本事～ 第2部分' date=2024-04-07 eps=12
+    条目字段: ['collection', 'date', 'eps', 'id', 'image', 'images', 'infobox', 'locked', 'meta_tags', 'name', 'name_cn', 'nsfw', 'platform', 'rating', 'series', 'summary', 'tags', 'total_episodes', 'type', 'volumes']
+
+--- 关键词 '海贼王': total=65 返回 10 ---
+    id=  311310 name_cn='海贼王女'                 date=2021-10-02 eps=12
+    id=  145691 name_cn='海贼王子'                 date=1966-05-02 eps=31
+    id=  162049 name_cn='航海王：目标！海贼棒球王'         date=2004-03-06 eps=1
+    id=    1867 name_cn='航海王：打倒！海贼强萨克！'        date=1998-07-26 eps=1
+    id=    1999 name_cn='航海王：阿拉巴斯坦战记 沙漠王女与海盗们' date=2007-03-03 eps=1
+    条目字段: ['collection', 'date', 'eps', 'id', 'image', 'images', 'infobox', 'locked', 'meta_tags', 'name', 'name_cn', 'nsfw', 'platform', 'rating', 'series', 'summary', 'tags', 'total_episodes', 'type', 'volumes']
+
+--- 关键词 '进击的巨人': total=32 返回 10 ---
+    id=   55770 name_cn='进击的巨人'                date=2013-04-06 eps=25
+    id=   80993 name_cn='进击的巨人 OAD'            date=2013-12-09 eps=3
+    id=  110049 name_cn='进击的巨人 无悔的选择 OAD'      date=2014-12-09 eps=2
+    id=  118335 name_cn='进击的巨人 第二季'            date=2017-04-01 eps=12
+    id=  158003 name_cn='进击的巨人 关西腔版'           date=2015-12-16 eps=1
+    条目字段: ['collection', 'date', 'eps', 'id', 'image', 'images', 'infobox', 'locked', 'meta_tags', 'name', 'name_cn', 'nsfw', 'platform', 'rating', 'series', 'summary', 'tags', 'total_episodes', 'type', 'volumes']
