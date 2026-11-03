@@ -1,41 +1,46 @@
-======================================================================
-方案 A: bgm.tv/anime/browser 网页筛选页
-======================================================================
-  HTTP 200  49165 bytes
-  第 1 页提取到 24 个 id: ['545465', '563404', '563401', '409682', '381825', '586255', '111876', '634916', '444748', '369793']
-  分页控件里出现的最大页码: 999
-  第 2 页 24 个 id，与第 1 页重叠 0  ← 翻页有效
-  sort=rank 时 24 个 id，与默认页重叠 0
+========================================================================
+逐页诊断（sort=title，page 1..15）
+========================================================================
+  page=1   HTTP 200 len=  49165 ids= 24 final_url=https://bgm.tv/anime/browser?page=1&sort=title
+  page=2   HTTP 200 len=  49331 ids= 24 final_url=https://bgm.tv/anime/browser?page=2&sort=title
+  page=3   HTTP 200 len=  49822 ids= 24 final_url=https://bgm.tv/anime/browser?page=3&sort=title
+  page=4   HTTP 200 len=  49405 ids= 24 final_url=https://bgm.tv/anime/browser?page=4&sort=title
+  page=5   HTTP 200 len=  48355 ids= 24 final_url=https://bgm.tv/anime/browser?page=5&sort=title
+  page=6   HTTP 200 len=  48023 ids= 24 final_url=https://bgm.tv/anime/browser?page=6&sort=title
+  page=7   HTTP 200 len=  48777 ids= 24 final_url=https://bgm.tv/anime/browser?page=7&sort=title
+  page=8   HTTP 200 len=  49554 ids= 24 final_url=https://bgm.tv/anime/browser?page=8&sort=title
+  page=9   HTTP 200 len=  48047 ids= 24 final_url=https://bgm.tv/anime/browser?page=9&sort=title
+  page=10  HTTP 200 len=  49130 ids= 24 final_url=https://bgm.tv/anime/browser?page=10&sort=title
+  page=11  HTTP 200 len=  10820 ids=  0 final_url=https://bgm.tv/anime/browser?page=11&sort=title
+      已保存 pg11.html 供检查
+      前 200 字: '<!DOCTYPE html>\n<html data-theme="light"  data-theme-color="pink" data-cover-size="default" data-avatar-size="default">\n<head>\n<meta charset="utf-8" />\n<meta content="width=device-width, initial-scale'
+  page=12  HTTP 200 len=  10820 ids=  0 final_url=https://bgm.tv/anime/browser?page=12&sort=title
+      已保存 pg12.html 供检查
+      前 200 字: '<!DOCTYPE html>\n<html data-theme="light"  data-theme-color="pink" data-cover-size="default" data-avatar-size="default">\n<head>\n<meta charset="utf-8" />\n<meta content="width=device-width, initial-scale'
+  page=13  HTTP 200 len=  10820 ids=  0 final_url=https://bgm.tv/anime/browser?page=13&sort=title
+      已保存 pg13.html 供检查
+      前 200 字: '<!DOCTYPE html>\n<html data-theme="light"  data-theme-color="pink" data-cover-size="default" data-avatar-size="default">\n<head>\n<meta charset="utf-8" />\n<meta content="width=device-width, initial-scale'
+  page=14  HTTP 200 len=  10820 ids=  0 final_url=https://bgm.tv/anime/browser?page=14&sort=title
+      已保存 pg14.html 供检查
+      前 200 字: '<!DOCTYPE html>\n<html data-theme="light"  data-theme-color="pink" data-cover-size="default" data-avatar-size="default">\n<head>\n<meta charset="utf-8" />\n<meta content="width=device-width, initial-scale'
+  page=15  HTTP 200 len=  10820 ids=  0 final_url=https://bgm.tv/anime/browser?page=15&sort=title
+      已保存 pg15.html 供检查
+      前 200 字: '<!DOCTYPE html>\n<html data-theme="light"  data-theme-color="pink" data-cover-size="default" data-avatar-size="default">\n<head>\n<meta charset="utf-8" />\n<meta content="width=device-width, initial-scale'
 
-======================================================================
-方案 B: POST /v0/search/subjects 分页
-======================================================================
-  关键词 ''     total=1000 返回=20
-  关键词 'a'    total=1000 返回=20
-  关键词 'あ'    total=1000 返回=20
-  关键词 '的'    total=1000 返回=20
-  --- offset 深度测试 ---
-  offset=0      返回=20  首个id=638772
-  offset=50     返回=20  首个id=173177
-  offset=500    返回=20  首个id=13871
-  offset=1000   返回=0   首个id=None
-  offset=5000   返回=0   首个id=None
+========================================================================
+对照：sort=rank / 无 sort 参数
+========================================================================
+  sort=rank     page=11 HTTP 200 len=  53521 ids=24
+  sort=(默认)     page=11 HTTP 200 len=  10820 ids=0
+  sort=date     page=11 HTTP 200 len=  10820 ids=0
 
-======================================================================
-附加: sitemap
-======================================================================
-  /sitemap.xml           HTTP 404  162 bytes
-  /sitemap_index.xml     HTTP 404  162 bytes
-  /robots.txt            HTTP 200  67 bytes
-      User-agent: *
-
-Disallow: /pic/
-Disallow: /img/
-Disallow: /js/
-
-
-======================================================================
-结论
-======================================================================
-  方案 A 可用：网页筛选页支持翻页，最大页码 ≥ 999
-  按每页 24 条估算，总量约 23976 部
+========================================================================
+深页测试（确认上限是否真是 999）
+========================================================================
+  page=50    HTTP 200 len=  10820 ids=0
+  page=200   HTTP 200 len=  10820 ids=0
+  page=500   HTTP 200 len=  10820 ids=0
+  page=990   HTTP 200 len=  10820 ids=0
+  page=995   HTTP 200 len=  10820 ids=0
+  page=999   HTTP 200 len=  10820 ids=0
+  page=1000  HTTP 200 len=  10820 ids=0
