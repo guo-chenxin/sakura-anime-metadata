@@ -1,0 +1,15 @@
+{
+  "version": "20261103T052006Z",
+  "generated_at": "2026-11-03T05:20:06.413453+00:00",
+  "shard": 0,
+  "shards": 1,
+  "ids_total": 100,
+  "collected_ok": 97,
+  "collected_fail": 3,
+  "rate_limited": 0,
+  "files": [
+    "episodes.jsonl.gz",
+    "relations.jsonl.gz",
+    "subjects.jsonl.gz"
+  ]
+}
