@@ -1,0 +1,48 @@
+name: probe-verify
+
+# 验证 sort=rank 深页是否真能拿到不同数据。
+#
+# 上一轮结果可疑：page=600/800/999 返回空，但 page=1200/1500 又有数据，
+# 且字节数与 page=1 完全相同。必须确认是不是「页码折叠」（超限就返回第 1 页）。
+# 若是折叠，全量枚举需要换策略。
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: pip install httpx
+
+      - name: 验证深页数据
+        run: python probe_verify.py
+
+      - name: 上传结果
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: verify-report
+          path: probe_ids/
+          retention-days: 14
+
+      - name: 提交结果
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f probe_ids/
+          git diff --staged --quiet || git commit -m "probe-verify: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
