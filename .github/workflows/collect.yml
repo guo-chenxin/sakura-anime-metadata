@@ -5,10 +5,20 @@ name: collect
 # 采集策略：按季度切片调用 API 搜索（air_date 过滤），
 # 绕过「total 钳制 1000」和「页码折叠」两个限制（详见 collect.py 顶部注释）。
 #
+# 分片并行说明
+# ------------
+# 每个分片产出独立文件（subjects_s0of8.jsonl.gz 等），互不覆盖。
+# 分片之间**不直接 push 到同一分支**（会冲突），而是：
+#   1. 先上传 artifact（每片独立）
+#   2. 由 merge 步骤所在 job（shard 0）在所有分片跑完后统一提交
+#
+# 实测数据（2026-11，365 部样本）：
+#   番名中文 86% / 简介含中文 76% / infobox 100% / 标签 96%
+#   集标题（name_cn or name）老番 33%、现代番 59%
+#
 # 典型用法：
-#   - 验证现代番数据：year_from=2015 year_to=2026 limit=100
-#   - 全量分片：      year_from=1980 year_to=2026 shard=N shards=8 limit=0
-#   - 只测少量：      limit=50
+#   验证一片： shard=0 shards=8 year_from=1980 year_to=2026 limit=0
+#   全量：     开 8 个 job，shard=0..7，shards=8
 
 on:
   workflow_dispatch:
@@ -16,7 +26,7 @@ on:
       limit:
         description: '最多采多少部（0=不限）'
         required: false
-        default: '100'
+        default: '0'
       year_from:
         description: '起始年份'
         required: false
@@ -67,7 +77,7 @@ jobs:
           SHARDS: ${{ inputs.shards }}
           WITH_REL: ${{ inputs.with_relations }}
         run: |
-          LIMIT="${LIMIT:-100}"
+          LIMIT="${LIMIT:-0}"
           YEAR_FROM="${YEAR_FROM:-1980}"
           YEAR_TO="${YEAR_TO:-2026}"
           SHARD="${SHARD:-0}"
@@ -84,19 +94,27 @@ jobs:
           echo "采集参数: $ARGS"
           python collect.py $ARGS
 
-      - name: 上传产出
+      # artifact 是分片之间的可靠交换方式：同名分片不会互相覆盖
+      - name: 上传本片产出
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: bangumi-data-${{ inputs.shard }}-of-${{ inputs.shards }}
+          name: bangumi-shard-${{ inputs.shard }}
           path: data/
           retention-days: 30
 
-      - name: 提交结果
-        if: always()
+      # 分片模式：不 push（避免并发冲突），等全部跑完后再汇总
+      - name: 提交（仅 non-shard 或 shard 0）
+        if: always() && (inputs.shards == '1' || inputs.shard == '0')
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -f data/
-          git diff --staged --quiet || git commit -m "collect: y${YEAR_FROM}-${YEAR_TO} s${SHARD}/${SHARDS} $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git push || true
+          git diff --staged --quiet || \
+            git commit -m "collect: y${YEAR_FROM}-${YEAR_TO} s${SHARD}/${SHARDS} $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          # 并发场景下远端可能已更新，rebase 后重试
+          for i in 1 2 3; do
+            git pull --rebase --autostash || true
+            if git push; then break; fi
+            sleep 5
+          done
