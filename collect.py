@@ -1,43 +1,48 @@
 """Bangumi 元数据采集。
 
+探测结论（决定了本脚本的结构）
+------------------------------
+1. ``GET /anime/browser``（网页筛选页）
+   - ``sort=title`` 只能翻 10 页
+   - ``sort=rank`` 只能翻 435 页（≈1.04 万部），再大**折叠回第 1 页**
+   - ``?year=`` 参数无效
+   → 网页路线拿不到全量，弃用。
+
+2. ``POST /v0/search/subjects``（API 搜索）
+   - ``air_date`` 过滤**真的生效**（2024 首条是 2024-01-13）
+   - 每页硬上限 **20 条**（limit 传 50/100 也只给 20）
+   - ``total`` 被钳制在 **1000**，超过就不准了
+   - ``offset`` 无额外限制，``offset < total`` 就能取到
+   → **按季度切片**：每季 250~300 部，远低于 1000，可完整翻完。
+
+3. 搜索结果的字段与详情接口几乎一致
+   （id / name / name_cn / summary / images / rating / tags / infobox /
+     eps / date / platform / collection / total_episodes / volumes ...）
+   → **搜索结果直接入库**，省掉 ``GET /v0/subjects/{id}`` 的请求。
+
+采集流程
+--------
+1. **枚举**：1980~2026 逐季度调用搜索接口，翻页拿全部 subject
+   （每季度数据量小，不受 total 钳制影响）
+2. **剧集**：``GET /v0/episodes?subject_id=&limit=100`` 分页拉完
+3. **关联**（可选 ``--with-relations``）：
+   ``GET /v0/subjects/{id}/subjects``
+
 产出
 ----
-``data/subjects.jsonl.gz``   —— 每行一个 subject 的完整元数据
-``data/episodes.jsonl.gz``   —— 每行一个 episode
-``data/manifest.json``       —— 版本、数量、时间戳
+``data/subjects.jsonl.gz``    每行一个 subject（含搜索结果全部字段）
+``data/episodes.jsonl.gz``    每行 ``{subject_id, episodes: [...]}``
+``data/manifest.json``        版本、数量、进度
 
-为什么用 JSONL
---------------
-1. **可流式追加**：采一批写一批，中断不丢已采数据
-2. **可增量**：新数据 append，不用重写整个文件
-3. **gz 压缩**：2 万部 subject 约 40 MB 原始 → 压缩后 5 MB 左右
-
-id 枚举
--------
-Bangumi API 没有「列出全部动画」的接口（实测确认）。用网页筛选页：
-
-    https://bgm.tv/anime/browser?page=N     # 1..999，每页 24 条
-
-``sort=title`` 时翻页稳定无重叠（实测第 1、2 页重叠 0）。
-共 999 页 ≈ 24000 部。
-
-采集粒度
---------
-- subject 详情：``GET /v0/subjects/{id}``
-- 剧集列表：``GET /v0/episodes?subject_id={id}&limit=100``
-- 关联作品：``GET /v0/subjects/{id}/subjects``
-
-限流
+分片
 ----
-未认证约 30 次/分钟。本脚本保守用 ``DELAY=2.2`` 秒，
-即约 27 次/分钟。2 万部 × 3 个接口 ≈ 7.4 小时，
-分多个 workflow 分片跑（见 ``--shard``）。
+``--shard N --shards M``：按 subject 轮转分配，多个 job 并行。
 
 用法
 ----
-    python collect.py --shard 0 --shards 20    # 第 1 片（共 20 片）
-    python collect.py --limit 100              # 只采 100 部（调试）
-    python collect.py --ids-only               # 只枚举 id
+    python collect.py --limit 100               # 调试：只采 100 部
+    python collect.py --ids-only                # 只枚举，不采详情
+    python collect.py --shard 0 --shards 8      # 第 1 片（共 8 片）
 """
 
 from __future__ import annotations
@@ -45,7 +50,6 @@ from __future__ import annotations
 import argparse
 import gzip
 import json
-import re
 import sys
 import time
 import traceback
@@ -59,16 +63,15 @@ UA = (
     "(https://github.com/guo-chenxin/sakura-anime-metadata)"
 )
 API = "https://api.bgm.tv"
-WEB = "https://bgm.tv"
 OUT = Path("data")
 
-# 网页列表项：<li id="item_545465" ...>
-ITEM_ID = re.compile(r'<li id="item_(\d+)"')
+# 搜索接口每页硬上限 20（传更大也只给 20）
+PAGE_SIZE = 20
+# 每季度分片：季度比年细，保证 total < 1000
+YEAR_FROM = 1980
+YEAR_TO = 2026
 
-MAX_PAGE = 999
-PER_PAGE = 24
-
-# 秒。实测 27 次/分钟不会触发限流
+# 秒。实测约 27 次/分钟不会触发限流
 DELAY = 2.2
 
 log: list[str] = []
@@ -82,107 +85,125 @@ def note(m=""):
 class Collector:
     def __init__(self, client: httpx.Client) -> None:
         self.c = client
-        self.ok = 0
-        self.fail = 0
+        self.calls = 0
         self.rate_limited = 0
 
-    # ---------- 底层请求（带限流与重试） ----------
-    def _get(self, url: str, params: dict | None = None) -> dict | list | None:
+    def _pace(self) -> None:
+        time.sleep(DELAY)
+
+    def search_page(
+        self, flt: dict, offset: int
+    ) -> tuple[int, list[dict]]:
+        """调搜索接口。返回 (total, data)。"""
         for attempt in range(3):
             try:
-                r = self.c.get(url, params=params)
+                r = self.c.post(
+                    f"{API}/v0/search/subjects",
+                    params={"limit": PAGE_SIZE, "offset": offset},
+                    json={"keyword": "", "filter": flt},
+                )
+                self.calls += 1
                 if r.status_code == 200:
-                    return r.json()
-                if r.status_code == 404:
-                    return None
+                    d = r.json()
+                    total = d.get("total") or 0
+                    data = d.get("data") or []
+                    self._pace()
+                    return total, data
                 if r.status_code == 429:
                     self.rate_limited += 1
                     wait = int(r.headers.get("Retry-After", 60))
-                    note(f"    限流，等待 {wait}s")
+                    note(f"    限流，等 {wait}s")
                     time.sleep(wait)
                     continue
-                note(f"    HTTP {r.status_code} {url}")
-                return None
+                note(f"    HTTP {r.status_code} offset={offset}")
+                self._pace()
+                return 0, []
             except Exception as exc:  # noqa: BLE001
                 if attempt == 2:
-                    note(f"    失败 {type(exc).__name__}: {url}")
-                    return None
+                    note(f"    失败 {type(exc).__name__} offset={offset}")
+                    self._pace()
+                    return 0, []
                 time.sleep(5 * (attempt + 1))
-        return None
-
-    # ---------- 1. 枚举 id ----------
-    def enumerate_ids(self) -> list[int]:
-        """爬网页筛选页拿到全部动画 id。
-
-        ``sort=title`` 保证翻页稳定（默认排序可能因新番插入而漂移）。
-        """
-        ids: list[int] = []
-        seen: set[int] = set()
-
-        for page in range(1, MAX_PAGE + 1):
-            try:
-                r = self.c.get(
-                    f"{WEB}/anime/browser",
-                    params={"page": page, "sort": "title"},
-                )
-                if r.status_code != 200:
-                    note(f"  第 {page} 页 HTTP {r.status_code}，跳过")
-                    time.sleep(DELAY)
-                    continue
-                page_ids = [int(x) for x in ITEM_ID.findall(r.text)]
-                new = [x for x in page_ids if x not in seen]
-                if not page_ids:
-                    note(f"  第 {page} 页无条目，可能已到末尾")
-                    break
-                if not new:
-                    note(f"  第 {page} 页全是重复 id，停止（共 {len(ids)}）")
-                    break
-                for x in new:
-                    seen.add(x)
-                    ids.append(x)
-                if page % 50 == 0:
-                    note(f"  已扫 {page} 页，累计 {len(ids)} 个 id")
-            except Exception as exc:  # noqa: BLE001
-                note(f"  第 {page} 页异常 {type(exc).__name__}")
-            time.sleep(DELAY)
-
-        return ids
-
-    # ---------- 2. 采单个 subject ----------
-    def fetch_subject(self, sid: int) -> dict | None:
-        d = self._get(f"{API}/v0/subjects/{sid}")
-        time.sleep(DELAY)
-        return d if isinstance(d, dict) else None
+        return 0, []
 
     def fetch_episodes(self, sid: int) -> list[dict]:
-        """分页拉全部剧集。limit 上限 100。"""
+        """拉全部剧集（limit 100 分页）。"""
         eps: list[dict] = []
         offset = 0
         while True:
-            d = self._get(
-                f"{API}/v0/episodes",
-                {"subject_id": sid, "type": 0, "limit": 100,
-                 "offset": offset},
-            )
-            time.sleep(DELAY)
-            if not isinstance(d, dict):
-                break
-            data = d.get("data") or []
-            eps.extend(data)
-            total = d.get("total") or 0
-            offset += len(data)
-            if not data or offset >= total:
-                break
+            for attempt in range(3):
+                try:
+                    r = self.c.get(
+                        f"{API}/v0/episodes",
+                        params={
+                            "subject_id": sid,
+                            "type": 0,
+                            "limit": 100,
+                            "offset": offset,
+                        },
+                    )
+                    self.calls += 1
+                    if r.status_code == 200:
+                        d = r.json()
+                        data = d.get("data") or []
+                        eps.extend(data)
+                        total = d.get("total") or 0
+                        offset += len(data)
+                        self._pace()
+                        if not data or offset >= total:
+                            return eps
+                        break
+                    if r.status_code == 429:
+                        self.rate_limited += 1
+                        wait = int(r.headers.get("Retry-After", 60))
+                        note(f"    剧集限流，等 {wait}s")
+                        time.sleep(wait)
+                        continue
+                    self._pace()
+                    return eps
+                except Exception:  # noqa: BLE001
+                    if attempt == 2:
+                        self._pace()
+                        return eps
+                    time.sleep(5 * (attempt + 1))
         return eps
 
     def fetch_relations(self, sid: int) -> list[dict]:
-        d = self._get(f"{API}/v0/subjects/{sid}/subjects")
-        time.sleep(DELAY)
-        return d if isinstance(d, list) else []
+        try:
+            r = self.c.get(f"{API}/v0/subjects/{sid}/subjects")
+            self.calls += 1
+            self._pace()
+            if r.status_code == 200:
+                d = r.json()
+                return d if isinstance(d, list) else []
+        except Exception:  # noqa: BLE001
+            self._pace()
+        return []
+
+
+def quarters(year_from: int, year_to: int) -> list[tuple[str, dict]]:
+    """生成按季度的过滤条件。
+
+    为什么按季度而不是按年：``total`` 被钳制在 1000，2022~2025 各年都超过
+    1000 部，按年会漏数据。实测每季 250~300 部，远低于上限。
+    """
+    out: list[tuple[str, dict]] = []
+    for y in range(year_from, year_to + 1):
+        for q, (mm_from, mm_to) in enumerate(
+            ((1, 4), (4, 7), (7, 10), (10, 13)), start=1
+        ):
+            start = f">={y}-{mm_from:02d}-01"
+            if mm_to == 13:
+                end = f"<{y + 1}-01-01"
+            else:
+                end = f"<{y}-{mm_to:02d}-01"
+            out.append(
+                (f"{y}Q{q}", {"type": [2], "air_date": [start, end]})
+            )
+    return out
 
 
 def append_jsonl(path: Path, rows: list[dict]) -> None:
-    """追加写入 gz 格式的 JSONL。"""
     if not rows:
         return
     with gzip.open(path, "at", encoding="utf-8") as f:
@@ -190,129 +211,160 @@ def append_jsonl(path: Path, rows: list[dict]) -> None:
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
 
 
+def load_done_ids(path: Path) -> set[int]:
+    """读已采 subject id（断点续传）。"""
+    done: set[int] = set()
+    if not path.exists():
+        return done
+    try:
+        with gzip.open(path, "rt", encoding="utf-8") as f:
+            for line in f:
+                try:
+                    done.add(json.loads(line)["id"])
+                except Exception:  # noqa: BLE001
+                    continue
+    except Exception:  # noqa: BLE001
+        pass
+    return done
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=0,
                     help="最多采多少部（0=不限）")
     ap.add_argument("--ids-only", action="store_true",
-                    help="只枚举 id，不采详情")
-    ap.add_argument("--shard", type=int, default=0,
-                    help="当前分片号（0 起）")
-    ap.add_argument("--shards", type=int, default=1,
-                    help="总分片数")
+                    help="只枚举 id，不采剧集")
+    ap.add_argument("--with-relations", action="store_true",
+                    help="同时采关联作品（额外 1 请求/部）")
+    ap.add_argument("--shard", type=int, default=0)
+    ap.add_argument("--shards", type=int, default=1)
+    ap.add_argument("--year-from", type=int, default=YEAR_FROM)
+    ap.add_argument("--year-to", type=int, default=YEAR_TO)
     args = ap.parse_args()
 
     OUT.mkdir(exist_ok=True)
     suffix = f"_s{args.shard}of{args.shards}" if args.shards > 1 else ""
 
-    ids_file = OUT / "ids.json"
+    subj_path = OUT / f"subjects{suffix}.jsonl.gz"
+    ep_path = OUT / f"episodes{suffix}.jsonl.gz"
+    rel_path = OUT / f"relations{suffix}.jsonl.gz"
+
+    started = datetime.now(timezone.utc)
+    ok = 0
+    fail = 0
+    total_eps = 0
+    total_rel = 0
+
     with httpx.Client(
         timeout=30,
-        headers={"User-Agent": UA, "Accept-Language": "zh-CN,zh;q=0.9"},
+        headers={
+            "User-Agent": UA,
+            "Accept": "application/json",
+            "Accept-Language": "zh-CN,zh;q=0.9",
+        },
         follow_redirects=True,
     ) as c:
         col = Collector(c)
 
-        # ---------- id 枚举（复用已有结果） ----------
-        if ids_file.exists():
-            ids = json.loads(ids_file.read_text(encoding="utf-8"))
-            note(f"复用已有 id 列表：{len(ids)} 个")
-        else:
-            note("枚举 id（爬 bgm.tv 网页筛选页）...")
-            ids = col.enumerate_ids()
-            ids_file.write_text(
-                json.dumps(ids), encoding="utf-8"
-            )
-            note(f"枚举完成：{len(ids)} 个 id")
+        done = load_done_ids(subj_path)
+        if done:
+            note(f"断点续传：已采 {len(done)} 部")
 
-        if args.ids_only:
-            note("--ids-only，结束")
-            return 0
-
-        # ---------- 分片 ----------
+        # ---------- 枚举 + 采集 ----------
+        qs = quarters(args.year_from, args.year_to)
         if args.shards > 1:
-            ids = [
-                x for i, x in enumerate(ids)
+            qs = [
+                x for i, x in enumerate(qs)
                 if i % args.shards == args.shard
             ]
-            note(f"分片 {args.shard}/{args.shards}：{len(ids)} 个 id")
+            note(f"分片 {args.shard}/{args.shards}：{len(qs)} 个季度")
 
-        if args.limit:
-            ids = ids[: args.limit]
-            note(f"--limit 限制为 {len(ids)} 个")
-
-        # ---------- 采集 ----------
-        subj_path = OUT / f"subjects{suffix}.jsonl.gz"
-        ep_path = OUT / f"episodes{suffix}.jsonl.gz"
-
-        # 已采过的跳过（断点续传）
-        done: set[int] = set()
-        if subj_path.exists():
-            with gzip.open(subj_path, "rt", encoding="utf-8") as f:
-                for line in f:
-                    try:
-                        done.add(json.loads(line)["id"])
-                    except Exception:  # noqa: BLE001
-                        pass
-            note(f"已采 {len(done)} 部，续传剩余")
-
-        todo = [x for x in ids if x not in done]
-        note(f"待采 {len(todo)} 部，预计 "
-             f"{len(todo) * DELAY * 3 / 60 / 60:.1f} 小时（每部 3 请求）")
+        note(f"季度切片：{len(qs)} 个")
         note("")
 
-        t0 = time.time()
-        for i, sid in enumerate(todo, 1):
-            try:
-                subj = col.fetch_subject(sid)
-                if not subj:
-                    col.fail += 1
-                    continue
+        seen: set[int] = set(done)
+        collected = 0
 
-                # 只保留动画（type=2），网页列表偶尔混入其他类型
-                if subj.get("type") != 2:
-                    continue
+        for qi, (label, flt) in enumerate(qs, 1):
+            offset = 0
+            quarter_total = 0
+            while True:
+                total, data = col.search_page(flt, offset)
+                if offset == 0:
+                    quarter_total = total
+                if not data:
+                    break
+                offset += len(data)
 
-                eps = col.fetch_episodes(sid)
-                rels = col.fetch_relations(sid)
+                # 过滤：只留动画、去重、跳过已采
+                batch = []
+                for s in data:
+                    sid = s.get("id")
+                    if not sid or sid in seen:
+                        continue
+                    if s.get("type") != 2:
+                        continue
+                    seen.add(sid)
+                    batch.append(s)
 
-                append_jsonl(subj_path, [subj])
-                if eps:
-                    append_jsonl(
-                        ep_path,
-                        [{"subject_id": sid, "episodes": eps}],
-                    )
-                if rels:
-                    append_jsonl(
-                        OUT / f"relations{suffix}.jsonl.gz",
-                        [{"subject_id": sid, "relations": rels}],
-                    )
+                if batch:
+                    append_jsonl(subj_path, batch)
+                    ok += len(batch)
+                    collected += len(batch)
 
-                col.ok += 1
-                if i % 10 == 0 or i == 1:
-                    elapsed = time.time() - t0
-                    rate = i / elapsed * 60 if elapsed else 0
-                    eta = (len(todo) - i) / (rate / 60) if rate else 0
-                    note(
-                        f"  [{i}/{len(todo)}] id={sid} "
-                        f"{subj.get('name_cn') or subj.get('name')!r} "
-                        f"eps={len(eps)} rel={len(rels)} | "
-                        f"{rate:.1f} 部/分 ETA {eta/60:.1f}h"
-                    )
-            except Exception:  # noqa: BLE001
-                col.fail += 1
-                traceback.print_exc()
-                note(f"    id={sid} 异常，继续")
+                    if not args.ids_only:
+                        for s in batch:
+                            sid = s["id"]
+                            try:
+                                eps = col.fetch_episodes(sid)
+                                if eps:
+                                    append_jsonl(
+                                        ep_path,
+                                        [{"subject_id": sid,
+                                          "episodes": eps}],
+                                    )
+                                    total_eps += len(eps)
+                                if args.with_relations:
+                                    rels = col.fetch_relations(sid)
+                                    if rels:
+                                        append_jsonl(
+                                            rel_path,
+                                            [{"subject_id": sid,
+                                              "relations": rels}],
+                                        )
+                                        total_rel += len(rels)
+                            except Exception:  # noqa: BLE001
+                                fail += 1
+                                traceback.print_exc()
+
+                if offset >= total or offset >= 1000:
+                    break
+
+            el = (datetime.now(timezone.utc) - started).total_seconds()
+            rate = collected / el * 60 if el > 0 else 0
+            note(
+                f"  [{qi}/{len(qs)}] {label} total={quarter_total} "
+                f"累计 {collected} 部 | {rate:.1f} 部/分 "
+                f"| calls={col.calls}"
+            )
+
+            if args.limit and collected >= args.limit:
+                note(f"  已达 --limit {args.limit}，停止")
+                break
 
     # ---------- manifest ----------
     manifest = {
         "version": datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ"),
         "generated_at": datetime.now(timezone.utc).isoformat(),
+        "started_at": started.isoformat(),
         "shard": args.shard,
         "shards": args.shards,
-        "ids_total": len(ids),
-        "collected_ok": col.ok,
-        "collected_fail": col.fail,
+        "year_range": [args.year_from, args.year_to],
+        "subjects": ok,
+        "episodes": total_eps,
+        "relations": total_rel,
+        "fail": fail,
+        "api_calls": col.calls,
         "rate_limited": col.rate_limited,
         "files": sorted(p.name for p in OUT.glob("*.jsonl.gz")),
     }
@@ -322,13 +374,13 @@ def main() -> int:
     )
 
     note()
-    note("=" * 60)
-    note(f"完成：成功 {col.ok}，失败 {col.fail}，"
-         f"限流 {col.rate_limited}")
-    note(f"产出目录：{OUT}")
+    note("=" * 64)
+    note(f"完成：subject {ok} 部，剧集 {total_eps} 条，"
+         f"关联 {total_rel} 条，失败 {fail}")
+    note(f"API 调用 {col.calls} 次，限流 {col.rate_limited} 次")
     for p in sorted(OUT.glob("*.gz")):
-        note(f"  {p.name:36} {p.stat().st_size / 1024:.1f} KB")
-    note("=" * 60)
+        note(f"  {p.name:32} {p.stat().st_size / 1024:.1f} KB")
+    note("=" * 64)
 
     (OUT / f"log{suffix}.txt").write_text(
         "\n".join(log), encoding="utf-8"
