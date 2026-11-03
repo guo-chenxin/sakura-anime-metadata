@@ -1,0 +1,82 @@
+name: collect
+
+# Bangumi 元数据采集。
+#
+# 首次分两步：
+#   1. 手动跑 workflow，输入 limit=100，验证字段与产出格式
+#   2. 验证通过后，limit=0 跑全量（约 7 小时，可拆分片并行）
+#
+# 之后每天定时跑增量（按 last_updated 过滤，见 --incremental）。
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: '最多采多少部（0=全量）'
+        required: false
+        default: '100'
+      shard:
+        description: '分片号（0 起，全量时用）'
+        required: false
+        default: '0'
+      shards:
+        description: '总分片数（1=不分片）'
+        required: false
+        default: '1'
+  # 每日增量：全量跑完后启用
+  # schedule:
+  #   - cron: '0 19 * * *'   # UTC 19:00 = 北京 03:00
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350   # GitHub 单 job 上限 6 小时
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # 需要完整历史，方便 gz 文件增量追加后提交
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: pip install httpx
+
+      - name: 采集
+        env:
+          LIMIT: ${{ inputs.limit }}
+          SHARD: ${{ inputs.shard }}
+          SHARDS: ${{ inputs.shards }}
+        run: |
+          SHARD="${SHARD:-0}"
+          SHARDS="${SHARDS:-1}"
+          LIMIT="${LIMIT:-100}"
+          echo "shard ${SHARD}/${SHARDS}, limit=${LIMIT}"
+          if [ "$SHARDS" = "1" ]; then
+            python collect.py --limit "$LIMIT"
+          else
+            python collect.py --shard "$SHARD" --shards "$SHARDS" --limit "$LIMIT"
+          fi
+
+      - name: 提交结果
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "collect: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push || true
+
+      - name: 上传产出
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bangumi-data
+          path: data/
+          retention-days: 30
