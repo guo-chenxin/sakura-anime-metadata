@@ -2,11 +2,7 @@ __pycache__/
 *.pyc
 *.pyo
 
-# 探测产物不进仓库
-probe/
-probe_ids/
-analysis.txt
-
-# 注意：data/*.jsonl.gz **不能**忽略。
+# 说明：data/ 与 probe_ids/ 里的产物**必须**能提交。
 # 采集要跨 job 传递（分片并行）、也要提交到仓库给服务器拉取，
-# 忽略掉会导致每次 job 都从零开始，且服务器拿不到数据。
+# 探测报告同理（本地读不到 Bangumi，只能靠 Actions 回传）。
+# 所以这里只挡 Python 缓存，不挡数据。
