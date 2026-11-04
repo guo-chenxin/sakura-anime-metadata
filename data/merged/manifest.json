@@ -1,0 +1,20 @@
+{
+  "subjects": 21702,
+  "episodes": 291830,
+  "episode_groups": 20166,
+  "duplicates_dropped": 22984,
+  "quarters_expected": 188,
+  "quarters_covered": 188,
+  "quarters_missing": [],
+  "no_date_entries": 32,
+  "sources": {
+    "git-s0": 2873,
+    "bangumi-shard-7": 2802,
+    "bangumi-shard-3": 2787,
+    "bangumi-shard-2": 2755,
+    "bangumi-shard-6": 2710,
+    "bangumi-shard-1": 2638,
+    "bangumi-shard-4": 2636,
+    "bangumi-shard-5": 2501
+  }
+}
