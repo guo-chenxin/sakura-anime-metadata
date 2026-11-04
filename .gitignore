@@ -6,3 +6,5 @@ __pycache__/
 # 采集要跨 job 传递（分片并行）、也要提交到仓库给服务器拉取，
 # 探测报告同理（本地读不到 Bangumi，只能靠 Actions 回传）。
 # 所以这里只挡 Python 缓存，不挡数据。
+artifacts/
+data/merged/*.tmp

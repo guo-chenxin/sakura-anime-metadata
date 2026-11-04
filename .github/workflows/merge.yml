@@ -1,0 +1,59 @@
+name: merge
+
+# 合并 8 个采集分片的 artifact 成单一数据集。
+#
+# 为什么在 Actions 里跑：artifact 下载需要认证（无 token 返回 401），
+# 本地拿不到。Actions 里的 GITHUB_TOKEN 天然有权限。
+#
+# 触发时机：8 个 collect 分片全部完成后，手动点一次。
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: pip install httpx
+
+      - name: 合并分片
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python merge.py
+
+      - name: 上传合并结果
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bangumi-merged
+          path: data/merged/
+          retention-days: 90
+
+      - name: 提交合并结果
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f data/merged/
+          git diff --staged --quiet || \
+            git commit -m "merge: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          for i in 1 2 3; do
+            git pull --rebase --autostash || true
+            if git push; then break; fi
+            sleep 5
+          done
