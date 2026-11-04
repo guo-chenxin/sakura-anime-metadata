@@ -1,0 +1,80 @@
+name: fetch-covers
+
+# 批量下载 Bangumi 封面图。
+#
+# 为什么必须在 Actions 里跑：
+#   lain.bgm.tv 在本地网络完全不可达（原图/r200/r400/r800 全 ConnectTimeout，
+#   连 wsrv.nl / ghfast 这类图片代理也连不上）。runner 在海外可直连。
+#
+# 产出：
+#   covers/{bgm_id}.jpg      21421 张（common 尺寸约 860 MB）
+#   covers/_manifest.json    成功/失败清单
+#
+# 下载完成后用 artifact 回传，本地脚本再写入 MinIO。
+# 分片并行：--shard N --shards M，避免单个 job 跑太久（6 小时上限）。
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: '最多下载多少张（0=全部）'
+        required: false
+        default: '0'
+      size:
+        description: '尺寸：large / common / medium'
+        required: false
+        default: 'common'
+      shard:
+        description: '分片号（0 起）'
+        required: false
+        default: '0'
+      shards:
+        description: '总分片数（1=不分片）'
+        required: false
+        default: '1'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: pip install httpx
+
+      - name: 下载封面
+        run: |
+          LIMIT="${{ inputs.limit }}"
+          SIZE="${{ inputs.size }}"
+          SHARD="${{ inputs.shard }}"
+          SHARDS="${{ inputs.shards }}"
+          LIMIT="${LIMIT:-0}"
+          SIZE="${SIZE:-common}"
+          SHARD="${SHARD:-0}"
+          SHARDS="${SHARDS:-1}"
+
+          ARGS="--limit $LIMIT --size $SIZE"
+          if [ "$SHARDS" != "1" ]; then
+            ARGS="$ARGS --shard $SHARD --shards $SHARDS"
+          fi
+          echo "参数: $ARGS"
+          python fetch_covers.py $ARGS
+
+      - name: 上传封面
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bangumi-covers-${{ inputs.shard }}-of-${{ inputs.shards }}
+          path: covers/
+          retention-days: 30

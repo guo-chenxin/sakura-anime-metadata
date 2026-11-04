@@ -8,3 +8,4 @@ __pycache__/
 # 所以这里只挡 Python 缓存，不挡数据。
 artifacts/
 data/merged/*.tmp
+covers/
