@@ -1,0 +1,52 @@
+name: probe-bgmdata
+
+# 验证 bangumi-data 能否在 Actions 拉到。
+#
+# 背景：本地 7 条途径全部失败（raw 域名被墙、GitHub 上是 submodule、
+# npm 包里没有季度数据、各 CDN 也不通）。runner 在海外应能直连。
+#
+# 要确认三件事：
+# 1. 哪条 URL 可用
+# 2. bangumi 字段是否存 Bangumi subject id（能免标题匹配）
+# 3. broadcast 字段（ISO 8601 周期）的覆盖率与格式
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: pip install httpx
+
+      - name: 探测 bangumi-data
+        run: python probe_bgmdata.py
+
+      - name: 上传结果
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bgmdata-probe
+          path: bgmdata/
+          retention-days: 14
+
+      - name: 提交结果
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f bgmdata/
+          git diff --staged --quiet || git commit -m "probe-bgmdata: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
