@@ -1,0 +1,50 @@
+==========================================================================
+raw.githubusercontent (master)
+  https://raw.githubusercontent.com/bangumi-data/bangumi-data/master/data/items/2025.json
+  HTTP 404  14 bytes
+  内容不符合预期: 404: Not Found
+
+==========================================================================
+raw.githubusercontent (gh-pages)
+  https://raw.githubusercontent.com/bangumi-data/bangumi-data/gh-pages/data/items/2025.json
+  HTTP 404  14 bytes
+  内容不符合预期: 404: Not Found
+
+==========================================================================
+jsDelivr gh
+  https://cdn.jsdelivr.net/gh/bangumi-data/bangumi-data@master/data/items/2025.json
+  HTTP 404  84 bytes
+  内容不符合预期: Couldn't find the requested file /data/items/2025.json in bangumi-data/bangumi-data.
+
+==========================================================================
+jsDelivr npm
+  https://cdn.jsdelivr.net/npm/bangumi-data@latest/data/items/2025.json
+  HTTP 404  71 bytes
+  内容不符合预期: Couldn't find the requested file /data/items/2025.json in bangumi-data.
+
+==========================================================================
+unpkg
+  https://unpkg.com/bangumi-data@latest/data/items/2025.json
+  HTTP 404  53 bytes
+  内容不符合预期: Not found: /bangumi-data@0.3.234/data/items/2025.json
+
+==========================================================================
+github.com 直接下载
+  https://github.com/bangumi-data/bangumi-data/raw/master/data/items/2025.json
+  HTTP 404  230857 bytes
+  内容不符合预期: 
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html
+  lang="en"
+  
+  data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"
+  
+
+所有方式都失败
