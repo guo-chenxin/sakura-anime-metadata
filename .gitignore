@@ -10,3 +10,5 @@ artifacts/
 data/merged/*.tmp
 covers/
 bgmdata/
+data/broadcast.json
+data/broadcast_log.txt

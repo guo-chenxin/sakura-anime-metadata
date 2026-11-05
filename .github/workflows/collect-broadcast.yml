@@ -1,0 +1,61 @@
+name: collect-broadcast
+
+# 采集 bangumi-data 的广播周期，供计算每集精确播出时刻。
+#
+# 数据在 GitHub 上是 data/items/{year}/{month}.json 的目录结构
+# （不是单文件），必须走 Git Trees + Blobs API 逐月拉。
+#
+# 关键：Bangumi subject id 在 sites 数组里（{"site":"bangumi","id":"454684"}），
+# 可直接对上数据库的 anime.bgm_id，**不需要标题匹配**。
+#
+# broadcast 覆盖实测 92%（57/62），格式 R/2025-01-02T14:00:00.000Z/P7D。
+
+on:
+  workflow_dispatch:
+  # 每周更新一次即可——新番档期不会有日内变化
+  schedule:
+    - cron: '0 20 * * 0'   # 每周日 UTC 20:00 = 北京周一 04:00
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: pip install httpx
+
+      - name: 采集广播周期
+        run: python collect_broadcast.py
+
+      - name: 上传结果
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: broadcast-data
+          path: data/
+          retention-days: 30
+
+      - name: 提交结果
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f data/broadcast.json data/broadcast_log.txt
+          git diff --staged --quiet || git commit -m "broadcast: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          for i in 1 2 3; do
+            git pull --rebase --autostash || true
+            if git push; then break; fi
+            sleep 5
+          done
